@@ -1,3 +1,17 @@
+
+export function mapTweetDataToTweet(tweetData: any) {
+  return {
+    id: tweetData.id_str,
+    text: tweetData.text,
+    userName: tweetData.user.name,
+    userScreenName: tweetData.user.screen_name,
+    userImageUrl: tweetData.user.profile_image_url_https,
+    retweetCount: tweetData.retweet_count,
+    favoriteCount: tweetData.favorite_count,
+    createdAt: tweetData.created_at,
+  };
+}
+
 export type TweetResponse = {
   statuses: {
     created_at: string;

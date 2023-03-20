@@ -4,7 +4,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 
-url: str = f"https://api.twitter.com/1.1/search/tweets.json?q=love%20arc%20browser&result_type=recent&count=100"
+url: str = f"https://api.twitter.com/1.1/search/tweets.json?q=arc%20browser&result_type=recent&count=100"
 
 headers: dict = {
     "Authorization": f'Bearer {os.environ["TWEET_BEARER_TOKEN"]}',
