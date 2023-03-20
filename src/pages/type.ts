@@ -120,4 +120,6 @@ export type TweetData = {
   userName: string;
   userScreenName: string;
   userImageUrl: string;
+  retweetCount: number;
+  favoriteCount: number;
 };
