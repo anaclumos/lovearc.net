@@ -7,9 +7,9 @@ export default async function handler(
   try {
     const { q } = req.query
 
-    const response = await fetch(`https://api.twitter.com/1.1/search/tweets.json?q=${q}&count=100`, {
+    const response = await fetch(`https://api.twitter.com/1.1/search/tweets.json?q=${q}`, {
       headers: {
-        'Authorization': `Bearer ${process.env.TWITTER_BEARER_TOKEN}`,
+        'Authorization': `Bearer ${process.env.TWEET_BEARER_TOKEN}`,
       },
     })
 
