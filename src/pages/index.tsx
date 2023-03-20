@@ -1,11 +1,30 @@
 import { mapTweetDataToTweet, TweetData } from '../type';
 import Image from 'next/image';
+import Head from 'next/head'
 
 export default function Home() {
   const data = require('../../twitter.json');
   let tweets = data?.statuses.map(mapTweetDataToTweet) || [];
   return (
     <div>
+      <Head>
+        <title>We Love Arc</title>
+        <meta name="description" content="We Love Arc" />
+        <link rel="icon" href="/favicon.ico" />
+        <meta property="og:image" content="/lovearc.png" />
+        <meta property="og:image:width" content="1200" />
+        <meta property="og:image:height" content="630" />
+        <meta property="og:image:alt" content="We Love Arc" />
+        <meta property="og:title" content="We Love Arc" />
+        <meta property="og:description" content="We Love Arc" />
+        <meta property="og:url" content="https://lovearc.net" />
+        <meta property="og:type" content="website" />
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:title" content="We Love Arc" />
+        <meta name="twitter:description" content="We Love Arc" />
+        <meta name="twitter:image" content="/lovearc.png" />
+        <meta name="twitter:image:alt" content="We Love Arc" />
+      </Head>
       <div className="grid w-full h-96" style={{ backgroundImage: 'url(/noise.png)', backgroundAttachment: 'fixed', backgroundColor: '#fca39f' }}
       >
         <Image
