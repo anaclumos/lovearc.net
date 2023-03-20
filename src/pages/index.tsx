@@ -27,7 +27,7 @@ export default function Home() {
               <div className="flex justify-between">
                 <div className="flex items-center">
                   <Image
-                    src={`/api/imageProxy?imageUrl=${encodeURIComponent(tweet.userImageUrl)}`}
+                    src={tweet.userImageUrl}
                     alt="User profile"
                     className="w-8 h-8 rounded-full mr-2"
                     width={32}
