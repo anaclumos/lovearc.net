@@ -1,824 +1,6 @@
 {
     "statuses": [
         {
-            "created_at": "Mon Mar 20 01:22:34 +0000 2023",
-            "id": 1637625646871646208,
-            "id_str": "1637625646871646208",
-            "text": "ada yang berminat coba browser Arc? https://t.co/g6JJfWUpER",
-            "truncated": false,
-            "entities": {
-                "hashtags": [],
-                "symbols": [],
-                "user_mentions": [],
-                "urls": [],
-                "media": [
-                    {
-                        "id": 1637625613673717762,
-                        "id_str": "1637625613673717762",
-                        "indices": [
-                            36,
-                            59
-                        ],
-                        "media_url": "http://pbs.twimg.com/media/FroD0bIaYAIMoUb.png",
-                        "media_url_https": "https://pbs.twimg.com/media/FroD0bIaYAIMoUb.png",
-                        "url": "https://t.co/g6JJfWUpER",
-                        "display_url": "pic.twitter.com/g6JJfWUpER",
-                        "expanded_url": "https://twitter.com/ggnwd/status/1637625646871646208/photo/1",
-                        "type": "photo",
-                        "sizes": {
-                            "small": {
-                                "w": 453,
-                                "h": 423,
-                                "resize": "fit"
-                            },
-                            "medium": {
-                                "w": 453,
-                                "h": 423,
-                                "resize": "fit"
-                            },
-                            "large": {
-                                "w": 453,
-                                "h": 423,
-                                "resize": "fit"
-                            },
-                            "thumb": {
-                                "w": 150,
-                                "h": 150,
-                                "resize": "crop"
-                            }
-                        }
-                    }
-                ]
-            },
-            "extended_entities": {
-                "media": [
-                    {
-                        "id": 1637625613673717762,
-                        "id_str": "1637625613673717762",
-                        "indices": [
-                            36,
-                            59
-                        ],
-                        "media_url": "http://pbs.twimg.com/media/FroD0bIaYAIMoUb.png",
-                        "media_url_https": "https://pbs.twimg.com/media/FroD0bIaYAIMoUb.png",
-                        "url": "https://t.co/g6JJfWUpER",
-                        "display_url": "pic.twitter.com/g6JJfWUpER",
-                        "expanded_url": "https://twitter.com/ggnwd/status/1637625646871646208/photo/1",
-                        "type": "photo",
-                        "sizes": {
-                            "small": {
-                                "w": 453,
-                                "h": 423,
-                                "resize": "fit"
-                            },
-                            "medium": {
-                                "w": 453,
-                                "h": 423,
-                                "resize": "fit"
-                            },
-                            "large": {
-                                "w": 453,
-                                "h": 423,
-                                "resize": "fit"
-                            },
-                            "thumb": {
-                                "w": 150,
-                                "h": 150,
-                                "resize": "crop"
-                            }
-                        }
-                    }
-                ]
-            },
-            "metadata": {
-                "iso_language_code": "in",
-                "result_type": "recent"
-            },
-            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-            "in_reply_to_status_id": null,
-            "in_reply_to_status_id_str": null,
-            "in_reply_to_user_id": null,
-            "in_reply_to_user_id_str": null,
-            "in_reply_to_screen_name": null,
-            "user": {
-                "id": 71475152,
-                "id_str": "71475152",
-                "name": "\u00b6",
-                "screen_name": "ggnwd",
-                "location": "KL",
-                "description": "Impossible we do, miracle we try.",
-                "url": null,
-                "entities": {
-                    "description": {
-                        "urls": []
-                    }
-                },
-                "protected": false,
-                "followers_count": 557,
-                "friends_count": 587,
-                "listed_count": 1,
-                "created_at": "Fri Sep 04 06:50:45 +0000 2009",
-                "favourites_count": 3538,
-                "utc_offset": null,
-                "time_zone": null,
-                "geo_enabled": true,
-                "verified": false,
-                "statuses_count": 31521,
-                "lang": null,
-                "contributors_enabled": false,
-                "is_translator": false,
-                "is_translation_enabled": false,
-                "profile_background_color": "642D8B",
-                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
-                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
-                "profile_background_tile": false,
-                "profile_image_url": "http://pbs.twimg.com/profile_images/1620707750476124160/r1p6Papr_normal.jpg",
-                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1620707750476124160/r1p6Papr_normal.jpg",
-                "profile_banner_url": "https://pbs.twimg.com/profile_banners/71475152/1541738873",
-                "profile_link_color": "BBFF00",
-                "profile_sidebar_border_color": "000000",
-                "profile_sidebar_fill_color": "000000",
-                "profile_text_color": "A7FA0D",
-                "profile_use_background_image": true,
-                "has_extended_profile": true,
-                "default_profile": false,
-                "default_profile_image": false,
-                "following": null,
-                "follow_request_sent": null,
-                "notifications": null,
-                "translator_type": "none",
-                "withheld_in_countries": []
-            },
-            "geo": null,
-            "coordinates": null,
-            "place": null,
-            "contributors": null,
-            "is_quote_status": false,
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "favorited": false,
-            "retweeted": false,
-            "possibly_sensitive": false,
-            "lang": "in"
-        },
-        {
-            "created_at": "Mon Mar 20 01:00:09 +0000 2023",
-            "id": 1637620004140240896,
-            "id_str": "1637620004140240896",
-            "text": "RT @ozanoz: 5 Arc browser invites, first come, first served.\n\nhttps://t.co/g1FT8uKoO3",
-            "truncated": false,
-            "entities": {
-                "hashtags": [],
-                "symbols": [],
-                "user_mentions": [
-                    {
-                        "screen_name": "ozanoz",
-                        "name": "Ozan \u00d6ztaskiran",
-                        "id": 27743941,
-                        "id_str": "27743941",
-                        "indices": [
-                            3,
-                            10
-                        ]
-                    }
-                ],
-                "urls": [
-                    {
-                        "url": "https://t.co/g1FT8uKoO3",
-                        "expanded_url": "https://arc.net/gift/86098a34",
-                        "display_url": "arc.net/gift/86098a34",
-                        "indices": [
-                            62,
-                            85
-                        ]
-                    }
-                ]
-            },
-            "metadata": {
-                "iso_language_code": "en",
-                "result_type": "recent"
-            },
-            "source": "<a href=\"https://typefully.com/\" rel=\"nofollow\">Typefully</a>",
-            "in_reply_to_status_id": null,
-            "in_reply_to_status_id_str": null,
-            "in_reply_to_user_id": null,
-            "in_reply_to_user_id_str": null,
-            "in_reply_to_screen_name": null,
-            "user": {
-                "id": 27743941,
-                "id_str": "27743941",
-                "name": "Ozan \u00d6ztaskiran",
-                "screen_name": "ozanoz",
-                "location": "Stockholm, Sweden",
-                "description": "\u2726 Experienced Designer \u2726 Mentoring on https://t.co/WGS5XANspA \u2726 Sharing product design related tips and resources\u23af#TheGoodStuff, things I learn, and things I like.",
-                "url": "https://t.co/82z7hxM3cC",
-                "entities": {
-                    "url": {
-                        "urls": [
-                            {
-                                "url": "https://t.co/82z7hxM3cC",
-                                "expanded_url": "https://bento.me/ozanoz",
-                                "display_url": "bento.me/ozanoz",
-                                "indices": [
-                                    0,
-                                    23
-                                ]
-                            }
-                        ]
-                    },
-                    "description": {
-                        "urls": [
-                            {
-                                "url": "https://t.co/WGS5XANspA",
-                                "expanded_url": "http://ADPList.org",
-                                "display_url": "ADPList.org",
-                                "indices": [
-                                    38,
-                                    61
-                                ]
-                            }
-                        ]
-                    }
-                },
-                "protected": false,
-                "followers_count": 2118,
-                "friends_count": 660,
-                "listed_count": 55,
-                "created_at": "Mon Mar 30 22:15:34 +0000 2009",
-                "favourites_count": 19776,
-                "utc_offset": null,
-                "time_zone": null,
-                "geo_enabled": true,
-                "verified": false,
-                "statuses_count": 10376,
-                "lang": null,
-                "contributors_enabled": false,
-                "is_translator": false,
-                "is_translation_enabled": false,
-                "profile_background_color": "C0DEED",
-                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-                "profile_background_tile": false,
-                "profile_image_url": "http://pbs.twimg.com/profile_images/1625793895807307781/8u7PXH9-_normal.jpg",
-                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1625793895807307781/8u7PXH9-_normal.jpg",
-                "profile_banner_url": "https://pbs.twimg.com/profile_banners/27743941/1666735458",
-                "profile_link_color": "7192ED",
-                "profile_sidebar_border_color": "000000",
-                "profile_sidebar_fill_color": "FFB700",
-                "profile_text_color": "5C3A00",
-                "profile_use_background_image": true,
-                "has_extended_profile": true,
-                "default_profile": false,
-                "default_profile_image": false,
-                "following": null,
-                "follow_request_sent": null,
-                "notifications": null,
-                "translator_type": "none",
-                "withheld_in_countries": []
-            },
-            "geo": null,
-            "coordinates": null,
-            "place": null,
-            "contributors": null,
-            "retweeted_status": {
-                "created_at": "Sun Mar 19 13:00:01 +0000 2023",
-                "id": 1637438776648830979,
-                "id_str": "1637438776648830979",
-                "text": "5 Arc browser invites, first come, first served.\n\nhttps://t.co/g1FT8uKoO3",
-                "truncated": false,
-                "entities": {
-                    "hashtags": [],
-                    "symbols": [],
-                    "user_mentions": [],
-                    "urls": [
-                        {
-                            "url": "https://t.co/g1FT8uKoO3",
-                            "expanded_url": "https://arc.net/gift/86098a34",
-                            "display_url": "arc.net/gift/86098a34",
-                            "indices": [
-                                50,
-                                73
-                            ]
-                        }
-                    ]
-                },
-                "metadata": {
-                    "iso_language_code": "en",
-                    "result_type": "recent"
-                },
-                "source": "<a href=\"https://typefully.com/\" rel=\"nofollow\">Typefully</a>",
-                "in_reply_to_status_id": null,
-                "in_reply_to_status_id_str": null,
-                "in_reply_to_user_id": null,
-                "in_reply_to_user_id_str": null,
-                "in_reply_to_screen_name": null,
-                "user": {
-                    "id": 27743941,
-                    "id_str": "27743941",
-                    "name": "Ozan \u00d6ztaskiran",
-                    "screen_name": "ozanoz",
-                    "location": "Stockholm, Sweden",
-                    "description": "\u2726 Experienced Designer \u2726 Mentoring on https://t.co/WGS5XANspA \u2726 Sharing product design related tips and resources\u23af#TheGoodStuff, things I learn, and things I like.",
-                    "url": "https://t.co/82z7hxM3cC",
-                    "entities": {
-                        "url": {
-                            "urls": [
-                                {
-                                    "url": "https://t.co/82z7hxM3cC",
-                                    "expanded_url": "https://bento.me/ozanoz",
-                                    "display_url": "bento.me/ozanoz",
-                                    "indices": [
-                                        0,
-                                        23
-                                    ]
-                                }
-                            ]
-                        },
-                        "description": {
-                            "urls": [
-                                {
-                                    "url": "https://t.co/WGS5XANspA",
-                                    "expanded_url": "http://ADPList.org",
-                                    "display_url": "ADPList.org",
-                                    "indices": [
-                                        38,
-                                        61
-                                    ]
-                                }
-                            ]
-                        }
-                    },
-                    "protected": false,
-                    "followers_count": 2118,
-                    "friends_count": 660,
-                    "listed_count": 55,
-                    "created_at": "Mon Mar 30 22:15:34 +0000 2009",
-                    "favourites_count": 19776,
-                    "utc_offset": null,
-                    "time_zone": null,
-                    "geo_enabled": true,
-                    "verified": false,
-                    "statuses_count": 10376,
-                    "lang": null,
-                    "contributors_enabled": false,
-                    "is_translator": false,
-                    "is_translation_enabled": false,
-                    "profile_background_color": "C0DEED",
-                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-                    "profile_background_tile": false,
-                    "profile_image_url": "http://pbs.twimg.com/profile_images/1625793895807307781/8u7PXH9-_normal.jpg",
-                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1625793895807307781/8u7PXH9-_normal.jpg",
-                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/27743941/1666735458",
-                    "profile_link_color": "7192ED",
-                    "profile_sidebar_border_color": "000000",
-                    "profile_sidebar_fill_color": "FFB700",
-                    "profile_text_color": "5C3A00",
-                    "profile_use_background_image": true,
-                    "has_extended_profile": true,
-                    "default_profile": false,
-                    "default_profile_image": false,
-                    "following": null,
-                    "follow_request_sent": null,
-                    "notifications": null,
-                    "translator_type": "none",
-                    "withheld_in_countries": []
-                },
-                "geo": null,
-                "coordinates": null,
-                "place": null,
-                "contributors": null,
-                "is_quote_status": false,
-                "retweet_count": 1,
-                "favorite_count": 6,
-                "favorited": false,
-                "retweeted": false,
-                "possibly_sensitive": false,
-                "lang": "en"
-            },
-            "is_quote_status": false,
-            "retweet_count": 1,
-            "favorite_count": 0,
-            "favorited": false,
-            "retweeted": false,
-            "possibly_sensitive": false,
-            "lang": "en"
-        },
-        {
-            "created_at": "Mon Mar 20 00:52:20 +0000 2023",
-            "id": 1637618038424969216,
-            "id_str": "1637618038424969216",
-            "text": "RT @hodlerfreddy: I'm looking for a fucking flaw in #arc but I can't find it. This is the best #browser ever. @browsercompany",
-            "truncated": false,
-            "entities": {
-                "hashtags": [
-                    {
-                        "text": "arc",
-                        "indices": [
-                            52,
-                            56
-                        ]
-                    },
-                    {
-                        "text": "browser",
-                        "indices": [
-                            95,
-                            103
-                        ]
-                    }
-                ],
-                "symbols": [],
-                "user_mentions": [
-                    {
-                        "screen_name": "hodlerfreddy",
-                        "name": "Cristian Fresolone",
-                        "id": 1225851652927893507,
-                        "id_str": "1225851652927893507",
-                        "indices": [
-                            3,
-                            16
-                        ]
-                    },
-                    {
-                        "screen_name": "browsercompany",
-                        "name": "The Browser Company",
-                        "id": 1224730221557043202,
-                        "id_str": "1224730221557043202",
-                        "indices": [
-                            110,
-                            125
-                        ]
-                    }
-                ],
-                "urls": []
-            },
-            "metadata": {
-                "iso_language_code": "en",
-                "result_type": "recent"
-            },
-            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-            "in_reply_to_status_id": null,
-            "in_reply_to_status_id_str": null,
-            "in_reply_to_user_id": null,
-            "in_reply_to_user_id_str": null,
-            "in_reply_to_screen_name": null,
-            "user": {
-                "id": 1579386303648391168,
-                "id_str": "1579386303648391168",
-                "name": "Jane Kayleigh \ud83c\udf52",
-                "screen_name": "Jane_Kayleigh23",
-                "location": "",
-                "description": "Sh\u0443 girl \ud83c\udf52\ud83d\ude1c\u2665",
-                "url": null,
-                "entities": {
-                    "description": {
-                        "urls": []
-                    }
-                },
-                "protected": false,
-                "followers_count": 6,
-                "friends_count": 293,
-                "listed_count": 0,
-                "created_at": "Mon Oct 10 08:20:18 +0000 2022",
-                "favourites_count": 507,
-                "utc_offset": null,
-                "time_zone": null,
-                "geo_enabled": false,
-                "verified": false,
-                "statuses_count": 547,
-                "lang": null,
-                "contributors_enabled": false,
-                "is_translator": false,
-                "is_translation_enabled": false,
-                "profile_background_color": "F5F8FA",
-                "profile_background_image_url": null,
-                "profile_background_image_url_https": null,
-                "profile_background_tile": false,
-                "profile_image_url": "http://pbs.twimg.com/profile_images/1629599172310466561/zM0QG3C8_normal.jpg",
-                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1629599172310466561/zM0QG3C8_normal.jpg",
-                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1579386303648391168/1677421300",
-                "profile_link_color": "1DA1F2",
-                "profile_sidebar_border_color": "C0DEED",
-                "profile_sidebar_fill_color": "DDEEF6",
-                "profile_text_color": "333333",
-                "profile_use_background_image": true,
-                "has_extended_profile": true,
-                "default_profile": true,
-                "default_profile_image": false,
-                "following": null,
-                "follow_request_sent": null,
-                "notifications": null,
-                "translator_type": "none",
-                "withheld_in_countries": []
-            },
-            "geo": null,
-            "coordinates": null,
-            "place": null,
-            "contributors": null,
-            "retweeted_status": {
-                "created_at": "Fri Mar 03 21:04:10 +0000 2023",
-                "id": 1631762412524261378,
-                "id_str": "1631762412524261378",
-                "text": "I'm looking for a fucking flaw in #arc but I can't find it. This is the best #browser ever. @browsercompany",
-                "truncated": false,
-                "entities": {
-                    "hashtags": [
-                        {
-                            "text": "arc",
-                            "indices": [
-                                34,
-                                38
-                            ]
-                        },
-                        {
-                            "text": "browser",
-                            "indices": [
-                                77,
-                                85
-                            ]
-                        }
-                    ],
-                    "symbols": [],
-                    "user_mentions": [
-                        {
-                            "screen_name": "browsercompany",
-                            "name": "The Browser Company",
-                            "id": 1224730221557043202,
-                            "id_str": "1224730221557043202",
-                            "indices": [
-                                92,
-                                107
-                            ]
-                        }
-                    ],
-                    "urls": []
-                },
-                "metadata": {
-                    "iso_language_code": "en",
-                    "result_type": "recent"
-                },
-                "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-                "in_reply_to_status_id": null,
-                "in_reply_to_status_id_str": null,
-                "in_reply_to_user_id": null,
-                "in_reply_to_user_id_str": null,
-                "in_reply_to_screen_name": null,
-                "user": {
-                    "id": 1225851652927893507,
-                    "id_str": "1225851652927893507",
-                    "name": "Cristian Fresolone",
-                    "screen_name": "hodlerfreddy",
-                    "location": "",
-                    "description": "#bitcoin non #crypto",
-                    "url": null,
-                    "entities": {
-                        "description": {
-                            "urls": []
-                        }
-                    },
-                    "protected": false,
-                    "followers_count": 260,
-                    "friends_count": 41,
-                    "listed_count": 2,
-                    "created_at": "Fri Feb 07 18:40:32 +0000 2020",
-                    "favourites_count": 313,
-                    "utc_offset": null,
-                    "time_zone": null,
-                    "geo_enabled": false,
-                    "verified": false,
-                    "statuses_count": 561,
-                    "lang": null,
-                    "contributors_enabled": false,
-                    "is_translator": false,
-                    "is_translation_enabled": false,
-                    "profile_background_color": "F5F8FA",
-                    "profile_background_image_url": null,
-                    "profile_background_image_url_https": null,
-                    "profile_background_tile": false,
-                    "profile_image_url": "http://pbs.twimg.com/profile_images/1554833417111420930/9UKTEJEY_normal.jpg",
-                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1554833417111420930/9UKTEJEY_normal.jpg",
-                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1225851652927893507/1663071318",
-                    "profile_link_color": "1DA1F2",
-                    "profile_sidebar_border_color": "C0DEED",
-                    "profile_sidebar_fill_color": "DDEEF6",
-                    "profile_text_color": "333333",
-                    "profile_use_background_image": true,
-                    "has_extended_profile": false,
-                    "default_profile": true,
-                    "default_profile_image": false,
-                    "following": null,
-                    "follow_request_sent": null,
-                    "notifications": null,
-                    "translator_type": "none",
-                    "withheld_in_countries": []
-                },
-                "geo": null,
-                "coordinates": null,
-                "place": null,
-                "contributors": null,
-                "is_quote_status": false,
-                "retweet_count": 1,
-                "favorite_count": 0,
-                "favorited": false,
-                "retweeted": false,
-                "lang": "en"
-            },
-            "is_quote_status": false,
-            "retweet_count": 1,
-            "favorite_count": 0,
-            "favorited": false,
-            "retweeted": false,
-            "lang": "en"
-        },
-        {
-            "created_at": "Mon Mar 20 00:34:30 +0000 2023",
-            "id": 1637613552029818882,
-            "id_str": "1637613552029818882",
-            "text": "I want Urbit to *improve*, just as I want Twitter to, &amp; Arc Browser, &amp; Notion, &amp; Bardeen, &amp; Apple, &amp; Gmail, &amp; every\u2026 https://t.co/h9B5H2Z7qj",
-            "truncated": true,
-            "entities": {
-                "hashtags": [],
-                "symbols": [],
-                "user_mentions": [],
-                "urls": [
-                    {
-                        "url": "https://t.co/h9B5H2Z7qj",
-                        "expanded_url": "https://twitter.com/i/web/status/1637613552029818882",
-                        "display_url": "twitter.com/i/web/status/1\u2026",
-                        "indices": [
-                            141,
-                            164
-                        ]
-                    }
-                ]
-            },
-            "metadata": {
-                "iso_language_code": "en",
-                "result_type": "recent"
-            },
-            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-            "in_reply_to_status_id": null,
-            "in_reply_to_status_id_str": null,
-            "in_reply_to_user_id": null,
-            "in_reply_to_user_id_str": null,
-            "in_reply_to_screen_name": null,
-            "user": {
-                "id": 223891249,
-                "id_str": "223891249",
-                "name": "m-tron \u2728",
-                "screen_name": "m_tron99",
-                "location": "Alice Springs",
-                "description": "Spiritual Teacher & Mindset Coach \u2661 Former Victorian State Govt Whistleblower \u2661 Growth Analyst @ Milady Network \u2661 Author of NYT Bestseller \"Urbit Exposed\"",
-                "url": null,
-                "entities": {
-                    "description": {
-                        "urls": []
-                    }
-                },
-                "protected": false,
-                "followers_count": 1631,
-                "friends_count": 1523,
-                "listed_count": 22,
-                "created_at": "Tue Dec 07 16:20:20 +0000 2010",
-                "favourites_count": 36991,
-                "utc_offset": null,
-                "time_zone": null,
-                "geo_enabled": true,
-                "verified": false,
-                "statuses_count": 11485,
-                "lang": null,
-                "contributors_enabled": false,
-                "is_translator": false,
-                "is_translation_enabled": false,
-                "profile_background_color": "C0DEED",
-                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-                "profile_background_tile": false,
-                "profile_image_url": "http://pbs.twimg.com/profile_images/1618732216338776066/Pf9wXiLW_normal.jpg",
-                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1618732216338776066/Pf9wXiLW_normal.jpg",
-                "profile_banner_url": "https://pbs.twimg.com/profile_banners/223891249/1673128733",
-                "profile_link_color": "1DA1F2",
-                "profile_sidebar_border_color": "C0DEED",
-                "profile_sidebar_fill_color": "DDEEF6",
-                "profile_text_color": "333333",
-                "profile_use_background_image": true,
-                "has_extended_profile": true,
-                "default_profile": true,
-                "default_profile_image": false,
-                "following": null,
-                "follow_request_sent": null,
-                "notifications": null,
-                "translator_type": "none",
-                "withheld_in_countries": []
-            },
-            "geo": null,
-            "coordinates": null,
-            "place": null,
-            "contributors": null,
-            "is_quote_status": true,
-            "quoted_status_id": 1637611043923845120,
-            "quoted_status_id_str": "1637611043923845120",
-            "quoted_status": {
-                "created_at": "Mon Mar 20 00:24:32 +0000 2023",
-                "id": 1637611043923845120,
-                "id_str": "1637611043923845120",
-                "text": "@m_tron99 Serious question.  Why do you want urbit to grow?",
-                "truncated": false,
-                "entities": {
-                    "hashtags": [],
-                    "symbols": [],
-                    "user_mentions": [
-                        {
-                            "screen_name": "m_tron99",
-                            "name": "m-tron \u2728",
-                            "id": 223891249,
-                            "id_str": "223891249",
-                            "indices": [
-                                0,
-                                9
-                            ]
-                        }
-                    ],
-                    "urls": []
-                },
-                "metadata": {
-                    "iso_language_code": "en",
-                    "result_type": "recent"
-                },
-                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-                "in_reply_to_status_id": 1637594584829276162,
-                "in_reply_to_status_id_str": "1637594584829276162",
-                "in_reply_to_user_id": 223891249,
-                "in_reply_to_user_id_str": "223891249",
-                "in_reply_to_screen_name": "m_tron99",
-                "user": {
-                    "id": 1577986418768576517,
-                    "id_str": "1577986418768576517",
-                    "name": "GlueWear",
-                    "screen_name": "GlueWear",
-                    "location": "~disden-talhes",
-                    "description": "In partnership with the National association for Retarded Children. League of Extraordinary Nobodies. Steve Jobs killed my father.",
-                    "url": null,
-                    "entities": {
-                        "description": {
-                            "urls": []
-                        }
-                    },
-                    "protected": false,
-                    "followers_count": 248,
-                    "friends_count": 379,
-                    "listed_count": 0,
-                    "created_at": "Thu Oct 06 11:38:00 +0000 2022",
-                    "favourites_count": 5719,
-                    "utc_offset": null,
-                    "time_zone": null,
-                    "geo_enabled": false,
-                    "verified": false,
-                    "statuses_count": 5125,
-                    "lang": null,
-                    "contributors_enabled": false,
-                    "is_translator": false,
-                    "is_translation_enabled": false,
-                    "profile_background_color": "F5F8FA",
-                    "profile_background_image_url": null,
-                    "profile_background_image_url_https": null,
-                    "profile_background_tile": false,
-                    "profile_image_url": "http://pbs.twimg.com/profile_images/1627772591850115096/nAh6is_b_normal.jpg",
-                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1627772591850115096/nAh6is_b_normal.jpg",
-                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1577986418768576517/1672702655",
-                    "profile_link_color": "1DA1F2",
-                    "profile_sidebar_border_color": "C0DEED",
-                    "profile_sidebar_fill_color": "DDEEF6",
-                    "profile_text_color": "333333",
-                    "profile_use_background_image": true,
-                    "has_extended_profile": true,
-                    "default_profile": true,
-                    "default_profile_image": false,
-                    "following": null,
-                    "follow_request_sent": null,
-                    "notifications": null,
-                    "translator_type": "none",
-                    "withheld_in_countries": []
-                },
-                "geo": null,
-                "coordinates": null,
-                "place": null,
-                "contributors": null,
-                "is_quote_status": false,
-                "retweet_count": 0,
-                "favorite_count": 4,
-                "favorited": false,
-                "retweeted": false,
-                "lang": "en"
-            },
-            "retweet_count": 0,
-            "favorite_count": 11,
-            "favorited": false,
-            "retweeted": false,
-            "possibly_sensitive": false,
-            "lang": "en"
-        },
-        {
             "created_at": "Sun Mar 19 23:28:14 +0000 2023",
             "id": 1637596875426607104,
             "id_str": "1637596875426607104",
@@ -995,7 +177,7 @@
                 "friends_count": 1381,
                 "listed_count": 6,
                 "created_at": "Wed May 07 18:44:01 +0000 2008",
-                "favourites_count": 56171,
+                "favourites_count": 56173,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": true,
@@ -1136,7 +318,7 @@
                 "time_zone": null,
                 "geo_enabled": false,
                 "verified": false,
-                "statuses_count": 52574,
+                "statuses_count": 52578,
                 "lang": null,
                 "contributors_enabled": false,
                 "is_translator": false,
@@ -1453,7 +635,7 @@
                 },
                 "protected": false,
                 "followers_count": 66,
-                "friends_count": 3565,
+                "friends_count": 3564,
                 "listed_count": 0,
                 "created_at": "Tue Nov 30 13:39:19 +0000 2021",
                 "favourites_count": 412,
@@ -1549,11 +731,11 @@
                         }
                     },
                     "protected": false,
-                    "followers_count": 4636,
-                    "friends_count": 482,
+                    "followers_count": 4637,
+                    "friends_count": 481,
                     "listed_count": 11,
                     "created_at": "Wed Jul 28 05:44:10 +0000 2010",
-                    "favourites_count": 8801,
+                    "favourites_count": 8799,
                     "utc_offset": null,
                     "time_zone": null,
                     "geo_enabled": true,
@@ -1915,9 +1097,9 @@
                         }
                     },
                     "protected": false,
-                    "followers_count": 168860,
-                    "friends_count": 2143,
-                    "listed_count": 3586,
+                    "followers_count": 168858,
+                    "friends_count": 2144,
+                    "listed_count": 3589,
                     "created_at": "Sat Aug 04 18:00:51 +0000 2007",
                     "favourites_count": 42781,
                     "utc_offset": null,
@@ -2268,11 +1450,11 @@
                         }
                     },
                     "protected": false,
-                    "followers_count": 49031,
+                    "followers_count": 49030,
                     "friends_count": 551,
                     "listed_count": 199,
                     "created_at": "Sat Apr 21 23:22:59 +0000 2007",
-                    "favourites_count": 7424,
+                    "favourites_count": 7423,
                     "utc_offset": null,
                     "time_zone": null,
                     "geo_enabled": false,
@@ -2363,7 +1545,7 @@
                 "friends_count": 2334,
                 "listed_count": 22,
                 "created_at": "Tue Jun 30 13:16:19 +0000 2015",
-                "favourites_count": 20281,
+                "favourites_count": 20280,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": false,
@@ -3144,11 +2326,11 @@
                     }
                 },
                 "protected": false,
-                "followers_count": 3161,
+                "followers_count": 3163,
                 "friends_count": 1750,
                 "listed_count": 49,
                 "created_at": "Thu Feb 28 09:31:13 +0000 2019",
-                "favourites_count": 68956,
+                "favourites_count": 68954,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": true,
@@ -3548,7 +2730,7 @@
                 "friends_count": 150,
                 "listed_count": 0,
                 "created_at": "Tue Jun 19 11:33:29 +0000 2018",
-                "favourites_count": 5712,
+                "favourites_count": 5713,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": true,
@@ -3955,12 +3137,12 @@
                 "friends_count": 372,
                 "listed_count": 7,
                 "created_at": "Wed Oct 16 11:29:51 +0000 2019",
-                "favourites_count": 73499,
+                "favourites_count": 73501,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": true,
                 "verified": false,
-                "statuses_count": 21680,
+                "statuses_count": 21679,
                 "lang": null,
                 "contributors_enabled": false,
                 "is_translator": false,
@@ -4046,11 +3228,11 @@
                     }
                 },
                 "protected": false,
-                "followers_count": 10203,
-                "friends_count": 10897,
+                "followers_count": 10202,
+                "friends_count": 10891,
                 "listed_count": 5,
                 "created_at": "Sat Feb 25 17:54:22 +0000 2017",
-                "favourites_count": 58703,
+                "favourites_count": 58704,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": true,
@@ -4161,11 +3343,11 @@
                     }
                 },
                 "protected": false,
-                "followers_count": 2118,
+                "followers_count": 2117,
                 "friends_count": 660,
                 "listed_count": 55,
                 "created_at": "Mon Mar 30 22:15:34 +0000 2009",
-                "favourites_count": 19776,
+                "favourites_count": 19775,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": true,
@@ -4268,11 +3450,11 @@
                     }
                 },
                 "protected": false,
-                "followers_count": 108,
+                "followers_count": 110,
                 "friends_count": 370,
                 "listed_count": 2,
                 "created_at": "Wed Aug 02 22:57:27 +0000 2017",
-                "favourites_count": 11076,
+                "favourites_count": 11074,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": false,
@@ -4480,7 +3662,7 @@
                 "friends_count": 1153,
                 "listed_count": 17,
                 "created_at": "Sat May 16 12:49:17 +0000 2015",
-                "favourites_count": 134084,
+                "favourites_count": 134082,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": true,
@@ -4794,11 +3976,11 @@
                         }
                     },
                     "protected": false,
-                    "followers_count": 4636,
-                    "friends_count": 482,
+                    "followers_count": 4637,
+                    "friends_count": 481,
                     "listed_count": 11,
                     "created_at": "Wed Jul 28 05:44:10 +0000 2010",
-                    "favourites_count": 8801,
+                    "favourites_count": 8799,
                     "utc_offset": null,
                     "time_zone": null,
                     "geo_enabled": true,
@@ -5099,11 +4281,11 @@
                         }
                     },
                     "protected": false,
-                    "followers_count": 4636,
-                    "friends_count": 482,
+                    "followers_count": 4637,
+                    "friends_count": 481,
                     "listed_count": 11,
                     "created_at": "Wed Jul 28 05:44:10 +0000 2010",
-                    "favourites_count": 8801,
+                    "favourites_count": 8799,
                     "utc_offset": null,
                     "time_zone": null,
                     "geo_enabled": true,
@@ -5239,7 +4421,7 @@
             "contributors": null,
             "is_quote_status": false,
             "retweet_count": 0,
-            "favorite_count": 7,
+            "favorite_count": 6,
             "favorited": false,
             "retweeted": false,
             "possibly_sensitive": false,
@@ -5509,11 +4691,11 @@
                         }
                     },
                     "protected": false,
-                    "followers_count": 4636,
-                    "friends_count": 482,
+                    "followers_count": 4637,
+                    "friends_count": 481,
                     "listed_count": 11,
                     "created_at": "Wed Jul 28 05:44:10 +0000 2010",
-                    "favourites_count": 8801,
+                    "favourites_count": 8799,
                     "utc_offset": null,
                     "time_zone": null,
                     "geo_enabled": true,
@@ -5611,7 +4793,7 @@
                 "protected": false,
                 "followers_count": 6,
                 "friends_count": 81,
-                "listed_count": 0,
+                "listed_count": 1,
                 "created_at": "Tue Aug 23 04:44:03 +0000 2022",
                 "favourites_count": 2414,
                 "utc_offset": null,
@@ -5798,11 +4980,11 @@
                         }
                     },
                     "protected": false,
-                    "followers_count": 4636,
-                    "friends_count": 482,
+                    "followers_count": 4637,
+                    "friends_count": 481,
                     "listed_count": 11,
                     "created_at": "Wed Jul 28 05:44:10 +0000 2010",
-                    "favourites_count": 8801,
+                    "favourites_count": 8799,
                     "utc_offset": null,
                     "time_zone": null,
                     "geo_enabled": true,
@@ -5900,10 +5082,10 @@
                 },
                 "protected": false,
                 "followers_count": 101,
-                "friends_count": 1359,
+                "friends_count": 1360,
                 "listed_count": 0,
                 "created_at": "Sun Dec 03 14:03:39 +0000 2017",
-                "favourites_count": 113870,
+                "favourites_count": 113872,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": true,
@@ -5997,11 +5179,11 @@
                         }
                     },
                     "protected": false,
-                    "followers_count": 4636,
-                    "friends_count": 482,
+                    "followers_count": 4637,
+                    "friends_count": 481,
                     "listed_count": 11,
                     "created_at": "Wed Jul 28 05:44:10 +0000 2010",
-                    "favourites_count": 8801,
+                    "favourites_count": 8799,
                     "utc_offset": null,
                     "time_zone": null,
                     "geo_enabled": true,
@@ -6110,11 +5292,11 @@
                     }
                 },
                 "protected": false,
-                "followers_count": 4636,
-                "friends_count": 482,
+                "followers_count": 4637,
+                "friends_count": 481,
                 "listed_count": 11,
                 "created_at": "Wed Jul 28 05:44:10 +0000 2010",
-                "favourites_count": 8801,
+                "favourites_count": 8799,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": true,
@@ -6288,7 +5470,7 @@
                     }
                 },
                 "protected": false,
-                "followers_count": 1985,
+                "followers_count": 1987,
                 "friends_count": 566,
                 "listed_count": 5,
                 "created_at": "Tue Jun 21 11:31:08 +0000 2022",
@@ -6297,7 +5479,7 @@
                 "time_zone": null,
                 "geo_enabled": true,
                 "verified": false,
-                "statuses_count": 6248,
+                "statuses_count": 6245,
                 "lang": null,
                 "contributors_enabled": false,
                 "is_translator": false,
@@ -6616,7 +5798,7 @@
                 "friends_count": 606,
                 "listed_count": 70,
                 "created_at": "Sun Jun 15 22:52:54 +0000 2008",
-                "favourites_count": 29289,
+                "favourites_count": 29287,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": false,
@@ -6709,15 +5891,15 @@
                 },
                 "protected": false,
                 "followers_count": 1550,
-                "friends_count": 3117,
+                "friends_count": 3118,
                 "listed_count": 13,
                 "created_at": "Sat Sep 12 20:13:55 +0000 2009",
-                "favourites_count": 129942,
+                "favourites_count": 129939,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": true,
                 "verified": false,
-                "statuses_count": 107918,
+                "statuses_count": 107917,
                 "lang": null,
                 "contributors_enabled": false,
                 "is_translator": false,
@@ -7533,7 +6715,7 @@
                     },
                     "protected": false,
                     "followers_count": 943,
-                    "friends_count": 4891,
+                    "friends_count": 4892,
                     "listed_count": 50,
                     "created_at": "Sat Jun 25 22:57:08 +0000 2011",
                     "favourites_count": 28719,
@@ -7728,7 +6910,7 @@
                 "friends_count": 330,
                 "listed_count": 262,
                 "created_at": "Tue Jul 07 18:49:37 +0000 2009",
-                "favourites_count": 3915,
+                "favourites_count": 3916,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": true,
@@ -7807,7 +6989,7 @@
                     }
                 },
                 "protected": false,
-                "followers_count": 1985,
+                "followers_count": 1987,
                 "friends_count": 566,
                 "listed_count": 5,
                 "created_at": "Tue Jun 21 11:31:08 +0000 2022",
@@ -7816,7 +6998,7 @@
                 "time_zone": null,
                 "geo_enabled": true,
                 "verified": false,
-                "statuses_count": 6248,
+                "statuses_count": 6245,
                 "lang": null,
                 "contributors_enabled": false,
                 "is_translator": false,
@@ -8018,7 +7200,7 @@
                     }
                 },
                 "protected": false,
-                "followers_count": 386,
+                "followers_count": 388,
                 "friends_count": 395,
                 "listed_count": 19,
                 "created_at": "Fri Sep 19 19:07:34 +0000 2008",
@@ -9046,7 +8228,7 @@
                 "protected": false,
                 "followers_count": 8555,
                 "friends_count": 523,
-                "listed_count": 27,
+                "listed_count": 23,
                 "created_at": "Mon Dec 02 11:40:00 +0000 2013",
                 "favourites_count": 1487,
                 "utc_offset": null,
@@ -9267,7 +8449,7 @@
                 },
                 "protected": false,
                 "followers_count": 217,
-                "friends_count": 160,
+                "friends_count": 161,
                 "listed_count": 19,
                 "created_at": "Sun Jul 19 23:02:19 +0000 2009",
                 "favourites_count": 2541,
@@ -9393,7 +8575,7 @@
                 },
                 "protected": false,
                 "followers_count": 943,
-                "friends_count": 4891,
+                "friends_count": 4892,
                 "listed_count": 50,
                 "created_at": "Sat Jun 25 22:57:08 +0000 2011",
                 "favourites_count": 28719,
@@ -9488,11 +8670,11 @@
                     }
                 },
                 "protected": false,
-                "followers_count": 4019,
+                "followers_count": 4018,
                 "friends_count": 413,
                 "listed_count": 20,
                 "created_at": "Tue Apr 23 00:34:03 +0000 2013",
-                "favourites_count": 76668,
+                "favourites_count": 76669,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": true,
@@ -9698,7 +8880,7 @@
                 "friends_count": 258,
                 "listed_count": 1,
                 "created_at": "Mon Jan 16 18:38:22 +0000 2012",
-                "favourites_count": 4138,
+                "favourites_count": 4139,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": true,
@@ -9796,7 +8978,7 @@
                     "friends_count": 316,
                     "listed_count": 234,
                     "created_at": "Mon Sep 20 10:06:30 +0000 2021",
-                    "favourites_count": 8447,
+                    "favourites_count": 8448,
                     "utc_offset": null,
                     "time_zone": null,
                     "geo_enabled": false,
@@ -9915,7 +9097,7 @@
                     }
                 },
                 "protected": false,
-                "followers_count": 1742,
+                "followers_count": 1743,
                 "friends_count": 785,
                 "listed_count": 217,
                 "created_at": "Wed Mar 18 16:48:45 +0000 2009",
@@ -10239,7 +9421,7 @@
                     }
                 },
                 "protected": false,
-                "followers_count": 397,
+                "followers_count": 396,
                 "friends_count": 662,
                 "listed_count": 7,
                 "created_at": "Sat Aug 22 22:52:11 +0000 2009",
@@ -10332,7 +9514,7 @@
                 },
                 "protected": false,
                 "followers_count": 284,
-                "friends_count": 624,
+                "friends_count": 623,
                 "listed_count": 8,
                 "created_at": "Mon Sep 08 21:46:05 +0000 2008",
                 "favourites_count": 2647,
@@ -10438,7 +9620,7 @@
                 },
                 "protected": false,
                 "followers_count": 1563,
-                "friends_count": 3220,
+                "friends_count": 3222,
                 "listed_count": 91,
                 "created_at": "Wed Mar 14 09:33:57 +0000 2007",
                 "favourites_count": 1711,
@@ -10701,11 +9883,11 @@
                     }
                 },
                 "protected": false,
-                "followers_count": 54419,
+                "followers_count": 54413,
                 "friends_count": 2999,
                 "listed_count": 1380,
                 "created_at": "Mon Apr 20 14:04:41 +0000 2009",
-                "favourites_count": 119512,
+                "favourites_count": 119509,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": true,
@@ -10824,11 +10006,11 @@
                     }
                 },
                 "protected": false,
-                "followers_count": 8376,
+                "followers_count": 8377,
                 "friends_count": 218,
                 "listed_count": 301,
                 "created_at": "Tue Aug 15 12:14:38 +0000 2006",
-                "favourites_count": 4413,
+                "favourites_count": 4412,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": true,
@@ -11238,11 +10420,11 @@
                     }
                 },
                 "protected": false,
-                "followers_count": 10203,
-                "friends_count": 10897,
+                "followers_count": 10202,
+                "friends_count": 10891,
                 "listed_count": 5,
                 "created_at": "Sat Feb 25 17:54:22 +0000 2017",
-                "favourites_count": 58703,
+                "favourites_count": 58704,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": true,
@@ -11517,7 +10699,7 @@
                     }
                 },
                 "protected": false,
-                "followers_count": 1312,
+                "followers_count": 1313,
                 "friends_count": 1566,
                 "listed_count": 65,
                 "created_at": "Sun Apr 01 09:48:36 +0000 2007",
@@ -11967,15 +11149,15 @@
                 },
                 "protected": false,
                 "followers_count": 116,
-                "friends_count": 233,
+                "friends_count": 234,
                 "listed_count": 1,
                 "created_at": "Fri Apr 11 20:31:57 +0000 2014",
-                "favourites_count": 665,
+                "favourites_count": 664,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": false,
                 "verified": false,
-                "statuses_count": 456,
+                "statuses_count": 455,
                 "lang": null,
                 "contributors_enabled": false,
                 "is_translator": false,
@@ -12188,7 +11370,7 @@
                 },
                 "protected": false,
                 "followers_count": 660,
-                "friends_count": 1136,
+                "friends_count": 1135,
                 "listed_count": 5,
                 "created_at": "Tue Feb 17 11:48:25 +0000 2015",
                 "favourites_count": 73664,
@@ -12196,7 +11378,7 @@
                 "time_zone": null,
                 "geo_enabled": false,
                 "verified": false,
-                "statuses_count": 19715,
+                "statuses_count": 19714,
                 "lang": null,
                 "contributors_enabled": false,
                 "is_translator": false,
@@ -12294,7 +11476,7 @@
                     }
                 },
                 "protected": false,
-                "followers_count": 739,
+                "followers_count": 740,
                 "friends_count": 487,
                 "listed_count": 5,
                 "created_at": "Mon Dec 19 05:01:02 +0000 2011",
@@ -12623,7 +11805,7 @@
                 },
                 "protected": false,
                 "followers_count": 699,
-                "friends_count": 506,
+                "friends_count": 507,
                 "listed_count": 3,
                 "created_at": "Fri Nov 25 12:28:44 +0000 2011",
                 "favourites_count": 1971,
@@ -12760,6 +11942,1283 @@
             "favorite_count": 1,
             "favorited": false,
             "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Mon Mar 20 03:39:07 +0000 2023",
+            "id": 1637660010661687299,
+            "id_str": "1637660010661687299",
+            "text": "arc browser poggers &gt;&gt;\n@browsercompany @arcinternet",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "browsercompany",
+                        "name": "The Browser Company",
+                        "id": 1224730221557043202,
+                        "id_str": "1224730221557043202",
+                        "indices": [
+                            29,
+                            44
+                        ]
+                    },
+                    {
+                        "screen_name": "arcinternet",
+                        "name": "Arc",
+                        "id": 1372899287416381447,
+                        "id_str": "1372899287416381447",
+                        "indices": [
+                            45,
+                            57
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 994489284345262080,
+                "id_str": "994489284345262080",
+                "name": "Kartik Bahekar",
+                "screen_name": "kaarteeek",
+                "location": "Pune, India.",
+                "description": "i am boy.",
+                "url": "https://t.co/Zcnm7ifnex",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/Zcnm7ifnex",
+                                "expanded_url": "https://github.com/kartikbahekar",
+                                "display_url": "github.com/kartikbahekar",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 31,
+                "friends_count": 909,
+                "listed_count": 2,
+                "created_at": "Thu May 10 08:08:16 +0000 2018",
+                "favourites_count": 28935,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 4473,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1634988680459825153/Cjs_QUvh_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1634988680459825153/Cjs_QUvh_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/994489284345262080/1624801758",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Mon Mar 20 03:33:54 +0000 2023",
+            "id": 1637658699266138112,
+            "id_str": "1637658699266138112",
+            "text": "Wow Twitter is looking clean in the Minimalistic Twitter boost for Arc Browser @browsercompany\u2026 https://t.co/qTJg9Gv0fh",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "browsercompany",
+                        "name": "The Browser Company",
+                        "id": 1224730221557043202,
+                        "id_str": "1224730221557043202",
+                        "indices": [
+                            79,
+                            94
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/qTJg9Gv0fh",
+                        "expanded_url": "https://twitter.com/i/web/status/1637658699266138112",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            96,
+                            119
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 799040095030575104,
+                "id_str": "799040095030575104",
+                "name": "Zoni",
+                "screen_name": "zonwrk",
+                "location": "Amsterdam, The Netherlands",
+                "description": "",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 237,
+                "friends_count": 473,
+                "listed_count": 1,
+                "created_at": "Thu Nov 17 00:02:58 +0000 2016",
+                "favourites_count": 189,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 580,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1611011560985559040/3ESRK9xN_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1611011560985559040/3ESRK9xN_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/799040095030575104/1633355725",
+                "profile_link_color": "FF9191",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Mon Mar 20 03:19:51 +0000 2023",
+            "id": 1637655163459768321,
+            "id_str": "1637655163459768321",
+            "text": "RT @gaelgthomas: @PriteshKiri Recently switched to Arc Browser from @browsercompany, and I love the experience.\n\nA few things I love as a d\u2026",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "gaelgthomas",
+                        "name": "Ga\u00ebl Thomas",
+                        "id": 4503155494,
+                        "id_str": "4503155494",
+                        "indices": [
+                            3,
+                            15
+                        ]
+                    },
+                    {
+                        "screen_name": "PriteshKiri",
+                        "name": "Pritesh Kiri",
+                        "id": 1502961260752961536,
+                        "id_str": "1502961260752961536",
+                        "indices": [
+                            17,
+                            29
+                        ]
+                    },
+                    {
+                        "screen_name": "browsercompany",
+                        "name": "The Browser Company",
+                        "id": 1224730221557043202,
+                        "id_str": "1224730221557043202",
+                        "indices": [
+                            68,
+                            83
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1412274085480919040,
+                "id_str": "1412274085480919040",
+                "name": "Vijayaraja Sethuraj",
+                "screen_name": "donta_loxo",
+                "location": "",
+                "description": "Watch (:-) Think (:-) Accept",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 11,
+                "friends_count": 37,
+                "listed_count": 0,
+                "created_at": "Tue Jul 06 04:56:10 +0000 2021",
+                "favourites_count": 813,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 273,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1627706247259762688/toA_uvP0_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1627706247259762688/toA_uvP0_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1412274085480919040/1676910363",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Sun Mar 19 05:57:48 +0000 2023",
+                "id": 1637332524849573889,
+                "id_str": "1637332524849573889",
+                "text": "@PriteshKiri Recently switched to Arc Browser from @browsercompany, and I love the experience.\n\nA few things I love\u2026 https://t.co/kf0sRkCJ96",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [
+                        {
+                            "screen_name": "PriteshKiri",
+                            "name": "Pritesh Kiri",
+                            "id": 1502961260752961536,
+                            "id_str": "1502961260752961536",
+                            "indices": [
+                                0,
+                                12
+                            ]
+                        },
+                        {
+                            "screen_name": "browsercompany",
+                            "name": "The Browser Company",
+                            "id": 1224730221557043202,
+                            "id_str": "1224730221557043202",
+                            "indices": [
+                                51,
+                                66
+                            ]
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "url": "https://t.co/kf0sRkCJ96",
+                            "expanded_url": "https://twitter.com/i/web/status/1637332524849573889",
+                            "display_url": "twitter.com/i/web/status/1\u2026",
+                            "indices": [
+                                117,
+                                140
+                            ]
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "in_reply_to_status_id": 1637311061580980224,
+                "in_reply_to_status_id_str": "1637311061580980224",
+                "in_reply_to_user_id": 1502961260752961536,
+                "in_reply_to_user_id_str": "1502961260752961536",
+                "in_reply_to_screen_name": "PriteshKiri",
+                "user": {
+                    "id": 4503155494,
+                    "id_str": "4503155494",
+                    "name": "Ga\u00ebl Thomas",
+                    "screen_name": "gaelgthomas",
+                    "location": "Coding & Exploring Asia \ud83c\udf92\ud83c\udf0f",
+                    "description": "Unlock your Web Development skills!\ud83d\ude80 I'm a Remote Software Engineer sharing educational content. Let's learn & grow together!\ud83d\udcda DMs are open, let's connect!\ud83e\udd1d",
+                    "url": "https://t.co/8AD9gCpydk",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/8AD9gCpydk",
+                                    "expanded_url": "https://bio.link/gaelgthomas",
+                                    "display_url": "bio.link/gaelgthomas",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 2060,
+                    "friends_count": 206,
+                    "listed_count": 34,
+                    "created_at": "Wed Dec 16 13:01:50 +0000 2015",
+                    "favourites_count": 1890,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": true,
+                    "verified": false,
+                    "statuses_count": 1921,
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "000000",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1440234674148687886/CFSXjvxh_normal.png",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1440234674148687886/CFSXjvxh_normal.png",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/4503155494/1679285279",
+                    "profile_link_color": "0B2052",
+                    "profile_sidebar_border_color": "000000",
+                    "profile_sidebar_fill_color": "000000",
+                    "profile_text_color": "000000",
+                    "profile_use_background_image": false,
+                    "has_extended_profile": true,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": null,
+                    "follow_request_sent": null,
+                    "notifications": null,
+                    "translator_type": "none",
+                    "withheld_in_countries": []
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 1,
+                "favorite_count": 37,
+                "favorited": false,
+                "retweeted": false,
+                "lang": "en"
+            },
+            "is_quote_status": false,
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Mon Mar 20 01:22:34 +0000 2023",
+            "id": 1637625646871646208,
+            "id_str": "1637625646871646208",
+            "text": "ada yang berminat coba browser Arc? https://t.co/g6JJfWUpER",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 1637625613673717762,
+                        "id_str": "1637625613673717762",
+                        "indices": [
+                            36,
+                            59
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/FroD0bIaYAIMoUb.png",
+                        "media_url_https": "https://pbs.twimg.com/media/FroD0bIaYAIMoUb.png",
+                        "url": "https://t.co/g6JJfWUpER",
+                        "display_url": "pic.twitter.com/g6JJfWUpER",
+                        "expanded_url": "https://twitter.com/ggnwd/status/1637625646871646208/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "small": {
+                                "w": 453,
+                                "h": 423,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 453,
+                                "h": 423,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 453,
+                                "h": 423,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1637625613673717762,
+                        "id_str": "1637625613673717762",
+                        "indices": [
+                            36,
+                            59
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/FroD0bIaYAIMoUb.png",
+                        "media_url_https": "https://pbs.twimg.com/media/FroD0bIaYAIMoUb.png",
+                        "url": "https://t.co/g6JJfWUpER",
+                        "display_url": "pic.twitter.com/g6JJfWUpER",
+                        "expanded_url": "https://twitter.com/ggnwd/status/1637625646871646208/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "small": {
+                                "w": 453,
+                                "h": 423,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 453,
+                                "h": 423,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 453,
+                                "h": 423,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            }
+                        }
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "in",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 71475152,
+                "id_str": "71475152",
+                "name": "\u00b6",
+                "screen_name": "ggnwd",
+                "location": "KL",
+                "description": "Impossible we do, miracle we try.",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 557,
+                "friends_count": 587,
+                "listed_count": 1,
+                "created_at": "Fri Sep 04 06:50:45 +0000 2009",
+                "favourites_count": 3538,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 31521,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "642D8B",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1620707750476124160/r1p6Papr_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1620707750476124160/r1p6Papr_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/71475152/1541738873",
+                "profile_link_color": "BBFF00",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "A7FA0D",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "in"
+        },
+        {
+            "created_at": "Mon Mar 20 01:00:09 +0000 2023",
+            "id": 1637620004140240896,
+            "id_str": "1637620004140240896",
+            "text": "RT @ozanoz: 5 Arc browser invites, first come, first served.\n\nhttps://t.co/g1FT8uKoO3",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "ozanoz",
+                        "name": "Ozan \u00d6ztaskiran",
+                        "id": 27743941,
+                        "id_str": "27743941",
+                        "indices": [
+                            3,
+                            10
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/g1FT8uKoO3",
+                        "expanded_url": "https://arc.net/gift/86098a34",
+                        "display_url": "arc.net/gift/86098a34",
+                        "indices": [
+                            62,
+                            85
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://typefully.com/\" rel=\"nofollow\">Typefully</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 27743941,
+                "id_str": "27743941",
+                "name": "Ozan \u00d6ztaskiran",
+                "screen_name": "ozanoz",
+                "location": "Stockholm, Sweden",
+                "description": "\u2726 Experienced Designer \u2726 Mentoring on https://t.co/WGS5XANspA \u2726 Sharing product design related tips and resources\u23af#TheGoodStuff, things I learn, and things I like.",
+                "url": "https://t.co/82z7hxM3cC",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/82z7hxM3cC",
+                                "expanded_url": "https://bento.me/ozanoz",
+                                "display_url": "bento.me/ozanoz",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/WGS5XANspA",
+                                "expanded_url": "http://ADPList.org",
+                                "display_url": "ADPList.org",
+                                "indices": [
+                                    38,
+                                    61
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 2117,
+                "friends_count": 660,
+                "listed_count": 55,
+                "created_at": "Mon Mar 30 22:15:34 +0000 2009",
+                "favourites_count": 19775,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 10376,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1625793895807307781/8u7PXH9-_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1625793895807307781/8u7PXH9-_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/27743941/1666735458",
+                "profile_link_color": "7192ED",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "FFB700",
+                "profile_text_color": "5C3A00",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Sun Mar 19 13:00:01 +0000 2023",
+                "id": 1637438776648830979,
+                "id_str": "1637438776648830979",
+                "text": "5 Arc browser invites, first come, first served.\n\nhttps://t.co/g1FT8uKoO3",
+                "truncated": false,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/g1FT8uKoO3",
+                            "expanded_url": "https://arc.net/gift/86098a34",
+                            "display_url": "arc.net/gift/86098a34",
+                            "indices": [
+                                50,
+                                73
+                            ]
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"https://typefully.com/\" rel=\"nofollow\">Typefully</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 27743941,
+                    "id_str": "27743941",
+                    "name": "Ozan \u00d6ztaskiran",
+                    "screen_name": "ozanoz",
+                    "location": "Stockholm, Sweden",
+                    "description": "\u2726 Experienced Designer \u2726 Mentoring on https://t.co/WGS5XANspA \u2726 Sharing product design related tips and resources\u23af#TheGoodStuff, things I learn, and things I like.",
+                    "url": "https://t.co/82z7hxM3cC",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/82z7hxM3cC",
+                                    "expanded_url": "https://bento.me/ozanoz",
+                                    "display_url": "bento.me/ozanoz",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/WGS5XANspA",
+                                    "expanded_url": "http://ADPList.org",
+                                    "display_url": "ADPList.org",
+                                    "indices": [
+                                        38,
+                                        61
+                                    ]
+                                }
+                            ]
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 2117,
+                    "friends_count": 660,
+                    "listed_count": 55,
+                    "created_at": "Mon Mar 30 22:15:34 +0000 2009",
+                    "favourites_count": 19775,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": true,
+                    "verified": false,
+                    "statuses_count": 10376,
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "C0DEED",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1625793895807307781/8u7PXH9-_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1625793895807307781/8u7PXH9-_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/27743941/1666735458",
+                    "profile_link_color": "7192ED",
+                    "profile_sidebar_border_color": "000000",
+                    "profile_sidebar_fill_color": "FFB700",
+                    "profile_text_color": "5C3A00",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": true,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": null,
+                    "follow_request_sent": null,
+                    "notifications": null,
+                    "translator_type": "none",
+                    "withheld_in_countries": []
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 1,
+                "favorite_count": 6,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "is_quote_status": false,
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Mon Mar 20 00:52:20 +0000 2023",
+            "id": 1637618038424969216,
+            "id_str": "1637618038424969216",
+            "text": "RT @hodlerfreddy: I'm looking for a fucking flaw in #arc but I can't find it. This is the best #browser ever. @browsercompany",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "arc",
+                        "indices": [
+                            52,
+                            56
+                        ]
+                    },
+                    {
+                        "text": "browser",
+                        "indices": [
+                            95,
+                            103
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "hodlerfreddy",
+                        "name": "Cristian Fresolone",
+                        "id": 1225851652927893507,
+                        "id_str": "1225851652927893507",
+                        "indices": [
+                            3,
+                            16
+                        ]
+                    },
+                    {
+                        "screen_name": "browsercompany",
+                        "name": "The Browser Company",
+                        "id": 1224730221557043202,
+                        "id_str": "1224730221557043202",
+                        "indices": [
+                            110,
+                            125
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1579386303648391168,
+                "id_str": "1579386303648391168",
+                "name": "Jane Kayleigh \ud83c\udf52",
+                "screen_name": "Jane_Kayleigh23",
+                "location": "",
+                "description": "Sh\u0443 girl \ud83c\udf52\ud83d\ude1c\u2665",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 6,
+                "friends_count": 293,
+                "listed_count": 0,
+                "created_at": "Mon Oct 10 08:20:18 +0000 2022",
+                "favourites_count": 507,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 547,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1629599172310466561/zM0QG3C8_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1629599172310466561/zM0QG3C8_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1579386303648391168/1677421300",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Fri Mar 03 21:04:10 +0000 2023",
+                "id": 1631762412524261378,
+                "id_str": "1631762412524261378",
+                "text": "I'm looking for a fucking flaw in #arc but I can't find it. This is the best #browser ever. @browsercompany",
+                "truncated": false,
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "arc",
+                            "indices": [
+                                34,
+                                38
+                            ]
+                        },
+                        {
+                            "text": "browser",
+                            "indices": [
+                                77,
+                                85
+                            ]
+                        }
+                    ],
+                    "symbols": [],
+                    "user_mentions": [
+                        {
+                            "screen_name": "browsercompany",
+                            "name": "The Browser Company",
+                            "id": 1224730221557043202,
+                            "id_str": "1224730221557043202",
+                            "indices": [
+                                92,
+                                107
+                            ]
+                        }
+                    ],
+                    "urls": []
+                },
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 1225851652927893507,
+                    "id_str": "1225851652927893507",
+                    "name": "Cristian Fresolone",
+                    "screen_name": "hodlerfreddy",
+                    "location": "",
+                    "description": "#bitcoin non #crypto",
+                    "url": null,
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 260,
+                    "friends_count": 41,
+                    "listed_count": 2,
+                    "created_at": "Fri Feb 07 18:40:32 +0000 2020",
+                    "favourites_count": 313,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": false,
+                    "verified": false,
+                    "statuses_count": 561,
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "F5F8FA",
+                    "profile_background_image_url": null,
+                    "profile_background_image_url_https": null,
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1554833417111420930/9UKTEJEY_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1554833417111420930/9UKTEJEY_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1225851652927893507/1663071318",
+                    "profile_link_color": "1DA1F2",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": false,
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "following": null,
+                    "follow_request_sent": null,
+                    "notifications": null,
+                    "translator_type": "none",
+                    "withheld_in_countries": []
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 1,
+                "favorite_count": 0,
+                "favorited": false,
+                "retweeted": false,
+                "lang": "en"
+            },
+            "is_quote_status": false,
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Mon Mar 20 00:34:30 +0000 2023",
+            "id": 1637613552029818882,
+            "id_str": "1637613552029818882",
+            "text": "I want Urbit to *improve*, just as I want Twitter to, &amp; Arc Browser, &amp; Notion, &amp; Bardeen, &amp; Apple, &amp; Gmail, &amp; every\u2026 https://t.co/h9B5H2Z7qj",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/h9B5H2Z7qj",
+                        "expanded_url": "https://twitter.com/i/web/status/1637613552029818882",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            141,
+                            164
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 223891249,
+                "id_str": "223891249",
+                "name": "m-tron \u2728",
+                "screen_name": "m_tron99",
+                "location": "Alice Springs",
+                "description": "Spiritual Teacher & Mindset Coach \u2661 Former Victorian State Govt Whistleblower \u2661 Growth Analyst @ Milady Network \u2661 Author of NYT Bestseller \"Urbit Exposed\"",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 1631,
+                "friends_count": 1524,
+                "listed_count": 23,
+                "created_at": "Tue Dec 07 16:20:20 +0000 2010",
+                "favourites_count": 37172,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 11485,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1618732216338776066/Pf9wXiLW_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1618732216338776066/Pf9wXiLW_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/223891249/1673128733",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": true,
+            "quoted_status_id": 1637611043923845120,
+            "quoted_status_id_str": "1637611043923845120",
+            "quoted_status": {
+                "created_at": "Mon Mar 20 00:24:32 +0000 2023",
+                "id": 1637611043923845120,
+                "id_str": "1637611043923845120",
+                "text": "@m_tron99 Serious question.  Why do you want urbit to grow?",
+                "truncated": false,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [
+                        {
+                            "screen_name": "m_tron99",
+                            "name": "m-tron \u2728",
+                            "id": 223891249,
+                            "id_str": "223891249",
+                            "indices": [
+                                0,
+                                9
+                            ]
+                        }
+                    ],
+                    "urls": []
+                },
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "in_reply_to_status_id": 1637594584829276162,
+                "in_reply_to_status_id_str": "1637594584829276162",
+                "in_reply_to_user_id": 223891249,
+                "in_reply_to_user_id_str": "223891249",
+                "in_reply_to_screen_name": "m_tron99",
+                "user": {
+                    "id": 1577986418768576517,
+                    "id_str": "1577986418768576517",
+                    "name": "GlueWear",
+                    "screen_name": "GlueWear",
+                    "location": "~disden-talhes",
+                    "description": "In partnership with the National association for Retarded Children. League of Extraordinary Nobodies. Steve Jobs killed my father.",
+                    "url": null,
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 248,
+                    "friends_count": 380,
+                    "listed_count": 0,
+                    "created_at": "Thu Oct 06 11:38:00 +0000 2022",
+                    "favourites_count": 5719,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": false,
+                    "verified": false,
+                    "statuses_count": 5125,
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "F5F8FA",
+                    "profile_background_image_url": null,
+                    "profile_background_image_url_https": null,
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1627772591850115096/nAh6is_b_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1627772591850115096/nAh6is_b_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1577986418768576517/1672702655",
+                    "profile_link_color": "1DA1F2",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": true,
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "following": null,
+                    "follow_request_sent": null,
+                    "notifications": null,
+                    "translator_type": "none",
+                    "withheld_in_countries": []
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 0,
+                "favorite_count": 4,
+                "favorited": false,
+                "retweeted": false,
+                "lang": "en"
+            },
+            "retweet_count": 0,
+            "favorite_count": 11,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
             "lang": "en"
         },
         {
@@ -14008,465 +14467,6 @@
             "is_quote_status": false,
             "retweet_count": 0,
             "favorite_count": 1,
-            "favorited": false,
-            "retweeted": false,
-            "lang": "en"
-        },
-        {
-            "created_at": "Mon Mar 20 03:19:51 +0000 2023",
-            "id": 1637655163459768321,
-            "id_str": "1637655163459768321",
-            "text": "RT @gaelgthomas: @PriteshKiri Recently switched to Arc Browser from @browsercompany, and I love the experience.\n\nA few things I love as a d\u2026",
-            "truncated": false,
-            "entities": {
-                "hashtags": [],
-                "symbols": [],
-                "user_mentions": [
-                    {
-                        "screen_name": "gaelgthomas",
-                        "name": "Ga\u00ebl Thomas",
-                        "id": 4503155494,
-                        "id_str": "4503155494",
-                        "indices": [
-                            3,
-                            15
-                        ]
-                    },
-                    {
-                        "screen_name": "PriteshKiri",
-                        "name": "Pritesh Kiri",
-                        "id": 1502961260752961536,
-                        "id_str": "1502961260752961536",
-                        "indices": [
-                            17,
-                            29
-                        ]
-                    },
-                    {
-                        "screen_name": "browsercompany",
-                        "name": "The Browser Company",
-                        "id": 1224730221557043202,
-                        "id_str": "1224730221557043202",
-                        "indices": [
-                            68,
-                            83
-                        ]
-                    }
-                ],
-                "urls": []
-            },
-            "metadata": {
-                "iso_language_code": "en",
-                "result_type": "recent"
-            },
-            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-            "in_reply_to_status_id": null,
-            "in_reply_to_status_id_str": null,
-            "in_reply_to_user_id": null,
-            "in_reply_to_user_id_str": null,
-            "in_reply_to_screen_name": null,
-            "user": {
-                "id": 1412274085480919040,
-                "id_str": "1412274085480919040",
-                "name": "Vijayaraja Sethuraj",
-                "screen_name": "donta_loxo",
-                "location": "",
-                "description": "Watch (:-) Think (:-) Accept",
-                "url": null,
-                "entities": {
-                    "description": {
-                        "urls": []
-                    }
-                },
-                "protected": false,
-                "followers_count": 11,
-                "friends_count": 37,
-                "listed_count": 0,
-                "created_at": "Tue Jul 06 04:56:10 +0000 2021",
-                "favourites_count": 813,
-                "utc_offset": null,
-                "time_zone": null,
-                "geo_enabled": false,
-                "verified": false,
-                "statuses_count": 273,
-                "lang": null,
-                "contributors_enabled": false,
-                "is_translator": false,
-                "is_translation_enabled": false,
-                "profile_background_color": "F5F8FA",
-                "profile_background_image_url": null,
-                "profile_background_image_url_https": null,
-                "profile_background_tile": false,
-                "profile_image_url": "http://pbs.twimg.com/profile_images/1627706247259762688/toA_uvP0_normal.jpg",
-                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1627706247259762688/toA_uvP0_normal.jpg",
-                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1412274085480919040/1676910363",
-                "profile_link_color": "1DA1F2",
-                "profile_sidebar_border_color": "C0DEED",
-                "profile_sidebar_fill_color": "DDEEF6",
-                "profile_text_color": "333333",
-                "profile_use_background_image": true,
-                "has_extended_profile": true,
-                "default_profile": true,
-                "default_profile_image": false,
-                "following": null,
-                "follow_request_sent": null,
-                "notifications": null,
-                "translator_type": "none",
-                "withheld_in_countries": []
-            },
-            "geo": null,
-            "coordinates": null,
-            "place": null,
-            "contributors": null,
-            "retweeted_status": {
-                "created_at": "Sun Mar 19 05:57:48 +0000 2023",
-                "id": 1637332524849573889,
-                "id_str": "1637332524849573889",
-                "text": "@PriteshKiri Recently switched to Arc Browser from @browsercompany, and I love the experience.\n\nA few things I love\u2026 https://t.co/kf0sRkCJ96",
-                "truncated": true,
-                "entities": {
-                    "hashtags": [],
-                    "symbols": [],
-                    "user_mentions": [
-                        {
-                            "screen_name": "PriteshKiri",
-                            "name": "Pritesh Kiri",
-                            "id": 1502961260752961536,
-                            "id_str": "1502961260752961536",
-                            "indices": [
-                                0,
-                                12
-                            ]
-                        },
-                        {
-                            "screen_name": "browsercompany",
-                            "name": "The Browser Company",
-                            "id": 1224730221557043202,
-                            "id_str": "1224730221557043202",
-                            "indices": [
-                                51,
-                                66
-                            ]
-                        }
-                    ],
-                    "urls": [
-                        {
-                            "url": "https://t.co/kf0sRkCJ96",
-                            "expanded_url": "https://twitter.com/i/web/status/1637332524849573889",
-                            "display_url": "twitter.com/i/web/status/1\u2026",
-                            "indices": [
-                                117,
-                                140
-                            ]
-                        }
-                    ]
-                },
-                "metadata": {
-                    "iso_language_code": "en",
-                    "result_type": "recent"
-                },
-                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-                "in_reply_to_status_id": 1637311061580980224,
-                "in_reply_to_status_id_str": "1637311061580980224",
-                "in_reply_to_user_id": 1502961260752961536,
-                "in_reply_to_user_id_str": "1502961260752961536",
-                "in_reply_to_screen_name": "PriteshKiri",
-                "user": {
-                    "id": 4503155494,
-                    "id_str": "4503155494",
-                    "name": "Ga\u00ebl Thomas",
-                    "screen_name": "gaelgthomas",
-                    "location": "Coding & Exploring Asia \ud83c\udf92\ud83c\udf0f",
-                    "description": "Unlock your Web Development skills!\ud83d\ude80 I'm a Remote Software Engineer sharing educational content. Let's learn & grow together!\ud83d\udcda DMs are open, let's connect!\ud83e\udd1d",
-                    "url": "https://t.co/8AD9gCpydk",
-                    "entities": {
-                        "url": {
-                            "urls": [
-                                {
-                                    "url": "https://t.co/8AD9gCpydk",
-                                    "expanded_url": "https://bio.link/gaelgthomas",
-                                    "display_url": "bio.link/gaelgthomas",
-                                    "indices": [
-                                        0,
-                                        23
-                                    ]
-                                }
-                            ]
-                        },
-                        "description": {
-                            "urls": []
-                        }
-                    },
-                    "protected": false,
-                    "followers_count": 2060,
-                    "friends_count": 206,
-                    "listed_count": 34,
-                    "created_at": "Wed Dec 16 13:01:50 +0000 2015",
-                    "favourites_count": 1890,
-                    "utc_offset": null,
-                    "time_zone": null,
-                    "geo_enabled": true,
-                    "verified": false,
-                    "statuses_count": 1921,
-                    "lang": null,
-                    "contributors_enabled": false,
-                    "is_translator": false,
-                    "is_translation_enabled": false,
-                    "profile_background_color": "000000",
-                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-                    "profile_background_tile": false,
-                    "profile_image_url": "http://pbs.twimg.com/profile_images/1440234674148687886/CFSXjvxh_normal.png",
-                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1440234674148687886/CFSXjvxh_normal.png",
-                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/4503155494/1679285279",
-                    "profile_link_color": "0B2052",
-                    "profile_sidebar_border_color": "000000",
-                    "profile_sidebar_fill_color": "000000",
-                    "profile_text_color": "000000",
-                    "profile_use_background_image": false,
-                    "has_extended_profile": true,
-                    "default_profile": false,
-                    "default_profile_image": false,
-                    "following": null,
-                    "follow_request_sent": null,
-                    "notifications": null,
-                    "translator_type": "none",
-                    "withheld_in_countries": []
-                },
-                "geo": null,
-                "coordinates": null,
-                "place": null,
-                "contributors": null,
-                "is_quote_status": false,
-                "retweet_count": 1,
-                "favorite_count": 37,
-                "favorited": false,
-                "retweeted": false,
-                "lang": "en"
-            },
-            "is_quote_status": false,
-            "retweet_count": 1,
-            "favorite_count": 0,
-            "favorited": false,
-            "retweeted": false,
-            "lang": "en"
-        },
-        {
-            "created_at": "Mon Mar 20 03:33:54 +0000 2023",
-            "id": 1637658699266138112,
-            "id_str": "1637658699266138112",
-            "text": "Wow Twitter is looking clean in the Minimalistic Twitter boost for Arc Browser @browsercompany\u2026 https://t.co/qTJg9Gv0fh",
-            "truncated": true,
-            "entities": {
-                "hashtags": [],
-                "symbols": [],
-                "user_mentions": [
-                    {
-                        "screen_name": "browsercompany",
-                        "name": "The Browser Company",
-                        "id": 1224730221557043202,
-                        "id_str": "1224730221557043202",
-                        "indices": [
-                            79,
-                            94
-                        ]
-                    }
-                ],
-                "urls": [
-                    {
-                        "url": "https://t.co/qTJg9Gv0fh",
-                        "expanded_url": "https://twitter.com/i/web/status/1637658699266138112",
-                        "display_url": "twitter.com/i/web/status/1\u2026",
-                        "indices": [
-                            96,
-                            119
-                        ]
-                    }
-                ]
-            },
-            "metadata": {
-                "iso_language_code": "en",
-                "result_type": "recent"
-            },
-            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-            "in_reply_to_status_id": null,
-            "in_reply_to_status_id_str": null,
-            "in_reply_to_user_id": null,
-            "in_reply_to_user_id_str": null,
-            "in_reply_to_screen_name": null,
-            "user": {
-                "id": 799040095030575104,
-                "id_str": "799040095030575104",
-                "name": "Zoni",
-                "screen_name": "zonwrk",
-                "location": "Amsterdam, The Netherlands",
-                "description": "",
-                "url": null,
-                "entities": {
-                    "description": {
-                        "urls": []
-                    }
-                },
-                "protected": false,
-                "followers_count": 237,
-                "friends_count": 472,
-                "listed_count": 1,
-                "created_at": "Thu Nov 17 00:02:58 +0000 2016",
-                "favourites_count": 189,
-                "utc_offset": null,
-                "time_zone": null,
-                "geo_enabled": false,
-                "verified": false,
-                "statuses_count": 580,
-                "lang": null,
-                "contributors_enabled": false,
-                "is_translator": false,
-                "is_translation_enabled": false,
-                "profile_background_color": "000000",
-                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-                "profile_background_tile": false,
-                "profile_image_url": "http://pbs.twimg.com/profile_images/1611011560985559040/3ESRK9xN_normal.jpg",
-                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1611011560985559040/3ESRK9xN_normal.jpg",
-                "profile_banner_url": "https://pbs.twimg.com/profile_banners/799040095030575104/1633355725",
-                "profile_link_color": "FF9191",
-                "profile_sidebar_border_color": "000000",
-                "profile_sidebar_fill_color": "000000",
-                "profile_text_color": "000000",
-                "profile_use_background_image": false,
-                "has_extended_profile": true,
-                "default_profile": false,
-                "default_profile_image": false,
-                "following": null,
-                "follow_request_sent": null,
-                "notifications": null,
-                "translator_type": "none",
-                "withheld_in_countries": []
-            },
-            "geo": null,
-            "coordinates": null,
-            "place": null,
-            "contributors": null,
-            "is_quote_status": false,
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "favorited": false,
-            "retweeted": false,
-            "possibly_sensitive": false,
-            "lang": "en"
-        },
-        {
-            "created_at": "Mon Mar 20 03:39:07 +0000 2023",
-            "id": 1637660010661687299,
-            "id_str": "1637660010661687299",
-            "text": "arc browser poggers &gt;&gt;\n@browsercompany @arcinternet",
-            "truncated": false,
-            "entities": {
-                "hashtags": [],
-                "symbols": [],
-                "user_mentions": [
-                    {
-                        "screen_name": "browsercompany",
-                        "name": "The Browser Company",
-                        "id": 1224730221557043202,
-                        "id_str": "1224730221557043202",
-                        "indices": [
-                            29,
-                            44
-                        ]
-                    },
-                    {
-                        "screen_name": "arcinternet",
-                        "name": "Arc",
-                        "id": 1372899287416381447,
-                        "id_str": "1372899287416381447",
-                        "indices": [
-                            45,
-                            57
-                        ]
-                    }
-                ],
-                "urls": []
-            },
-            "metadata": {
-                "iso_language_code": "en",
-                "result_type": "recent"
-            },
-            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-            "in_reply_to_status_id": null,
-            "in_reply_to_status_id_str": null,
-            "in_reply_to_user_id": null,
-            "in_reply_to_user_id_str": null,
-            "in_reply_to_screen_name": null,
-            "user": {
-                "id": 994489284345262080,
-                "id_str": "994489284345262080",
-                "name": "Kartik Bahekar",
-                "screen_name": "kaarteeek",
-                "location": "Pune, India.",
-                "description": "i am boy.",
-                "url": "https://t.co/Zcnm7ifnex",
-                "entities": {
-                    "url": {
-                        "urls": [
-                            {
-                                "url": "https://t.co/Zcnm7ifnex",
-                                "expanded_url": "https://github.com/kartikbahekar",
-                                "display_url": "github.com/kartikbahekar",
-                                "indices": [
-                                    0,
-                                    23
-                                ]
-                            }
-                        ]
-                    },
-                    "description": {
-                        "urls": []
-                    }
-                },
-                "protected": false,
-                "followers_count": 31,
-                "friends_count": 909,
-                "listed_count": 2,
-                "created_at": "Thu May 10 08:08:16 +0000 2018",
-                "favourites_count": 28936,
-                "utc_offset": null,
-                "time_zone": null,
-                "geo_enabled": true,
-                "verified": false,
-                "statuses_count": 4473,
-                "lang": null,
-                "contributors_enabled": false,
-                "is_translator": false,
-                "is_translation_enabled": false,
-                "profile_background_color": "F5F8FA",
-                "profile_background_image_url": null,
-                "profile_background_image_url_https": null,
-                "profile_background_tile": false,
-                "profile_image_url": "http://pbs.twimg.com/profile_images/1634988680459825153/Cjs_QUvh_normal.jpg",
-                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1634988680459825153/Cjs_QUvh_normal.jpg",
-                "profile_banner_url": "https://pbs.twimg.com/profile_banners/994489284345262080/1624801758",
-                "profile_link_color": "1DA1F2",
-                "profile_sidebar_border_color": "C0DEED",
-                "profile_sidebar_fill_color": "DDEEF6",
-                "profile_text_color": "333333",
-                "profile_use_background_image": true,
-                "has_extended_profile": true,
-                "default_profile": true,
-                "default_profile_image": false,
-                "following": null,
-                "follow_request_sent": null,
-                "notifications": null,
-                "translator_type": "none",
-                "withheld_in_countries": []
-            },
-            "geo": null,
-            "coordinates": null,
-            "place": null,
-            "contributors": null,
-            "is_quote_status": false,
-            "retweet_count": 0,
-            "favorite_count": 0,
             "favorited": false,
             "retweeted": false,
             "lang": "en"

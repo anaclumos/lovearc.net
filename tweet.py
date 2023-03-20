@@ -40,6 +40,8 @@ if __name__ == "__main__":
                     data["statuses"] = list(
                         {v["id"]: v for v in data["statuses"]}.values()
                     )
+                    data["statuses"].sort(key=lambda x: x["created_at"], reverse=True)
+
                 else:
                     data = result.json()
                 json.dump(data, f2, indent=4)
