@@ -8,16 +8,15 @@ export default function Home() {
     <div>
       <div className="grid w-full h-96" style={{ backgroundImage: 'url(/noise.png)', backgroundAttachment: 'fixed', backgroundColor: '#fca39f' }}
       >
+        <Image
+          src="/arc.svg"
+          alt="Arc Logo"
+          width={76}
+          height={76}
+          className="m-auto mb-3"
+        />
         <h1
-          className="m-auto items-center justify-center text-2xl md:text-5xl font-bold center text-center text-red-500 align-middle">And We ❤️ Arc
-          <Image
-            src="/arc.svg"
-            alt="Arc Logo"
-            width={76}
-            height={76}
-            className="align-text-bottom inline-block"
-          />
-          ...</h1>
+          className="m-auto mt-3 items-center justify-center text-2xl md:text-5xl font-bold center text-center text-red-500 align-middle">And We Love Arc...</h1>
       </div>
       <div className='p-5 md:p-10 bg-gray-50 min-h-screen flex flex-col items-center justify-center'
         style={{ backgroundImage: 'url(/grid.svg)', backgroundAttachment: 'fixed', backgroundColor: '#fbfbf1' }}
