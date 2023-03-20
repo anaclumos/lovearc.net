@@ -103,7 +103,7 @@
             "user": {
                 "id": 71475152,
                 "id_str": "71475152",
-                "name": "¶",
+                "name": "\u00b6",
                 "screen_name": "ggnwd",
                 "location": "KL",
                 "description": "Impossible we do, miracle we try.",
@@ -116,7 +116,7 @@
                 "protected": false,
                 "followers_count": 557,
                 "friends_count": 587,
-                "listed_count": 1,
+                "listed_count": 0,
                 "created_at": "Fri Sep 04 06:50:45 +0000 2009",
                 "favourites_count": 3538,
                 "utc_offset": null,
@@ -173,7 +173,7 @@
                 "user_mentions": [
                     {
                         "screen_name": "ozanoz",
-                        "name": "Ozan Öztaskiran",
+                        "name": "Ozan \u00d6ztaskiran",
                         "id": 27743941,
                         "id_str": "27743941",
                         "indices": [
@@ -207,10 +207,10 @@
             "user": {
                 "id": 27743941,
                 "id_str": "27743941",
-                "name": "Ozan Öztaskiran",
+                "name": "Ozan \u00d6ztaskiran",
                 "screen_name": "ozanoz",
                 "location": "Stockholm, Sweden",
-                "description": "✦ Experienced Designer ✦ Mentoring on https://t.co/WGS5XANspA ✦ Sharing product design related tips and resources⎯#TheGoodStuff, things I learn, and things I like.",
+                "description": "\u2726 Experienced Designer \u2726 Mentoring on https://t.co/WGS5XANspA \u2726 Sharing product design related tips and resources\u23af#TheGoodStuff, things I learn, and things I like.",
                 "url": "https://t.co/82z7hxM3cC",
                 "entities": {
                     "url": {
@@ -241,11 +241,11 @@
                     }
                 },
                 "protected": false,
-                "followers_count": 2117,
+                "followers_count": 2118,
                 "friends_count": 660,
                 "listed_count": 55,
                 "created_at": "Mon Mar 30 22:15:34 +0000 2009",
-                "favourites_count": 19775,
+                "favourites_count": 19776,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": true,
@@ -315,10 +315,10 @@
                 "user": {
                     "id": 27743941,
                     "id_str": "27743941",
-                    "name": "Ozan Öztaskiran",
+                    "name": "Ozan \u00d6ztaskiran",
                     "screen_name": "ozanoz",
                     "location": "Stockholm, Sweden",
-                    "description": "✦ Experienced Designer ✦ Mentoring on https://t.co/WGS5XANspA ✦ Sharing product design related tips and resources⎯#TheGoodStuff, things I learn, and things I like.",
+                    "description": "\u2726 Experienced Designer \u2726 Mentoring on https://t.co/WGS5XANspA \u2726 Sharing product design related tips and resources\u23af#TheGoodStuff, things I learn, and things I like.",
                     "url": "https://t.co/82z7hxM3cC",
                     "entities": {
                         "url": {
@@ -349,11 +349,11 @@
                         }
                     },
                     "protected": false,
-                    "followers_count": 2117,
+                    "followers_count": 2118,
                     "friends_count": 660,
                     "listed_count": 55,
                     "created_at": "Mon Mar 30 22:15:34 +0000 2009",
-                    "favourites_count": 19775,
+                    "favourites_count": 19776,
                     "utc_offset": null,
                     "time_zone": null,
                     "geo_enabled": true,
@@ -465,10 +465,10 @@
             "user": {
                 "id": 1579386303648391168,
                 "id_str": "1579386303648391168",
-                "name": "Jane Kayleigh 🍒",
+                "name": "Jane Kayleigh \ud83c\udf52",
                 "screen_name": "Jane_Kayleigh23",
                 "location": "",
-                "description": "Shу girl 🍒😜♥",
+                "description": "Sh\u0443 girl \ud83c\udf52\ud83d\ude1c\u2665",
                 "url": null,
                 "entities": {
                     "description": {
@@ -480,12 +480,12 @@
                 "friends_count": 290,
                 "listed_count": 0,
                 "created_at": "Mon Oct 10 08:20:18 +0000 2022",
-                "favourites_count": 502,
+                "favourites_count": 503,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": false,
                 "verified": false,
-                "statuses_count": 540,
+                "statuses_count": 542,
                 "lang": null,
                 "contributors_enabled": false,
                 "is_translator": false,
@@ -617,14 +617,14 @@
                 "place": null,
                 "contributors": null,
                 "is_quote_status": false,
-                "retweet_count": 2,
+                "retweet_count": 1,
                 "favorite_count": 0,
                 "favorited": false,
                 "retweeted": false,
                 "lang": "en"
             },
             "is_quote_status": false,
-            "retweet_count": 2,
+            "retweet_count": 1,
             "favorite_count": 0,
             "favorited": false,
             "retweeted": false,
@@ -634,7 +634,7 @@
             "created_at": "Mon Mar 20 00:34:30 +0000 2023",
             "id": 1637613552029818882,
             "id_str": "1637613552029818882",
-            "text": "I want Urbit to *improve*, just as I want Twitter to, &amp; Arc Browser, &amp; Notion, &amp; Bardeen, &amp; Apple, &amp; Gmail, &amp; every… https://t.co/h9B5H2Z7qj",
+            "text": "I want Urbit to *improve*, just as I want Twitter to, &amp; Arc Browser, &amp; Notion, &amp; Bardeen, &amp; Apple, &amp; Gmail, &amp; every\u2026 https://t.co/h9B5H2Z7qj",
             "truncated": true,
             "entities": {
                 "hashtags": [],
@@ -644,7 +644,7 @@
                     {
                         "url": "https://t.co/h9B5H2Z7qj",
                         "expanded_url": "https://twitter.com/i/web/status/1637613552029818882",
-                        "display_url": "twitter.com/i/web/status/1…",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
                         "indices": [
                             141,
                             164
@@ -665,10 +665,10 @@
             "user": {
                 "id": 223891249,
                 "id_str": "223891249",
-                "name": "m-tron ✨",
+                "name": "m-tron \u2728",
                 "screen_name": "m_tron99",
                 "location": "Alice Springs",
-                "description": "Spiritual Teacher & Mindset Coach ♡ Former Victorian State Govt Whistleblower ♡ Growth Analyst @ Milady Network ♡ Author of NYT Bestseller \"Urbit Exposed\"",
+                "description": "Spiritual Teacher & Mindset Coach \u2661 Former Victorian State Govt Whistleblower \u2661 Growth Analyst @ Milady Network \u2661 Author of NYT Bestseller \"Urbit Exposed\"",
                 "url": null,
                 "entities": {
                     "description": {
@@ -677,10 +677,10 @@
                 },
                 "protected": false,
                 "followers_count": 1631,
-                "friends_count": 1525,
-                "listed_count": 23,
+                "friends_count": 1524,
+                "listed_count": 22,
                 "created_at": "Tue Dec 07 16:20:20 +0000 2010",
-                "favourites_count": 37158,
+                "favourites_count": 36978,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": true,
@@ -730,7 +730,7 @@
                     "user_mentions": [
                         {
                             "screen_name": "m_tron99",
-                            "name": "m-tron ✨",
+                            "name": "m-tron \u2728",
                             "id": 223891249,
                             "id_str": "223891249",
                             "indices": [
@@ -766,7 +766,7 @@
                     },
                     "protected": false,
                     "followers_count": 248,
-                    "friends_count": 379,
+                    "friends_count": 378,
                     "listed_count": 0,
                     "created_at": "Thu Oct 06 11:38:00 +0000 2022",
                     "favourites_count": 5716,
@@ -774,7 +774,7 @@
                     "time_zone": null,
                     "geo_enabled": false,
                     "verified": false,
-                    "statuses_count": 5116,
+                    "statuses_count": 5117,
                     "lang": null,
                     "contributors_enabled": false,
                     "is_translator": false,
@@ -812,7 +812,7 @@
                 "lang": "en"
             },
             "retweet_count": 0,
-            "favorite_count": 9,
+            "favorite_count": 10,
             "favorited": false,
             "retweeted": false,
             "possibly_sensitive": false,
@@ -822,7 +822,7 @@
             "created_at": "Sun Mar 19 23:28:14 +0000 2023",
             "id": 1637596875426607104,
             "id_str": "1637596875426607104",
-            "text": "@geoffreylitt not sure if you seen what arc browser is doing with boosts, but they’re essentially just chrome exten… https://t.co/n2cZiknsHu",
+            "text": "@geoffreylitt not sure if you seen what arc browser is doing with boosts, but they\u2019re essentially just chrome exten\u2026 https://t.co/n2cZiknsHu",
             "truncated": true,
             "entities": {
                 "hashtags": [],
@@ -843,7 +843,7 @@
                     {
                         "url": "https://t.co/n2cZiknsHu",
                         "expanded_url": "https://twitter.com/i/web/status/1637596875426607104",
-                        "display_url": "twitter.com/i/web/status/1…",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
                         "indices": [
                             117,
                             140
@@ -864,7 +864,7 @@
             "user": {
                 "id": 2783587411,
                 "id_str": "2783587411",
-                "name": "max drake (⨍)",
+                "name": "max drake (\u2a0d)",
                 "screen_name": "max__drake",
                 "location": "London",
                 "description": "building intelligent tools @fermat_ws, prompt wrangler, he/him. meche @MIT, design/engineering @imperialcollege @RCA",
@@ -938,7 +938,7 @@
             "created_at": "Sun Mar 19 22:36:46 +0000 2023",
             "id": 1637583922895675393,
             "id_str": "1637583922895675393",
-            "text": "@marcelotournier Eu já uso o Mac Mini 8gb. Ele me atende bem para tudo que eu preciso. Essa coceira que me deu agor… https://t.co/YIOmty7tBl",
+            "text": "@marcelotournier Eu j\u00e1 uso o Mac Mini 8gb. Ele me atende bem para tudo que eu preciso. Essa coceira que me deu agor\u2026 https://t.co/YIOmty7tBl",
             "truncated": true,
             "entities": {
                 "hashtags": [],
@@ -946,7 +946,7 @@
                 "user_mentions": [
                     {
                         "screen_name": "marcelotournier",
-                        "name": "Marcelo Tournier MD MPH 🔬👨‍💻🤖🏥🇧🇷",
+                        "name": "Marcelo Tournier MD MPH \ud83d\udd2c\ud83d\udc68\u200d\ud83d\udcbb\ud83e\udd16\ud83c\udfe5\ud83c\udde7\ud83c\uddf7",
                         "id": 20409846,
                         "id_str": "20409846",
                         "indices": [
@@ -959,7 +959,7 @@
                     {
                         "url": "https://t.co/YIOmty7tBl",
                         "expanded_url": "https://twitter.com/i/web/status/1637583922895675393",
-                        "display_url": "twitter.com/i/web/status/1…",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
                         "indices": [
                             117,
                             140
@@ -983,7 +983,7 @@
                 "name": "Bruno",
                 "screen_name": "AlleycatBruno",
                 "location": "Kansas City, MO",
-                "description": "I tried to be so many things. 🇧🇷 in 🇺🇸 He/Him/Ele\n\nFind me also @alleycatbruno@mas.to",
+                "description": "I tried to be so many things. \ud83c\udde7\ud83c\uddf7 in \ud83c\uddfa\ud83c\uddf8 He/Him/Ele\n\nFind me also @alleycatbruno@mas.to",
                 "url": null,
                 "entities": {
                     "description": {
@@ -991,11 +991,11 @@
                     }
                 },
                 "protected": false,
-                "followers_count": 676,
+                "followers_count": 675,
                 "friends_count": 1380,
                 "listed_count": 6,
                 "created_at": "Wed May 07 18:44:01 +0000 2008",
-                "favourites_count": 56172,
+                "favourites_count": 56171,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": true,
@@ -1074,7 +1074,7 @@
             "created_at": "Sun Mar 19 22:07:18 +0000 2023",
             "id": 1637576504405110785,
             "id_str": "1637576504405110785",
-            "text": "RT @suwigyarathore: if you are not using Arc browser from @browsercompany\n in 2023 and still using chrome then you are really missing out o…",
+            "text": "RT @suwigyarathore: if you are not using Arc browser from @browsercompany\n in 2023 and still using chrome then you are really missing out o\u2026",
             "truncated": false,
             "entities": {
                 "hashtags": [],
@@ -1136,7 +1136,7 @@
                 "time_zone": null,
                 "geo_enabled": false,
                 "verified": false,
-                "statuses_count": 52534,
+                "statuses_count": 52538,
                 "lang": null,
                 "contributors_enabled": false,
                 "is_translator": false,
@@ -1170,7 +1170,7 @@
                 "created_at": "Sun Mar 19 22:05:39 +0000 2023",
                 "id": 1637576089240313856,
                 "id_str": "1637576089240313856",
-                "text": "if you are not using Arc browser from @browsercompany\n in 2023 and still using chrome then you are really missing o… https://t.co/TSqQE29zBl",
+                "text": "if you are not using Arc browser from @browsercompany\n in 2023 and still using chrome then you are really missing o\u2026 https://t.co/TSqQE29zBl",
                 "truncated": true,
                 "entities": {
                     "hashtags": [],
@@ -1191,7 +1191,7 @@
                         {
                             "url": "https://t.co/TSqQE29zBl",
                             "expanded_url": "https://twitter.com/i/web/status/1637576089240313856",
-                            "display_url": "twitter.com/i/web/status/1…",
+                            "display_url": "twitter.com/i/web/status/1\u2026",
                             "indices": [
                                 117,
                                 140
@@ -1223,7 +1223,7 @@
                                 {
                                     "url": "https://t.co/bbD1atZz4p",
                                     "expanded_url": "https://www.linkedin.com/in/suwigyarathore/",
-                                    "display_url": "linkedin.com/in/suwigyarath…",
+                                    "display_url": "linkedin.com/in/suwigyarath\u2026",
                                     "indices": [
                                         0,
                                         23
@@ -1293,7 +1293,7 @@
             "created_at": "Sun Mar 19 22:05:39 +0000 2023",
             "id": 1637576089240313856,
             "id_str": "1637576089240313856",
-            "text": "if you are not using Arc browser from @browsercompany\n in 2023 and still using chrome then you are really missing o… https://t.co/TSqQE29zBl",
+            "text": "if you are not using Arc browser from @browsercompany\n in 2023 and still using chrome then you are really missing o\u2026 https://t.co/TSqQE29zBl",
             "truncated": true,
             "entities": {
                 "hashtags": [],
@@ -1314,7 +1314,7 @@
                     {
                         "url": "https://t.co/TSqQE29zBl",
                         "expanded_url": "https://twitter.com/i/web/status/1637576089240313856",
-                        "display_url": "twitter.com/i/web/status/1…",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
                         "indices": [
                             117,
                             140
@@ -1346,7 +1346,7 @@
                             {
                                 "url": "https://t.co/bbD1atZz4p",
                                 "expanded_url": "https://www.linkedin.com/in/suwigyarathore/",
-                                "display_url": "linkedin.com/in/suwigyarath…",
+                                "display_url": "linkedin.com/in/suwigyarath\u2026",
                                 "indices": [
                                     0,
                                     23
@@ -1409,7 +1409,7 @@
             "created_at": "Sun Mar 19 21:12:25 +0000 2023",
             "id": 1637562695250739202,
             "id_str": "1637562695250739202",
-            "text": "RT @teja2495: Been exploring the Arc Browser… These are things I liked about it so far.\n\n- Beautiful UI. I liked the idea of having everyth…",
+            "text": "RT @teja2495: Been exploring the Arc Browser\u2026 These are things I liked about it so far.\n\n- Beautiful UI. I liked the idea of having everyth\u2026",
             "truncated": false,
             "entities": {
                 "hashtags": [],
@@ -1453,7 +1453,7 @@
                 },
                 "protected": false,
                 "followers_count": 66,
-                "friends_count": 3563,
+                "friends_count": 3565,
                 "listed_count": 0,
                 "created_at": "Tue Nov 30 13:39:19 +0000 2021",
                 "favourites_count": 412,
@@ -1494,7 +1494,7 @@
                 "created_at": "Sun Mar 19 07:24:34 +0000 2023",
                 "id": 1637354361012535296,
                 "id_str": "1637354361012535296",
-                "text": "Been exploring the Arc Browser… These are things I liked about it so far.\n\n- Beautiful UI. I liked the idea of havi… https://t.co/UJWt97lEeQ",
+                "text": "Been exploring the Arc Browser\u2026 These are things I liked about it so far.\n\n- Beautiful UI. I liked the idea of havi\u2026 https://t.co/UJWt97lEeQ",
                 "truncated": true,
                 "entities": {
                     "hashtags": [],
@@ -1504,7 +1504,7 @@
                         {
                             "url": "https://t.co/UJWt97lEeQ",
                             "expanded_url": "https://twitter.com/i/web/status/1637354361012535296",
-                            "display_url": "twitter.com/i/web/status/1…",
+                            "display_url": "twitter.com/i/web/status/1\u2026",
                             "indices": [
                                 117,
                                 140
@@ -1550,10 +1550,10 @@
                     },
                     "protected": false,
                     "followers_count": 4637,
-                    "friends_count": 481,
+                    "friends_count": 482,
                     "listed_count": 11,
                     "created_at": "Wed Jul 28 05:44:10 +0000 2010",
-                    "favourites_count": 8799,
+                    "favourites_count": 8801,
                     "utc_offset": null,
                     "time_zone": null,
                     "geo_enabled": true,
@@ -1607,7 +1607,7 @@
             "created_at": "Sun Mar 19 20:39:39 +0000 2023",
             "id": 1637554447046914049,
             "id_str": "1637554447046914049",
-            "text": "@tcpshaaban arc browser ممتاز من أول فصل كل حاجة ل workspaces\nhttps://t.co/dfGe6AdtZg",
+            "text": "@tcpshaaban arc browser \u0645\u0645\u062a\u0627\u0632 \u0645\u0646 \u0623\u0648\u0644 \u0641\u0635\u0644 \u0643\u0644 \u062d\u0627\u062c\u0629 \u0644 workspaces\nhttps://t.co/dfGe6AdtZg",
             "truncated": false,
             "entities": {
                 "hashtags": [],
@@ -1615,7 +1615,7 @@
                 "user_mentions": [
                     {
                         "screen_name": "tcpshaaban",
-                        "name": "Mohamed Shaaban 👨🏻‍💻",
+                        "name": "Mohamed Shaaban \ud83d\udc68\ud83c\udffb\u200d\ud83d\udcbb",
                         "id": 380273588,
                         "id_str": "380273588",
                         "indices": [
@@ -1652,7 +1652,7 @@
                 "name": "Mohamed Mohiey",
                 "screen_name": "Mohiiey",
                 "location": "",
-                "description": "نستسلم لكن لا ما دمنا احياء نرزق\n، ما دام الأمل طريقا فسنحيااه",
+                "description": "\u0646\u0633\u062a\u0633\u0644\u0645 \u0644\u0643\u0646 \u0644\u0627 \u0645\u0627 \u062f\u0645\u0646\u0627 \u0627\u062d\u064a\u0627\u0621 \u0646\u0631\u0632\u0642\n\u060c \u0645\u0627 \u062f\u0627\u0645 \u0627\u0644\u0623\u0645\u0644 \u0637\u0631\u064a\u0642\u0627 \u0641\u0633\u0646\u062d\u064a\u0627\u0627\u0647",
                 "url": null,
                 "entities": {
                     "description": {
@@ -1664,7 +1664,7 @@
                 "friends_count": 816,
                 "listed_count": 1,
                 "created_at": "Tue Apr 24 17:12:48 +0000 2012",
-                "favourites_count": 36570,
+                "favourites_count": 36568,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": true,
@@ -1721,7 +1721,7 @@
                     {
                         "url": "https://t.co/H2GQWndYF4",
                         "expanded_url": "https://twitter.com/lennysan/status/1637496890735616003",
-                        "display_url": "twitter.com/lennysan/statu…",
+                        "display_url": "twitter.com/lennysan/statu\u2026",
                         "indices": [
                             116,
                             139
@@ -1812,7 +1812,7 @@
                 "created_at": "Sun Mar 19 16:50:56 +0000 2023",
                 "id": 1637496890735616003,
                 "id_str": "1637496890735616003",
-                "text": "The @browsercompany is one of the most unique and interesting product teams I've come across, building my favorite… https://t.co/uD7LEzE62W",
+                "text": "The @browsercompany is one of the most unique and interesting product teams I've come across, building my favorite\u2026 https://t.co/uD7LEzE62W",
                 "truncated": true,
                 "entities": {
                     "hashtags": [],
@@ -1833,7 +1833,7 @@
                         {
                             "url": "https://t.co/uD7LEzE62W",
                             "expanded_url": "https://twitter.com/i/web/status/1637496890735616003",
-                            "display_url": "twitter.com/i/web/status/1…",
+                            "display_url": "twitter.com/i/web/status/1\u2026",
                             "indices": [
                                 116,
                                 139
@@ -1857,7 +1857,7 @@
                     "name": "Lenny Rachitsky",
                     "screen_name": "lennysan",
                     "location": "Bay Area, CA",
-                    "description": "👋 Newsletter https://t.co/LF0tRFp4pl | Podcast: https://t.co/ZQWNT0ipGb | Jobs: https://t.co/h5qbpego8F | Investing: https://t.co/tLghMwfwmW",
+                    "description": "\ud83d\udc4b Newsletter https://t.co/LF0tRFp4pl | Podcast: https://t.co/ZQWNT0ipGb | Jobs: https://t.co/h5qbpego8F | Investing: https://t.co/tLghMwfwmW",
                     "url": "https://t.co/oyrzp0FCKs",
                     "entities": {
                         "url": {
@@ -1915,9 +1915,9 @@
                         }
                     },
                     "protected": false,
-                    "followers_count": 168846,
-                    "friends_count": 2144,
-                    "listed_count": 3588,
+                    "followers_count": 168851,
+                    "friends_count": 2143,
+                    "listed_count": 3586,
                     "created_at": "Sat Aug 04 18:00:51 +0000 2007",
                     "favourites_count": 42772,
                     "utc_offset": null,
@@ -1956,7 +1956,7 @@
                 "contributors": null,
                 "is_quote_status": false,
                 "retweet_count": 8,
-                "favorite_count": 179,
+                "favorite_count": 180,
                 "favorited": false,
                 "retweeted": false,
                 "possibly_sensitive": false,
@@ -1973,7 +1973,7 @@
             "created_at": "Sun Mar 19 19:39:53 +0000 2023",
             "id": 1637539406616641541,
             "id_str": "1637539406616641541",
-            "text": "RT @hoss_crypto: Wow! Microsoft wird bald ein eingebautes Krypto Wallet in ihren Edge Browser veröffentlichen. 👀 https://t.co/cfKf4syoQx",
+            "text": "RT @hoss_crypto: Wow! Microsoft wird bald ein eingebautes Krypto Wallet in ihren Edge Browser ver\u00f6ffentlichen. \ud83d\udc40 https://t.co/cfKf4syoQx",
             "truncated": false,
             "entities": {
                 "hashtags": [],
@@ -2145,7 +2145,7 @@
                 "created_at": "Sun Mar 19 12:17:45 +0000 2023",
                 "id": 1637428139407147014,
                 "id_str": "1637428139407147014",
-                "text": "Wow! Microsoft wird bald ein eingebautes Krypto Wallet in ihren Edge Browser veröffentlichen. 👀 https://t.co/cfKf4syoQx",
+                "text": "Wow! Microsoft wird bald ein eingebautes Krypto Wallet in ihren Edge Browser ver\u00f6ffentlichen. \ud83d\udc40 https://t.co/cfKf4syoQx",
                 "truncated": false,
                 "entities": {
                     "hashtags": [],
@@ -2247,7 +2247,7 @@
                     "name": "Hoss",
                     "screen_name": "hoss_crypto",
                     "location": "",
-                    "description": "Early #bitcoin investor, quantitative and analytical kind of 🇩🇪 speaking public figure",
+                    "description": "Early #bitcoin investor, quantitative and analytical kind of \ud83c\udde9\ud83c\uddea speaking public figure",
                     "url": "https://t.co/3wtLpjoPy8",
                     "entities": {
                         "url": {
@@ -2268,11 +2268,11 @@
                         }
                     },
                     "protected": false,
-                    "followers_count": 49024,
+                    "followers_count": 49026,
                     "friends_count": 551,
                     "listed_count": 199,
                     "created_at": "Sat Apr 21 23:22:59 +0000 2007",
-                    "favourites_count": 7423,
+                    "favourites_count": 7425,
                     "utc_offset": null,
                     "time_zone": null,
                     "geo_enabled": false,
@@ -2327,7 +2327,7 @@
             "created_at": "Sun Mar 19 19:35:49 +0000 2023",
             "id": 1637538385077366784,
             "id_str": "1637538385077366784",
-            "text": "Arc Browserの招待ほしぃ",
+            "text": "Arc Browser\u306e\u62db\u5f85\u307b\u3057\u3043",
             "truncated": false,
             "entities": {
                 "hashtags": [],
@@ -2348,10 +2348,10 @@
             "user": {
                 "id": 3261278916,
                 "id_str": "3261278916",
-                "name": "匠君",
+                "name": "\u5320\u541b",
                 "screen_name": "takumikunn15",
-                "location": "日本 大阪",
-                "description": "デザイナー",
+                "location": "\u65e5\u672c \u5927\u962a",
+                "description": "\u30c7\u30b6\u30a4\u30ca\u30fc",
                 "url": null,
                 "entities": {
                     "description": {
@@ -2363,7 +2363,7 @@
                 "friends_count": 2334,
                 "listed_count": 22,
                 "created_at": "Tue Jun 30 13:16:19 +0000 2015",
-                "favourites_count": 20275,
+                "favourites_count": 20276,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": false,
@@ -2430,10 +2430,10 @@
             "user": {
                 "id": 363056179,
                 "id_str": "363056179",
-                "name": "Dheeraj | ➡️ @LaraconIn",
+                "name": "Dheeraj | \u27a1\ufe0f @LaraconIn",
                 "screen_name": "Thedijje",
-                "location": " 🌌/🌍/🇮🇳 /❤️li ",
-                "description": "AKA DJ | DevOps Engineer | AWS | Coder | Nature lover | Traveller | सनातनि | Brand India | #FreeTemple\n👉🏼 Organiser @laravelDelhi\n🙋🏻‍Volunteering @laraconin",
+                "location": " \ud83c\udf0c/\ud83c\udf0d/\ud83c\uddee\ud83c\uddf3 /\u2764\ufe0fli ",
+                "description": "AKA DJ | DevOps Engineer | AWS | Coder | Nature lover | Traveller | \u0938\u0928\u093e\u0924\u0928\u093f | Brand India | #FreeTemple\n\ud83d\udc49\ud83c\udffc Organiser @laravelDelhi\n\ud83d\ude4b\ud83c\udffb\u200dVolunteering @laraconin",
                 "url": "https://t.co/z4W1I79muy",
                 "entities": {
                     "url": {
@@ -2630,7 +2630,7 @@
             "created_at": "Sun Mar 19 18:24:12 +0000 2023",
             "id": 1637520359804276736,
             "id_str": "1637520359804276736",
-            "text": "Recently started using Arc by @browsercompany—absolute game changer.\n\nAs @joshm said on @lennysan's pod, they optim… https://t.co/VMrQwCtN2E",
+            "text": "Recently started using Arc by @browsercompany\u2014absolute game changer.\n\nAs @joshm said on @lennysan's pod, they optim\u2026 https://t.co/VMrQwCtN2E",
             "truncated": true,
             "entities": {
                 "hashtags": [],
@@ -2671,7 +2671,7 @@
                     {
                         "url": "https://t.co/VMrQwCtN2E",
                         "expanded_url": "https://twitter.com/i/web/status/1637520359804276736",
-                        "display_url": "twitter.com/i/web/status/1…",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
                         "indices": [
                             117,
                             140
@@ -2753,7 +2753,7 @@
             "created_at": "Sun Mar 19 17:12:15 +0000 2023",
             "id": 1637502253027213314,
             "id_str": "1637502253027213314",
-            "text": "@_Mikie_ Thank you so much Michael! I'm glad you found it helpful 🙏\n\nThe browser is Arc! Great piece of software",
+            "text": "@_Mikie_ Thank you so much Michael! I'm glad you found it helpful \ud83d\ude4f\n\nThe browser is Arc! Great piece of software",
             "truncated": false,
             "entities": {
                 "hashtags": [],
@@ -2785,10 +2785,10 @@
             "user": {
                 "id": 781573005151444992,
                 "id_str": "781573005151444992",
-                "name": "Andrea 👨‍🍳",
+                "name": "Andrea \ud83d\udc68\u200d\ud83c\udf73",
                 "screen_name": "ilrock__",
                 "location": "Spain",
-                "description": "Software engineer 👩‍💻 by day, indie maker 🛠️ by night. Currently building @mailclipperhq.\n\nI tweet about tech 💻, making stuff 👷 and coffee ☕",
+                "description": "Software engineer \ud83d\udc69\u200d\ud83d\udcbb by day, indie maker \ud83d\udee0\ufe0f by night. Currently building @mailclipperhq.\n\nI tweet about tech \ud83d\udcbb, making stuff \ud83d\udc77 and coffee \u2615",
                 "url": null,
                 "entities": {
                     "description": {
@@ -2846,7 +2846,7 @@
             "created_at": "Sun Mar 19 17:05:10 +0000 2023",
             "id": 1637500472817795075,
             "id_str": "1637500472817795075",
-            "text": "So I got my hands on @arcinternet and wrote a little article about it! It’s an exciting browser, and I’ll use it fo… https://t.co/RBiHQOvV90",
+            "text": "So I got my hands on @arcinternet and wrote a little article about it! It\u2019s an exciting browser, and I\u2019ll use it fo\u2026 https://t.co/RBiHQOvV90",
             "truncated": true,
             "entities": {
                 "hashtags": [],
@@ -2867,7 +2867,7 @@
                     {
                         "url": "https://t.co/RBiHQOvV90",
                         "expanded_url": "https://twitter.com/i/web/status/1637500472817795075",
-                        "display_url": "twitter.com/i/web/status/1…",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
                         "indices": [
                             117,
                             140
@@ -2891,7 +2891,7 @@
                 "name": "Martin Rocek",
                 "screen_name": "Silencesys",
                 "location": "Czech Republic",
-                "description": "Part-time full stack web developer doing 🔮 in JavaScript, Python, PHP and student of Medieval history @FF_CUNI. Artist and traveller whenever time alows.",
+                "description": "Part-time full stack web developer doing \ud83d\udd2e in JavaScript, Python, PHP and student of Medieval history @FF_CUNI. Artist and traveller whenever time alows.",
                 "url": "https://t.co/GKyTdWMGeM",
                 "entities": {
                     "url": {
@@ -2984,10 +2984,10 @@
             "user": {
                 "id": 1851986593,
                 "id_str": "1851986593",
-                "name": "Arsen Kolyba 🇺🇦",
+                "name": "Arsen Kolyba \ud83c\uddfa\ud83c\udde6",
                 "screen_name": "arsenkolyba",
-                "location": "→",
-                "description": "product designer & maker. young jury @awwwards\n🛠️ building @companiestools\n✒️ made https://t.co/vQ40MB43KK",
+                "location": "\u2192",
+                "description": "product designer & maker. young jury @awwwards\n\ud83d\udee0\ufe0f building @companiestools\n\u2712\ufe0f made https://t.co/vQ40MB43KK",
                 "url": "https://t.co/ggw11LHV0c",
                 "entities": {
                     "url": {
@@ -3068,7 +3068,7 @@
             "created_at": "Sun Mar 19 16:29:18 +0000 2023",
             "id": 1637491447464333312,
             "id_str": "1637491447464333312",
-            "text": "@ooolzhas @browsercompany what if arc provides you the optionality to customize the browser your way? say horizonta… https://t.co/eFjiI2gJ9P",
+            "text": "@ooolzhas @browsercompany what if arc provides you the optionality to customize the browser your way? say horizonta\u2026 https://t.co/eFjiI2gJ9P",
             "truncated": true,
             "entities": {
                 "hashtags": [],
@@ -3099,7 +3099,7 @@
                     {
                         "url": "https://t.co/eFjiI2gJ9P",
                         "expanded_url": "https://twitter.com/i/web/status/1637491447464333312",
-                        "display_url": "twitter.com/i/web/status/1…",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
                         "indices": [
                             117,
                             140
@@ -3144,11 +3144,11 @@
                     }
                 },
                 "protected": false,
-                "followers_count": 3163,
+                "followers_count": 3161,
                 "friends_count": 1750,
                 "listed_count": 49,
                 "created_at": "Thu Feb 28 09:31:13 +0000 2019",
-                "favourites_count": 68942,
+                "favourites_count": 68947,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": true,
@@ -3194,7 +3194,7 @@
             "created_at": "Sun Mar 19 16:17:21 +0000 2023",
             "id": 1637488440085282816,
             "id_str": "1637488440085282816",
-            "text": "@iamDCinvestor @MicrosoftEdge what an insane plot arc for people in their 30's and older. could you in a million ye… https://t.co/bpeuANRSbb",
+            "text": "@iamDCinvestor @MicrosoftEdge what an insane plot arc for people in their 30's and older. could you in a million ye\u2026 https://t.co/bpeuANRSbb",
             "truncated": true,
             "entities": {
                 "hashtags": [],
@@ -3202,7 +3202,7 @@
                 "user_mentions": [
                     {
                         "screen_name": "iamDCinvestor",
-                        "name": "DCinvestor.eth ⌐◨-◨",
+                        "name": "DCinvestor.eth \u2310\u25e8-\u25e8",
                         "id": 956670268596015105,
                         "id_str": "956670268596015105",
                         "indices": [
@@ -3225,7 +3225,7 @@
                     {
                         "url": "https://t.co/bpeuANRSbb",
                         "expanded_url": "https://twitter.com/i/web/status/1637488440085282816",
-                        "display_url": "twitter.com/i/web/status/1…",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
                         "indices": [
                             117,
                             140
@@ -3307,7 +3307,7 @@
             "created_at": "Sun Mar 19 15:28:28 +0000 2023",
             "id": 1637476137243934726,
             "id_str": "1637476137243934726",
-            "text": "Arc Browser たのしい\n\nいまのところ Google Cloud コンソールが全体的に動かないのだけ困ってるhttps://t.co/F4orisrrDn",
+            "text": "Arc Browser \u305f\u306e\u3057\u3044\n\n\u3044\u307e\u306e\u3068\u3053\u308d Google Cloud \u30b3\u30f3\u30bd\u30fc\u30eb\u304c\u5168\u4f53\u7684\u306b\u52d5\u304b\u306a\u3044\u306e\u3060\u3051\u56f0\u3063\u3066\u308bhttps://t.co/F4orisrrDn",
             "truncated": false,
             "entities": {
                 "hashtags": [],
@@ -3317,7 +3317,7 @@
                     {
                         "url": "https://t.co/F4orisrrDn",
                         "expanded_url": "https://www.reddit.com/r/ArcBrowser/comments/10pbd1p/arc_browser_and_the_google_cloud_console",
-                        "display_url": "reddit.com/r/ArcBrowser/c…",
+                        "display_url": "reddit.com/r/ArcBrowser/c\u2026",
                         "indices": [
                             59,
                             82
@@ -3338,10 +3338,10 @@
             "user": {
                 "id": 746588179688366080,
                 "id_str": "746588179688366080",
-                "name": "sushimoto 🍣",
+                "name": "sushimoto \ud83c\udf63",
                 "screen_name": "kohbis",
                 "location": "",
-                "description": "寿司駆動開発🍣 Sushi Reliability Engineering 🍣",
+                "description": "\u5bff\u53f8\u99c6\u52d5\u958b\u767a\ud83c\udf63 Sushi Reliability Engineering \ud83c\udf63",
                 "url": "https://t.co/8Yr0dhkhor",
                 "entities": {
                     "url": {
@@ -3525,8 +3525,8 @@
                 "id_str": "1009036439844278274",
                 "name": "Lucas",
                 "screen_name": "lucas_rybak",
-                "location": "Berchères-les-Pierres, France",
-                "description": "J’ai 18 ans 🎉 \nInstagram : https://t.co/vfohSmVxDm…",
+                "location": "Berch\u00e8res-les-Pierres, France",
+                "description": "J\u2019ai 18 ans \ud83c\udf89 \nInstagram : https://t.co/vfohSmVxDm\u2026",
                 "url": null,
                 "entities": {
                     "description": {
@@ -3548,7 +3548,7 @@
                 "friends_count": 150,
                 "listed_count": 0,
                 "created_at": "Tue Jun 19 11:33:29 +0000 2018",
-                "favourites_count": 5713,
+                "favourites_count": 5712,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": true,
@@ -3595,7 +3595,7 @@
             "created_at": "Sun Mar 19 15:01:57 +0000 2023",
             "id": 1637469465716695040,
             "id_str": "1637469465716695040",
-            "text": "@Ldnbox I 100% agree with that but if you don't log in as a user in chrome it still lets you use the browser. Secon… https://t.co/HmxKHrOKIH",
+            "text": "@Ldnbox I 100% agree with that but if you don't log in as a user in chrome it still lets you use the browser. Secon\u2026 https://t.co/HmxKHrOKIH",
             "truncated": true,
             "entities": {
                 "hashtags": [],
@@ -3616,7 +3616,7 @@
                     {
                         "url": "https://t.co/HmxKHrOKIH",
                         "expanded_url": "https://twitter.com/i/web/status/1637469465716695040",
-                        "display_url": "twitter.com/i/web/status/1…",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
                         "indices": [
                             117,
                             140
@@ -3637,10 +3637,10 @@
             "user": {
                 "id": 281059786,
                 "id_str": "281059786",
-                "name": "Pranav B ",
+                "name": "Pranav B \uea00",
                 "screen_name": "pranav_begade",
                 "location": "India",
-                "description": "Founder at @Sapient_coders ⚡\n🦄 Entrepreneur \n🔥 Building MVPs for startups\n👨🏻‍💻 MERN Stack | DevOps \n2️⃣ nd time Founder, Starting again from \"0\"",
+                "description": "Founder at @Sapient_coders \u26a1\n\ud83e\udd84 Entrepreneur \n\ud83d\udd25 Building MVPs for startups\n\ud83d\udc68\ud83c\udffb\u200d\ud83d\udcbb MERN Stack | DevOps \n2\ufe0f\u20e3 nd time Founder, Starting again from \"0\"",
                 "url": "https://t.co/IJjmlBZsxH",
                 "entities": {
                     "url": {
@@ -3853,7 +3853,7 @@
                 "time_zone": null,
                 "geo_enabled": true,
                 "verified": false,
-                "statuses_count": 58821,
+                "statuses_count": 58822,
                 "lang": null,
                 "contributors_enabled": false,
                 "is_translator": false,
@@ -3927,10 +3927,10 @@
             "user": {
                 "id": 1184431097607622656,
                 "id_str": "1184431097607622656",
-                "name": "𝙽𝚘𝚊𝚑 𝙲𝚊𝚝 ",
+                "name": "\ud835\ude7d\ud835\ude98\ud835\ude8a\ud835\ude91 \ud835\ude72\ud835\ude8a\ud835\ude9d \uea00\uf8ff",
                 "screen_name": "Cartidise",
                 "location": "your heart",
-                "description": "𝚌𝚊𝚝 | 𝚃𝚎𝚌𝚑 𝚆𝚛𝚒𝚝𝚎𝚛 |\n𝚆𝚘𝚛𝚍𝚜 𝚘𝚗 @DealNTech",
+                "description": "\ud835\ude8c\ud835\ude8a\ud835\ude9d | \ud835\ude83\ud835\ude8e\ud835\ude8c\ud835\ude91 \ud835\ude86\ud835\ude9b\ud835\ude92\ud835\ude9d\ud835\ude8e\ud835\ude9b |\n\ud835\ude86\ud835\ude98\ud835\ude9b\ud835\ude8d\ud835\ude9c \ud835\ude98\ud835\ude97 @DealNTech",
                 "url": "https://t.co/ogkq9FlAeZ",
                 "entities": {
                     "url": {
@@ -3955,12 +3955,12 @@
                 "friends_count": 372,
                 "listed_count": 7,
                 "created_at": "Wed Oct 16 11:29:51 +0000 2019",
-                "favourites_count": 73471,
+                "favourites_count": 73469,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": true,
                 "verified": false,
-                "statuses_count": 21656,
+                "statuses_count": 21657,
                 "lang": null,
                 "contributors_enabled": false,
                 "is_translator": false,
@@ -4022,10 +4022,10 @@
             "user": {
                 "id": 835548508224651264,
                 "id_str": "835548508224651264",
-                "name": "🇿🇦 🫶🏾🇿🇦",
+                "name": "\ud83c\uddff\ud83c\udde6 \ud83e\udef6\ud83c\udffe\ud83c\uddff\ud83c\udde6",
                 "screen_name": "TheRealBandisa",
                 "location": "Cape Town, South Africa",
-                "description": "🇸🇿 Swati 🇸🇿 📱🖥📹🎥📺Tech 🖥📹🎥🎶Music🎶🧉Anime🧉🕹Gaming🕹 5 May 🎂 Software Engineer",
+                "description": "\ud83c\uddf8\ud83c\uddff Swati \ud83c\uddf8\ud83c\uddff \ud83d\udcf1\ud83d\udda5\ud83d\udcf9\ud83c\udfa5\ud83d\udcfaTech \ud83d\udda5\ud83d\udcf9\ud83c\udfa5\ud83c\udfb6Music\ud83c\udfb6\ud83e\uddc9Anime\ud83e\uddc9\ud83d\udd79Gaming\ud83d\udd79 5 May \ud83c\udf82 Software Engineer",
                 "url": "https://t.co/WwMM3HEh74",
                 "entities": {
                     "url": {
@@ -4046,11 +4046,11 @@
                     }
                 },
                 "protected": false,
-                "followers_count": 10202,
-                "friends_count": 10891,
+                "followers_count": 10203,
+                "friends_count": 10897,
                 "listed_count": 5,
                 "created_at": "Sat Feb 25 17:54:22 +0000 2017",
-                "favourites_count": 58701,
+                "favourites_count": 58700,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": true,
@@ -4127,10 +4127,10 @@
             "user": {
                 "id": 27743941,
                 "id_str": "27743941",
-                "name": "Ozan Öztaskiran",
+                "name": "Ozan \u00d6ztaskiran",
                 "screen_name": "ozanoz",
                 "location": "Stockholm, Sweden",
-                "description": "✦ Experienced Designer ✦ Mentoring on https://t.co/WGS5XANspA ✦ Sharing product design related tips and resources⎯#TheGoodStuff, things I learn, and things I like.",
+                "description": "\u2726 Experienced Designer \u2726 Mentoring on https://t.co/WGS5XANspA \u2726 Sharing product design related tips and resources\u23af#TheGoodStuff, things I learn, and things I like.",
                 "url": "https://t.co/82z7hxM3cC",
                 "entities": {
                     "url": {
@@ -4161,11 +4161,11 @@
                     }
                 },
                 "protected": false,
-                "followers_count": 2117,
+                "followers_count": 2118,
                 "friends_count": 660,
                 "listed_count": 55,
                 "created_at": "Mon Mar 30 22:15:34 +0000 2009",
-                "favourites_count": 19775,
+                "favourites_count": 19776,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": true,
@@ -4244,10 +4244,10 @@
             "user": {
                 "id": 892882060934864898,
                 "id_str": "892882060934864898",
-                "name": "Smail 👨🏻‍💻",
+                "name": "Smail \ud83d\udc68\ud83c\udffb\u200d\ud83d\udcbb",
                 "screen_name": "ilahyani_",
                 "location": "Casablanca, Morocco",
-                "description": "Technophile at @1337FIL 👨🏻‍💻 Mugiwara Pirate 🏴‍☠️",
+                "description": "Technophile at @1337FIL \ud83d\udc68\ud83c\udffb\u200d\ud83d\udcbb Mugiwara Pirate \ud83c\udff4\u200d\u2620\ufe0f",
                 "url": "https://t.co/8Yidk0l6Iz",
                 "entities": {
                     "url": {
@@ -4272,7 +4272,7 @@
                 "friends_count": 370,
                 "listed_count": 2,
                 "created_at": "Wed Aug 02 22:57:27 +0000 2017",
-                "favourites_count": 11074,
+                "favourites_count": 11076,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": false,
@@ -4318,7 +4318,7 @@
             "created_at": "Sun Mar 19 11:29:47 +0000 2023",
             "id": 1637416071467606016,
             "id_str": "1637416071467606016",
-            "text": "If you are on MacOS get the ARC browser by The Browser Company Of New York.\n\nIt will change how you use the interne… https://t.co/a6kVQDbkZB",
+            "text": "If you are on MacOS get the ARC browser by The Browser Company Of New York.\n\nIt will change how you use the interne\u2026 https://t.co/a6kVQDbkZB",
             "truncated": true,
             "entities": {
                 "hashtags": [],
@@ -4328,7 +4328,7 @@
                     {
                         "url": "https://t.co/a6kVQDbkZB",
                         "expanded_url": "https://twitter.com/i/web/status/1637416071467606016",
-                        "display_url": "twitter.com/i/web/status/1…",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
                         "indices": [
                             117,
                             140
@@ -4410,7 +4410,7 @@
             "created_at": "Sun Mar 19 11:07:23 +0000 2023",
             "id": 1637410431475261443,
             "id_str": "1637410431475261443",
-            "text": "@djasif Ah yeah, that feels so satisfying and the tabs feature is so good. Other than that, I’ve mapped the scroll… https://t.co/OXAnp2ydjV",
+            "text": "@djasif Ah yeah, that feels so satisfying and the tabs feature is so good. Other than that, I\u2019ve mapped the scroll\u2026 https://t.co/OXAnp2ydjV",
             "truncated": true,
             "entities": {
                 "hashtags": [],
@@ -4431,7 +4431,7 @@
                     {
                         "url": "https://t.co/OXAnp2ydjV",
                         "expanded_url": "https://twitter.com/i/web/status/1637410431475261443",
-                        "display_url": "twitter.com/i/web/status/1…",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
                         "indices": [
                             116,
                             139
@@ -4480,7 +4480,7 @@
                 "friends_count": 1153,
                 "listed_count": 17,
                 "created_at": "Sat May 16 12:49:17 +0000 2015",
-                "favourites_count": 134082,
+                "favourites_count": 134084,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": true,
@@ -4526,7 +4526,7 @@
             "created_at": "Sun Mar 19 10:28:08 +0000 2023",
             "id": 1637400554447032320,
             "id_str": "1637400554447032320",
-            "text": "Does anyone of you try @browsercompany 's Arc browser? Unfortunately it's only for MacOS right now but mobile/windo… https://t.co/yLhNwuIdDA",
+            "text": "Does anyone of you try @browsercompany 's Arc browser? Unfortunately it's only for MacOS right now but mobile/windo\u2026 https://t.co/yLhNwuIdDA",
             "truncated": true,
             "entities": {
                 "hashtags": [],
@@ -4547,7 +4547,7 @@
                     {
                         "url": "https://t.co/yLhNwuIdDA",
                         "expanded_url": "https://twitter.com/i/web/status/1637400554447032320",
-                        "display_url": "twitter.com/i/web/status/1…",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
                         "indices": [
                             117,
                             140
@@ -4653,7 +4653,7 @@
             "created_at": "Sun Mar 19 10:25:51 +0000 2023",
             "id": 1637399978900586499,
             "id_str": "1637399978900586499",
-            "text": "RT @teja2495: Been exploring the Arc Browser… These are things I liked about it so far.\n\n- Beautiful UI. I liked the idea of having everyth…",
+            "text": "RT @teja2495: Been exploring the Arc Browser\u2026 These are things I liked about it so far.\n\n- Beautiful UI. I liked the idea of having everyth\u2026",
             "truncated": false,
             "entities": {
                 "hashtags": [],
@@ -4685,10 +4685,10 @@
             "user": {
                 "id": 1100311777693319168,
                 "id_str": "1100311777693319168",
-                "name": "Sanatani LionKing 🚩",
+                "name": "Sanatani LionKing \ud83d\udea9",
                 "screen_name": "ghost5923",
                 "location": "India",
-                "description": "|| भूत पिशाच निकट नहीं आवे\nमहावीर जब नाम सुनावे ||\nJay Shree Ram 🚩🚩\nJay Hind 🇮🇳🇮🇳🇮🇳",
+                "description": "|| \u092d\u0942\u0924 \u092a\u093f\u0936\u093e\u091a \u0928\u093f\u0915\u091f \u0928\u0939\u0940\u0902 \u0906\u0935\u0947\n\u092e\u0939\u093e\u0935\u0940\u0930 \u091c\u092c \u0928\u093e\u092e \u0938\u0941\u0928\u093e\u0935\u0947 ||\nJay Shree Ram \ud83d\udea9\ud83d\udea9\nJay Hind \ud83c\uddee\ud83c\uddf3\ud83c\uddee\ud83c\uddf3\ud83c\uddee\ud83c\uddf3",
                 "url": null,
                 "entities": {
                     "description": {
@@ -4739,7 +4739,7 @@
                 "created_at": "Sun Mar 19 07:24:34 +0000 2023",
                 "id": 1637354361012535296,
                 "id_str": "1637354361012535296",
-                "text": "Been exploring the Arc Browser… These are things I liked about it so far.\n\n- Beautiful UI. I liked the idea of havi… https://t.co/UJWt97lEeQ",
+                "text": "Been exploring the Arc Browser\u2026 These are things I liked about it so far.\n\n- Beautiful UI. I liked the idea of havi\u2026 https://t.co/UJWt97lEeQ",
                 "truncated": true,
                 "entities": {
                     "hashtags": [],
@@ -4749,7 +4749,7 @@
                         {
                             "url": "https://t.co/UJWt97lEeQ",
                             "expanded_url": "https://twitter.com/i/web/status/1637354361012535296",
-                            "display_url": "twitter.com/i/web/status/1…",
+                            "display_url": "twitter.com/i/web/status/1\u2026",
                             "indices": [
                                 117,
                                 140
@@ -4795,10 +4795,10 @@
                     },
                     "protected": false,
                     "followers_count": 4637,
-                    "friends_count": 481,
+                    "friends_count": 482,
                     "listed_count": 11,
                     "created_at": "Wed Jul 28 05:44:10 +0000 2010",
-                    "favourites_count": 8799,
+                    "favourites_count": 8801,
                     "utc_offset": null,
                     "time_zone": null,
                     "geo_enabled": true,
@@ -4852,7 +4852,7 @@
             "created_at": "Sun Mar 19 10:23:49 +0000 2023",
             "id": 1637399469032439810,
             "id_str": "1637399469032439810",
-            "text": "Arc browser by @browsercompany looks really good👏🏿👏🏿",
+            "text": "Arc browser by @browsercompany looks really good\ud83d\udc4f\ud83c\udfff\ud83d\udc4f\ud83c\udfff",
             "truncated": false,
             "entities": {
                 "hashtags": [],
@@ -4884,7 +4884,7 @@
             "user": {
                 "id": 1257875744014962689,
                 "id_str": "1257875744014962689",
-                "name": "Skillz.go🥷🏿",
+                "name": "Skillz.go\ud83e\udd77\ud83c\udfff",
                 "screen_name": "Sk1_ll3",
                 "location": "",
                 "description": "Surfing the performant world of Backend Engineering | Go, Py ft #DubNation",
@@ -4958,7 +4958,7 @@
             "created_at": "Sun Mar 19 10:13:55 +0000 2023",
             "id": 1637396976215130112,
             "id_str": "1637396976215130112",
-            "text": "RT @teja2495: Been exploring the Arc Browser… These are things I liked about it so far.\n\n- Beautiful UI. I liked the idea of having everyth…",
+            "text": "RT @teja2495: Been exploring the Arc Browser\u2026 These are things I liked about it so far.\n\n- Beautiful UI. I liked the idea of having everyth\u2026",
             "truncated": false,
             "entities": {
                 "hashtags": [],
@@ -5044,7 +5044,7 @@
                 "created_at": "Sun Mar 19 07:24:34 +0000 2023",
                 "id": 1637354361012535296,
                 "id_str": "1637354361012535296",
-                "text": "Been exploring the Arc Browser… These are things I liked about it so far.\n\n- Beautiful UI. I liked the idea of havi… https://t.co/UJWt97lEeQ",
+                "text": "Been exploring the Arc Browser\u2026 These are things I liked about it so far.\n\n- Beautiful UI. I liked the idea of havi\u2026 https://t.co/UJWt97lEeQ",
                 "truncated": true,
                 "entities": {
                     "hashtags": [],
@@ -5054,7 +5054,7 @@
                         {
                             "url": "https://t.co/UJWt97lEeQ",
                             "expanded_url": "https://twitter.com/i/web/status/1637354361012535296",
-                            "display_url": "twitter.com/i/web/status/1…",
+                            "display_url": "twitter.com/i/web/status/1\u2026",
                             "indices": [
                                 117,
                                 140
@@ -5100,10 +5100,10 @@
                     },
                     "protected": false,
                     "followers_count": 4637,
-                    "friends_count": 481,
+                    "friends_count": 482,
                     "listed_count": 11,
                     "created_at": "Wed Jul 28 05:44:10 +0000 2010",
-                    "favourites_count": 8799,
+                    "favourites_count": 8801,
                     "utc_offset": null,
                     "time_zone": null,
                     "geo_enabled": true,
@@ -5157,7 +5157,7 @@
             "created_at": "Sun Mar 19 10:11:39 +0000 2023",
             "id": 1637396408004395008,
             "id_str": "1637396408004395008",
-            "text": "気になりつつ、試すのはこれから。\nArc\n\nhttps://t.co/EuWe5N0RKr",
+            "text": "\u6c17\u306b\u306a\u308a\u3064\u3064\u3001\u8a66\u3059\u306e\u306f\u3053\u308c\u304b\u3089\u3002\nArc\n\nhttps://t.co/EuWe5N0RKr",
             "truncated": false,
             "entities": {
                 "hashtags": [],
@@ -5167,7 +5167,7 @@
                     {
                         "url": "https://t.co/EuWe5N0RKr",
                         "expanded_url": "https://www.lifehacker.jp/article/2303-reasons-to-try-arc-browser-for-mac/",
-                        "display_url": "lifehacker.jp/article/2303-r…",
+                        "display_url": "lifehacker.jp/article/2303-r\u2026",
                         "indices": [
                             22,
                             45
@@ -5190,8 +5190,8 @@
                 "id_str": "101118058",
                 "name": "shambata",
                 "screen_name": "shambata",
-                "location": "関西",
-                "description": "環境の変化に合わせて、路線大幅変更。当分、静かに過ごします。\nお好みは、じっちゃま、ばっちゃま、わらびもち。",
+                "location": "\u95a2\u897f",
+                "description": "\u74b0\u5883\u306e\u5909\u5316\u306b\u5408\u308f\u305b\u3066\u3001\u8def\u7dda\u5927\u5e45\u5909\u66f4\u3002\u5f53\u5206\u3001\u9759\u304b\u306b\u904e\u3054\u3057\u307e\u3059\u3002\n\u304a\u597d\u307f\u306f\u3001\u3058\u3063\u3061\u3083\u307e\u3001\u3070\u3063\u3061\u3083\u307e\u3001\u308f\u3089\u3073\u3082\u3061\u3002",
                 "url": null,
                 "entities": {
                     "description": {
@@ -5239,7 +5239,7 @@
             "contributors": null,
             "is_quote_status": false,
             "retweet_count": 0,
-            "favorite_count": 6,
+            "favorite_count": 7,
             "favorited": false,
             "retweeted": false,
             "possibly_sensitive": false,
@@ -5249,7 +5249,7 @@
             "created_at": "Sun Mar 19 10:04:49 +0000 2023",
             "id": 1637394687672696834,
             "id_str": "1637394687672696834",
-            "text": "Bir haftadır Arc browser kullanıyorum, Chrome'a o kadar alışmışım ki düzgün bir kullanıcı deneyimi sunan bi uygulam… https://t.co/DA7DBByJA9",
+            "text": "Bir haftad\u0131r Arc browser kullan\u0131yorum, Chrome'a o kadar al\u0131\u015fm\u0131\u015f\u0131m ki d\u00fczg\u00fcn bir kullan\u0131c\u0131 deneyimi sunan bi uygulam\u2026 https://t.co/DA7DBByJA9",
             "truncated": true,
             "entities": {
                 "hashtags": [],
@@ -5259,7 +5259,7 @@
                     {
                         "url": "https://t.co/DA7DBByJA9",
                         "expanded_url": "https://twitter.com/i/web/status/1637394687672696834",
-                        "display_url": "twitter.com/i/web/status/1…",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
                         "indices": [
                             117,
                             140
@@ -5280,7 +5280,7 @@
             "user": {
                 "id": 330512232,
                 "id_str": "330512232",
-                "name": "Aslan Sarı",
+                "name": "Aslan Sar\u0131",
                 "screen_name": "asaridev",
                 "location": "",
                 "description": "android developer @loodos, maker",
@@ -5355,7 +5355,7 @@
             "created_at": "Sun Mar 19 09:38:06 +0000 2023",
             "id": 1637387964001943554,
             "id_str": "1637387964001943554",
-            "text": "RT @teja2495: Been exploring the Arc Browser… These are things I liked about it so far.\n\n- Beautiful UI. I liked the idea of having everyth…",
+            "text": "RT @teja2495: Been exploring the Arc Browser\u2026 These are things I liked about it so far.\n\n- Beautiful UI. I liked the idea of having everyth\u2026",
             "truncated": false,
             "entities": {
                 "hashtags": [],
@@ -5387,7 +5387,7 @@
             "user": {
                 "id": 5804172,
                 "id_str": "5804172",
-                "name": "𖣠ꚳꚳꚲ - olly.dgb",
+                "name": "\ud81a\udce0\ua6b3\ua6b3\ua6b2 - olly.dgb",
                 "screen_name": "saltedlolly",
                 "location": "UK",
                 "description": "Lost down the #crypto rabbit hole. Advocate for an open, #decentralized, permissionless, trustless, borderless, #blockchain future. Think #DigiByte.",
@@ -5454,7 +5454,7 @@
                 "created_at": "Sun Mar 19 07:24:34 +0000 2023",
                 "id": 1637354361012535296,
                 "id_str": "1637354361012535296",
-                "text": "Been exploring the Arc Browser… These are things I liked about it so far.\n\n- Beautiful UI. I liked the idea of havi… https://t.co/UJWt97lEeQ",
+                "text": "Been exploring the Arc Browser\u2026 These are things I liked about it so far.\n\n- Beautiful UI. I liked the idea of havi\u2026 https://t.co/UJWt97lEeQ",
                 "truncated": true,
                 "entities": {
                     "hashtags": [],
@@ -5464,7 +5464,7 @@
                         {
                             "url": "https://t.co/UJWt97lEeQ",
                             "expanded_url": "https://twitter.com/i/web/status/1637354361012535296",
-                            "display_url": "twitter.com/i/web/status/1…",
+                            "display_url": "twitter.com/i/web/status/1\u2026",
                             "indices": [
                                 117,
                                 140
@@ -5510,10 +5510,10 @@
                     },
                     "protected": false,
                     "followers_count": 4637,
-                    "friends_count": 481,
+                    "friends_count": 482,
                     "listed_count": 11,
                     "created_at": "Wed Jul 28 05:44:10 +0000 2010",
-                    "favourites_count": 8799,
+                    "favourites_count": 8801,
                     "utc_offset": null,
                     "time_zone": null,
                     "geo_enabled": true,
@@ -5567,7 +5567,7 @@
             "created_at": "Sun Mar 19 08:59:58 +0000 2023",
             "id": 1637378368902672386,
             "id_str": "1637378368902672386",
-            "text": "started with creating login page with ChatGPt and ended with what is web engine\n\ndistractions \nsaw a tweet on arc b… https://t.co/xf9GdxZfkr",
+            "text": "started with creating login page with ChatGPt and ended with what is web engine\n\ndistractions \nsaw a tweet on arc b\u2026 https://t.co/xf9GdxZfkr",
             "truncated": true,
             "entities": {
                 "hashtags": [],
@@ -5577,7 +5577,7 @@
                     {
                         "url": "https://t.co/xf9GdxZfkr",
                         "expanded_url": "https://twitter.com/i/web/status/1637378368902672386",
-                        "display_url": "twitter.com/i/web/status/1…",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
                         "indices": [
                             117,
                             140
@@ -5611,7 +5611,7 @@
                 "protected": false,
                 "followers_count": 6,
                 "friends_count": 81,
-                "listed_count": 1,
+                "listed_count": 0,
                 "created_at": "Tue Aug 23 04:44:03 +0000 2022",
                 "favourites_count": 2414,
                 "utc_offset": null,
@@ -5658,7 +5658,7 @@
             "created_at": "Sun Mar 19 07:52:18 +0000 2023",
             "id": 1637361338698850308,
             "id_str": "1637361338698850308",
-            "text": "RT @teja2495: Been exploring the Arc Browser… These are things I liked about it so far.\n\n- Beautiful UI. I liked the idea of having everyth…",
+            "text": "RT @teja2495: Been exploring the Arc Browser\u2026 These are things I liked about it so far.\n\n- Beautiful UI. I liked the idea of having everyth\u2026",
             "truncated": false,
             "entities": {
                 "hashtags": [],
@@ -5743,7 +5743,7 @@
                 "created_at": "Sun Mar 19 07:24:34 +0000 2023",
                 "id": 1637354361012535296,
                 "id_str": "1637354361012535296",
-                "text": "Been exploring the Arc Browser… These are things I liked about it so far.\n\n- Beautiful UI. I liked the idea of havi… https://t.co/UJWt97lEeQ",
+                "text": "Been exploring the Arc Browser\u2026 These are things I liked about it so far.\n\n- Beautiful UI. I liked the idea of havi\u2026 https://t.co/UJWt97lEeQ",
                 "truncated": true,
                 "entities": {
                     "hashtags": [],
@@ -5753,7 +5753,7 @@
                         {
                             "url": "https://t.co/UJWt97lEeQ",
                             "expanded_url": "https://twitter.com/i/web/status/1637354361012535296",
-                            "display_url": "twitter.com/i/web/status/1…",
+                            "display_url": "twitter.com/i/web/status/1\u2026",
                             "indices": [
                                 117,
                                 140
@@ -5799,10 +5799,10 @@
                     },
                     "protected": false,
                     "followers_count": 4637,
-                    "friends_count": 481,
+                    "friends_count": 482,
                     "listed_count": 11,
                     "created_at": "Wed Jul 28 05:44:10 +0000 2010",
-                    "favourites_count": 8799,
+                    "favourites_count": 8801,
                     "utc_offset": null,
                     "time_zone": null,
                     "geo_enabled": true,
@@ -5856,7 +5856,7 @@
             "created_at": "Sun Mar 19 07:33:16 +0000 2023",
             "id": 1637356549638324224,
             "id_str": "1637356549638324224",
-            "text": "RT @teja2495: Been exploring the Arc Browser… These are things I liked about it so far.\n\n- Beautiful UI. I liked the idea of having everyth…",
+            "text": "RT @teja2495: Been exploring the Arc Browser\u2026 These are things I liked about it so far.\n\n- Beautiful UI. I liked the idea of having everyth\u2026",
             "truncated": false,
             "entities": {
                 "hashtags": [],
@@ -5891,7 +5891,7 @@
                 "name": "Naniiii",
                 "screen_name": "gallodeepam",
                 "location": "Hyderabad, India",
-                "description": "మరమనుషుల కాలంలో \nమనుషుల మరమ్మత్తులు\n😏",
+                "description": "\u0c2e\u0c30\u0c2e\u0c28\u0c41\u0c37\u0c41\u0c32 \u0c15\u0c3e\u0c32\u0c02\u0c32\u0c4b \n\u0c2e\u0c28\u0c41\u0c37\u0c41\u0c32 \u0c2e\u0c30\u0c2e\u0c4d\u0c2e\u0c24\u0c4d\u0c24\u0c41\u0c32\u0c41\n\ud83d\ude0f",
                 "url": null,
                 "entities": {
                     "description": {
@@ -5900,10 +5900,10 @@
                 },
                 "protected": false,
                 "followers_count": 101,
-                "friends_count": 1360,
+                "friends_count": 1359,
                 "listed_count": 0,
                 "created_at": "Sun Dec 03 14:03:39 +0000 2017",
-                "favourites_count": 113873,
+                "favourites_count": 113871,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": true,
@@ -5942,7 +5942,7 @@
                 "created_at": "Sun Mar 19 07:24:34 +0000 2023",
                 "id": 1637354361012535296,
                 "id_str": "1637354361012535296",
-                "text": "Been exploring the Arc Browser… These are things I liked about it so far.\n\n- Beautiful UI. I liked the idea of havi… https://t.co/UJWt97lEeQ",
+                "text": "Been exploring the Arc Browser\u2026 These are things I liked about it so far.\n\n- Beautiful UI. I liked the idea of havi\u2026 https://t.co/UJWt97lEeQ",
                 "truncated": true,
                 "entities": {
                     "hashtags": [],
@@ -5952,7 +5952,7 @@
                         {
                             "url": "https://t.co/UJWt97lEeQ",
                             "expanded_url": "https://twitter.com/i/web/status/1637354361012535296",
-                            "display_url": "twitter.com/i/web/status/1…",
+                            "display_url": "twitter.com/i/web/status/1\u2026",
                             "indices": [
                                 117,
                                 140
@@ -5998,10 +5998,10 @@
                     },
                     "protected": false,
                     "followers_count": 4637,
-                    "friends_count": 481,
+                    "friends_count": 482,
                     "listed_count": 11,
                     "created_at": "Wed Jul 28 05:44:10 +0000 2010",
-                    "favourites_count": 8799,
+                    "favourites_count": 8801,
                     "utc_offset": null,
                     "time_zone": null,
                     "geo_enabled": true,
@@ -6055,7 +6055,7 @@
             "created_at": "Sun Mar 19 07:24:34 +0000 2023",
             "id": 1637354361012535296,
             "id_str": "1637354361012535296",
-            "text": "Been exploring the Arc Browser… These are things I liked about it so far.\n\n- Beautiful UI. I liked the idea of havi… https://t.co/UJWt97lEeQ",
+            "text": "Been exploring the Arc Browser\u2026 These are things I liked about it so far.\n\n- Beautiful UI. I liked the idea of havi\u2026 https://t.co/UJWt97lEeQ",
             "truncated": true,
             "entities": {
                 "hashtags": [],
@@ -6065,7 +6065,7 @@
                     {
                         "url": "https://t.co/UJWt97lEeQ",
                         "expanded_url": "https://twitter.com/i/web/status/1637354361012535296",
-                        "display_url": "twitter.com/i/web/status/1…",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
                         "indices": [
                             117,
                             140
@@ -6111,10 +6111,10 @@
                 },
                 "protected": false,
                 "followers_count": 4637,
-                "friends_count": 481,
+                "friends_count": 482,
                 "listed_count": 11,
                 "created_at": "Wed Jul 28 05:44:10 +0000 2010",
-                "favourites_count": 8799,
+                "favourites_count": 8801,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": true,
@@ -6161,7 +6161,7 @@
             "created_at": "Sun Mar 19 06:33:24 +0000 2023",
             "id": 1637341481227939840,
             "id_str": "1637341481227939840",
-            "text": "Arc Browser 啥都好，就是 Auto  Achieve 有点烦，但又关不掉",
+            "text": "Arc Browser \u5565\u90fd\u597d\uff0c\u5c31\u662f Auto  Achieve \u6709\u70b9\u70e6\uff0c\u4f46\u53c8\u5173\u4e0d\u6389",
             "truncated": false,
             "entities": {
                 "hashtags": [],
@@ -6185,7 +6185,7 @@
                 "name": "lazzzis",
                 "screen_name": "lazzzis",
                 "location": "California, USA",
-                "description": "穿越失败 | @lazzzis@o3o.ca",
+                "description": "\u7a7f\u8d8a\u5931\u8d25 | @lazzzis@o3o.ca",
                 "url": "https://t.co/cSPMGvRMtV",
                 "entities": {
                     "url": {
@@ -6289,7 +6289,7 @@
                 },
                 "protected": false,
                 "followers_count": 1986,
-                "friends_count": 566,
+                "friends_count": 568,
                 "listed_count": 5,
                 "created_at": "Tue Jun 21 11:31:08 +0000 2022",
                 "favourites_count": 2910,
@@ -6297,7 +6297,7 @@
                 "time_zone": null,
                 "geo_enabled": true,
                 "verified": false,
-                "statuses_count": 6245,
+                "statuses_count": 6248,
                 "lang": null,
                 "contributors_enabled": false,
                 "is_translator": false,
@@ -6338,7 +6338,7 @@
             "created_at": "Sun Mar 19 05:57:48 +0000 2023",
             "id": 1637332524849573889,
             "id_str": "1637332524849573889",
-            "text": "@PriteshKiri Recently switched to Arc Browser from @browsercompany, and I love the experience.\n\nA few things I love… https://t.co/kf0sRkCJ96",
+            "text": "@PriteshKiri Recently switched to Arc Browser from @browsercompany, and I love the experience.\n\nA few things I love\u2026 https://t.co/kf0sRkCJ96",
             "truncated": true,
             "entities": {
                 "hashtags": [],
@@ -6369,7 +6369,7 @@
                     {
                         "url": "https://t.co/kf0sRkCJ96",
                         "expanded_url": "https://twitter.com/i/web/status/1637332524849573889",
-                        "display_url": "twitter.com/i/web/status/1…",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
                         "indices": [
                             117,
                             140
@@ -6390,10 +6390,10 @@
             "user": {
                 "id": 4503155494,
                 "id_str": "4503155494",
-                "name": "Gaël Thomas",
+                "name": "Ga\u00ebl Thomas",
                 "screen_name": "gaelgthomas",
-                "location": "Coding & Exploring Asia 🎒🌏",
-                "description": "Unlock your Web Development skills!🚀 I'm a Remote Software Engineer sharing educational content. Let's learn & grow together!📚 DMs are open, let's connect!🤝",
+                "location": "Coding & Exploring Asia \ud83c\udf92\ud83c\udf0f",
+                "description": "Unlock your Web Development skills!\ud83d\ude80 I'm a Remote Software Engineer sharing educational content. Let's learn & grow together!\ud83d\udcda DMs are open, let's connect!\ud83e\udd1d",
                 "url": "https://t.co/8AD9gCpydk",
                 "entities": {
                     "url": {
@@ -6455,7 +6455,7 @@
             "contributors": null,
             "is_quote_status": false,
             "retweet_count": 0,
-            "favorite_count": 33,
+            "favorite_count": 34,
             "favorited": false,
             "retweeted": false,
             "lang": "en"
@@ -6464,7 +6464,7 @@
             "created_at": "Sun Mar 19 04:46:48 +0000 2023",
             "id": 1637314654576754688,
             "id_str": "1637314654576754688",
-            "text": "Hey, here’s an 5 invites to Arc, the browser I was telling you about!\n#Arc #ArcBrowser \nhttps://t.co/387REUPfao https://t.co/QptK56ncGh",
+            "text": "Hey, here\u2019s an 5 invites to Arc, the browser I was telling you about!\n#Arc #ArcBrowser \nhttps://t.co/387REUPfao https://t.co/QptK56ncGh",
             "truncated": false,
             "entities": {
                 "hashtags": [
@@ -6588,10 +6588,10 @@
             "user": {
                 "id": 15128675,
                 "id_str": "15128675",
-                "name": "يوسف 👁‍🗨",
+                "name": "\u064a\u0648\u0633\u0641 \ud83d\udc41\u200d\ud83d\udde8",
                 "screen_name": "iYousif",
                 "location": "GPS signal lost.",
-                "description": "The most important part of your life is the time that you spend with us on twitter. That’s why all of you are here. You need all of them, and they need you.",
+                "description": "The most important part of your life is the time that you spend with us on twitter. That\u2019s why all of you are here. You need all of them, and they need you.",
                 "url": "https://t.co/9LosgFa7rB",
                 "entities": {
                     "url": {
@@ -6616,7 +6616,7 @@
                 "friends_count": 606,
                 "listed_count": 70,
                 "created_at": "Sun Jun 15 22:52:54 +0000 2008",
-                "favourites_count": 29287,
+                "favourites_count": 29289,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": false,
@@ -6663,7 +6663,7 @@
             "created_at": "Sun Mar 19 02:51:34 +0000 2023",
             "id": 1637285657209978880,
             "id_str": "1637285657209978880",
-            "text": "Arc Browser team might just have done something with this new browser. I certainly approve 👏🏾👏🏾",
+            "text": "Arc Browser team might just have done something with this new browser. I certainly approve \ud83d\udc4f\ud83c\udffe\ud83d\udc4f\ud83c\udffe",
             "truncated": false,
             "entities": {
                 "hashtags": [],
@@ -6687,7 +6687,7 @@
                 "name": "tenhush",
                 "screen_name": "tenhush",
                 "location": "Manchester, England",
-                "description": "Music Producer: Credits: @misspap, BlazeYL, JonnoAQ, Victoria Jane, KO and more. drop me an email if you’re trying to work. Beats in the bio",
+                "description": "Music Producer: Credits: @misspap, BlazeYL, JonnoAQ, Victoria Jane, KO and more. drop me an email if you\u2019re trying to work. Beats in the bio",
                 "url": "https://t.co/6D3kRuFs4B",
                 "entities": {
                     "url": {
@@ -6708,16 +6708,16 @@
                     }
                 },
                 "protected": false,
-                "followers_count": 1549,
+                "followers_count": 1550,
                 "friends_count": 3117,
                 "listed_count": 13,
                 "created_at": "Sat Sep 12 20:13:55 +0000 2009",
-                "favourites_count": 129939,
+                "favourites_count": 129942,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": true,
                 "verified": false,
-                "statuses_count": 107917,
+                "statuses_count": 107918,
                 "lang": null,
                 "contributors_enabled": false,
                 "is_translator": false,
@@ -6855,7 +6855,7 @@
             "created_at": "Sun Mar 19 00:16:01 +0000 2023",
             "id": 1637246511569403905,
             "id_str": "1637246511569403905",
-            "text": "In other news, @browsercompany 's Arc Browser is really impressing me. Strongly considering it over chrome right no… https://t.co/xiqVp7JoYT",
+            "text": "In other news, @browsercompany 's Arc Browser is really impressing me. Strongly considering it over chrome right no\u2026 https://t.co/xiqVp7JoYT",
             "truncated": true,
             "entities": {
                 "hashtags": [],
@@ -6876,7 +6876,7 @@
                     {
                         "url": "https://t.co/xiqVp7JoYT",
                         "expanded_url": "https://twitter.com/i/web/status/1637246511569403905",
-                        "display_url": "twitter.com/i/web/status/1…",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
                         "indices": [
                             117,
                             140
@@ -6981,7 +6981,7 @@
             "created_at": "Sat Mar 18 23:42:43 +0000 2023",
             "id": 1637238129450164224,
             "id_str": "1637238129450164224",
-            "text": "I still have a few invitations for Arc browser. And I really recommend it… anyone interested ? #arc #browsercompany #freeinvitations",
+            "text": "I still have a few invitations for Arc browser. And I really recommend it\u2026 anyone interested ? #arc #browsercompany #freeinvitations",
             "truncated": false,
             "entities": {
                 "hashtags": [
@@ -7024,10 +7024,10 @@
             "user": {
                 "id": 1447445314990870530,
                 "id_str": "1447445314990870530",
-                "name": "Alice Balle - ツナガル",
+                "name": "Alice Balle - \u30c4\u30ca\u30ac\u30eb",
                 "screen_name": "AliceBallePro",
                 "location": "Fukuoka City, Fukuoka",
-                "description": "Scientific Director @Tsunagaru・Bridges builder・Life long learner・Empathetic optimist・PhD in MR & Culture\nツナガルのサイエンティフィック・ディレクター・橋を架ける人・生涯学習者・共感型楽天家・MRと文化の博士",
+                "description": "Scientific Director @Tsunagaru\u30fbBridges builder\u30fbLife long learner\u30fbEmpathetic optimist\u30fbPhD in MR & Culture\n\u30c4\u30ca\u30ac\u30eb\u306e\u30b5\u30a4\u30a8\u30f3\u30c6\u30a3\u30d5\u30a3\u30c3\u30af\u30fb\u30c7\u30a3\u30ec\u30af\u30bf\u30fc\u30fb\u6a4b\u3092\u67b6\u3051\u308b\u4eba\u30fb\u751f\u6daf\u5b66\u7fd2\u8005\u30fb\u5171\u611f\u578b\u697d\u5929\u5bb6\u30fbMR\u3068\u6587\u5316\u306e\u535a\u58eb",
                 "url": "https://t.co/gP1QpeZNa1",
                 "entities": {
                     "url": {
@@ -7035,7 +7035,7 @@
                             {
                                 "url": "https://t.co/gP1QpeZNa1",
                                 "expanded_url": "https://www.linkedin.com/in/aliceguervilleballe",
-                                "display_url": "linkedin.com/in/aliceguervi…",
+                                "display_url": "linkedin.com/in/aliceguervi\u2026",
                                 "indices": [
                                     0,
                                     23
@@ -7131,7 +7131,7 @@
             "created_at": "Sat Mar 18 22:39:28 +0000 2023",
             "id": 1637222212557053953,
             "id_str": "1637222212557053953",
-            "text": "@Rafa_elaquino Siento buen desempeño y muchas cosas que me han agradado, aunque vi que muchos devs andan usando Arc Browser, lo has probado?",
+            "text": "@Rafa_elaquino Siento buen desempe\u00f1o y muchas cosas que me han agradado, aunque vi que muchos devs andan usando Arc Browser, lo has probado?",
             "truncated": false,
             "entities": {
                 "hashtags": [],
@@ -7139,7 +7139,7 @@
                 "user_mentions": [
                     {
                         "screen_name": "Rafa_elaquino",
-                        "name": "Rafael Aquino 🇻🇪 🇨🇴",
+                        "name": "Rafael Aquino \ud83c\uddfb\ud83c\uddea \ud83c\udde8\ud83c\uddf4",
                         "id": 1038814762719739904,
                         "id_str": "1038814762719739904",
                         "indices": [
@@ -7268,7 +7268,7 @@
                 "id_str": "885162196807942145",
                 "name": "Melodyyy!",
                 "screen_name": "Melocoder",
-                "location": "🇳🇬",
+                "location": "\ud83c\uddf3\ud83c\uddec",
                 "description": "Product Design Coach @hertechtrail | Side project @bestngsites",
                 "url": "https://t.co/gH19dfWG7q",
                 "entities": {
@@ -7348,7 +7348,7 @@
                 "user_mentions": [
                     {
                         "screen_name": "MohammedAziz90",
-                        "name": "aziz.eth🦇🔊⚛",
+                        "name": "aziz.eth\ud83e\udd87\ud83d\udd0a\u269b",
                         "id": 324061270,
                         "id_str": "324061270",
                         "indices": [
@@ -7508,7 +7508,7 @@
                 "user": {
                     "id": 324061270,
                     "id_str": "324061270",
-                    "name": "aziz.eth🦇🔊⚛",
+                    "name": "aziz.eth\ud83e\udd87\ud83d\udd0a\u269b",
                     "screen_name": "MohammedAziz90",
                     "location": "London",
                     "description": "Founder of Matte Black Crypto \n\nWeb 3 | AI | NFT | DeFi",
@@ -7533,7 +7533,7 @@
                     },
                     "protected": false,
                     "followers_count": 943,
-                    "friends_count": 4892,
+                    "friends_count": 4891,
                     "listed_count": 50,
                     "created_at": "Sat Jun 25 22:57:08 +0000 2011",
                     "favourites_count": 28719,
@@ -7591,7 +7591,7 @@
             "created_at": "Sat Mar 18 19:22:05 +0000 2023",
             "id": 1637172541067341826,
             "id_str": "1637172541067341826",
-            "text": "I got access to the Arc browser, but I'm not sure about the vertical tabs. 😔\n\nAre any of you using Arc? https://t.co/KxJe6MiR0R",
+            "text": "I got access to the Arc browser, but I'm not sure about the vertical tabs. \ud83d\ude14\n\nAre any of you using Arc? https://t.co/KxJe6MiR0R",
             "truncated": false,
             "entities": {
                 "hashtags": [],
@@ -7693,7 +7693,7 @@
                 "name": "Alek Asaduryan",
                 "screen_name": "Ldnbox",
                 "location": "Varna, Bulgaria",
-                "description": "Building niche websites for a living, sharing learnings from my online journey. 🚀 Learn SEO:  https://t.co/7CvQWANVLZ",
+                "description": "Building niche websites for a living, sharing learnings from my online journey. \ud83d\ude80 Learn SEO:  https://t.co/7CvQWANVLZ",
                 "url": "https://t.co/8PDnbsQpD3",
                 "entities": {
                     "url": {
@@ -7724,7 +7724,7 @@
                     }
                 },
                 "protected": false,
-                "followers_count": 14091,
+                "followers_count": 14094,
                 "friends_count": 330,
                 "listed_count": 261,
                 "created_at": "Tue Jul 07 18:49:37 +0000 2009",
@@ -7808,7 +7808,7 @@
                 },
                 "protected": false,
                 "followers_count": 1986,
-                "friends_count": 566,
+                "friends_count": 568,
                 "listed_count": 5,
                 "created_at": "Tue Jun 21 11:31:08 +0000 2022",
                 "favourites_count": 2910,
@@ -7816,7 +7816,7 @@
                 "time_zone": null,
                 "geo_enabled": true,
                 "verified": false,
-                "statuses_count": 6245,
+                "statuses_count": 6248,
                 "lang": null,
                 "contributors_enabled": false,
                 "is_translator": false,
@@ -7857,7 +7857,7 @@
             "created_at": "Sat Mar 18 18:43:05 +0000 2023",
             "id": 1637162725083103234,
             "id_str": "1637162725083103234",
-            "text": "@browsercompany made a better browser. Arc is more efficient. Needs better ad blocking, but the browser itself is d… https://t.co/x3fuddUvMe",
+            "text": "@browsercompany made a better browser. Arc is more efficient. Needs better ad blocking, but the browser itself is d\u2026 https://t.co/x3fuddUvMe",
             "truncated": true,
             "entities": {
                 "hashtags": [],
@@ -7878,7 +7878,7 @@
                     {
                         "url": "https://t.co/x3fuddUvMe",
                         "expanded_url": "https://twitter.com/i/web/status/1637162725083103234",
-                        "display_url": "twitter.com/i/web/status/1…",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
                         "indices": [
                             117,
                             140
@@ -8018,7 +8018,7 @@
                     }
                 },
                 "protected": false,
-                "followers_count": 388,
+                "followers_count": 386,
                 "friends_count": 395,
                 "listed_count": 19,
                 "created_at": "Fri Sep 19 19:07:34 +0000 2008",
@@ -8100,10 +8100,10 @@
             "user": {
                 "id": 2848886819,
                 "id_str": "2848886819",
-                "name": "Bembenok 🧑‍💻",
+                "name": "Bembenok \ud83e\uddd1\u200d\ud83d\udcbb",
                 "screen_name": "bbembenok",
-                "location": "🇺🇦 Ukraine",
-                "description": "💙 Lead Javascript Developer at @Exadel\n🤗 UI/UX Lover\n🦥 Procrastination Guru",
+                "location": "\ud83c\uddfa\ud83c\udde6 Ukraine",
+                "description": "\ud83d\udc99 Lead Javascript Developer at @Exadel\n\ud83e\udd17 UI/UX Lover\n\ud83e\udda5 Procrastination Guru",
                 "url": "https://t.co/zyRCLaOE1W",
                 "entities": {
                     "url": {
@@ -8174,7 +8174,7 @@
             "created_at": "Sat Mar 18 17:10:27 +0000 2023",
             "id": 1637139413535793152,
             "id_str": "1637139413535793152",
-            "text": "@heyiamparker hey, here’s an invite to Arc, the browser I was telling you about!\n\nhttps://t.co/0QYxYgCLFk",
+            "text": "@heyiamparker hey, here\u2019s an invite to Arc, the browser I was telling you about!\n\nhttps://t.co/0QYxYgCLFk",
             "truncated": false,
             "entities": {
                 "hashtags": [],
@@ -8219,7 +8219,7 @@
                 "name": "Haneen",
                 "screen_name": "HaneenMahdin",
                 "location": "/usr/bin/zsh",
-                "description": "✳︎ freelance developer building intuitive and functional digital products \n✳︎ building @FlexLogo\n✳︎ get my Notion template ⤵",
+                "description": "\u2733\ufe0e freelance developer building intuitive and functional digital products \n\u2733\ufe0e building @FlexLogo\n\u2733\ufe0e get my Notion template \u2935",
                 "url": "https://t.co/9TmRMMzkLp",
                 "entities": {
                     "url": {
@@ -8291,7 +8291,7 @@
             "created_at": "Sat Mar 18 17:10:01 +0000 2023",
             "id": 1637139303636647936,
             "id_str": "1637139303636647936",
-            "text": "@MeVivekJoshi hey, here’s an invite to Arc, the browser I was telling you about!\n\nhttps://t.co/0QYxYgCLFk",
+            "text": "@MeVivekJoshi hey, here\u2019s an invite to Arc, the browser I was telling you about!\n\nhttps://t.co/0QYxYgCLFk",
             "truncated": false,
             "entities": {
                 "hashtags": [],
@@ -8336,7 +8336,7 @@
                 "name": "Haneen",
                 "screen_name": "HaneenMahdin",
                 "location": "/usr/bin/zsh",
-                "description": "✳︎ freelance developer building intuitive and functional digital products \n✳︎ building @FlexLogo\n✳︎ get my Notion template ⤵",
+                "description": "\u2733\ufe0e freelance developer building intuitive and functional digital products \n\u2733\ufe0e building @FlexLogo\n\u2733\ufe0e get my Notion template \u2935",
                 "url": "https://t.co/9TmRMMzkLp",
                 "entities": {
                     "url": {
@@ -8408,7 +8408,7 @@
             "created_at": "Sat Mar 18 17:09:57 +0000 2023",
             "id": 1637139287278866432,
             "id_str": "1637139287278866432",
-            "text": "@niziol92 hey, here’s an invite to Arc, the browser I was telling you about!\n\nhttps://t.co/0QYxYgCLFk",
+            "text": "@niziol92 hey, here\u2019s an invite to Arc, the browser I was telling you about!\n\nhttps://t.co/0QYxYgCLFk",
             "truncated": false,
             "entities": {
                 "hashtags": [],
@@ -8416,7 +8416,7 @@
                 "user_mentions": [
                     {
                         "screen_name": "niziol92",
-                        "name": "Krystian Piątkowski",
+                        "name": "Krystian Pi\u0105tkowski",
                         "id": 370551795,
                         "id_str": "370551795",
                         "indices": [
@@ -8453,7 +8453,7 @@
                 "name": "Haneen",
                 "screen_name": "HaneenMahdin",
                 "location": "/usr/bin/zsh",
-                "description": "✳︎ freelance developer building intuitive and functional digital products \n✳︎ building @FlexLogo\n✳︎ get my Notion template ⤵",
+                "description": "\u2733\ufe0e freelance developer building intuitive and functional digital products \n\u2733\ufe0e building @FlexLogo\n\u2733\ufe0e get my Notion template \u2935",
                 "url": "https://t.co/9TmRMMzkLp",
                 "entities": {
                     "url": {
@@ -8525,7 +8525,7 @@
             "created_at": "Sat Mar 18 17:09:53 +0000 2023",
             "id": 1637139271264903170,
             "id_str": "1637139271264903170",
-            "text": "@jasoneths hey, here’s an invite to Arc, the browser I was telling you about!\n\nhttps://t.co/0QYxYgCLFk",
+            "text": "@jasoneths hey, here\u2019s an invite to Arc, the browser I was telling you about!\n\nhttps://t.co/0QYxYgCLFk",
             "truncated": false,
             "entities": {
                 "hashtags": [],
@@ -8570,7 +8570,7 @@
                 "name": "Haneen",
                 "screen_name": "HaneenMahdin",
                 "location": "/usr/bin/zsh",
-                "description": "✳︎ freelance developer building intuitive and functional digital products \n✳︎ building @FlexLogo\n✳︎ get my Notion template ⤵",
+                "description": "\u2733\ufe0e freelance developer building intuitive and functional digital products \n\u2733\ufe0e building @FlexLogo\n\u2733\ufe0e get my Notion template \u2935",
                 "url": "https://t.co/9TmRMMzkLp",
                 "entities": {
                     "url": {
@@ -8803,7 +8803,7 @@
             "created_at": "Sat Mar 18 16:57:01 +0000 2023",
             "id": 1637136033207795723,
             "id_str": "1637136033207795723",
-            "text": "Arc browser is 🔥🔥🔥",
+            "text": "Arc browser is \ud83d\udd25\ud83d\udd25\ud83d\udd25",
             "truncated": false,
             "entities": {
                 "hashtags": [],
@@ -8824,10 +8824,10 @@
             "user": {
                 "id": 1419699851747467281,
                 "id_str": "1419699851747467281",
-                "name": "ரங்கன் வாத்தியார்",
+                "name": "\u0bb0\u0b99\u0bcd\u0b95\u0ba9\u0bcd \u0bb5\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb0\u0bcd",
                 "screen_name": "rangan_vaathi",
-                "location": "🇨🇦",
-                "description": "😎",
+                "location": "\ud83c\udde8\ud83c\udde6",
+                "description": "\ud83d\ude0e",
                 "url": null,
                 "entities": {
                     "description": {
@@ -8978,7 +8978,7 @@
             "created_at": "Sat Mar 18 15:51:05 +0000 2023",
             "id": 1637119440041943041,
             "id_str": "1637119440041943041",
-            "text": "@SalpiOzgur Süper di mi? Pek çok browser denedim bugüne kadar. Er ya da geç standart browserlara döndüm. Arc çok ba… https://t.co/TfXkDvzQun",
+            "text": "@SalpiOzgur S\u00fcper di mi? Pek \u00e7ok browser denedim bug\u00fcne kadar. Er ya da ge\u00e7 standart browserlara d\u00f6nd\u00fcm. Arc \u00e7ok ba\u2026 https://t.co/TfXkDvzQun",
             "truncated": true,
             "entities": {
                 "hashtags": [],
@@ -8986,7 +8986,7 @@
                 "user_mentions": [
                     {
                         "screen_name": "SalpiOzgur",
-                        "name": "Sakızlı Salpi Paşa",
+                        "name": "Sak\u0131zl\u0131 Salpi Pa\u015fa",
                         "id": 1373412336,
                         "id_str": "1373412336",
                         "indices": [
@@ -8999,7 +8999,7 @@
                     {
                         "url": "https://t.co/TfXkDvzQun",
                         "expanded_url": "https://twitter.com/i/web/status/1637119440041943041",
-                        "display_url": "twitter.com/i/web/status/1…",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
                         "indices": [
                             117,
                             140
@@ -9020,7 +9020,7 @@
             "user": {
                 "id": 2226528228,
                 "id_str": "2226528228",
-                "name": "Cihangir Sağcısı",
+                "name": "Cihangir Sa\u011fc\u0131s\u0131",
                 "screen_name": "5posta",
                 "location": "",
                 "description": "Parvum pes barathrum grande / Aesthetically correct | My pronouns: Sir/Master",
@@ -9046,7 +9046,7 @@
                 "protected": false,
                 "followers_count": 8559,
                 "friends_count": 523,
-                "listed_count": 23,
+                "listed_count": 27,
                 "created_at": "Mon Dec 02 11:40:00 +0000 2013",
                 "favourites_count": 1487,
                 "utc_offset": null,
@@ -9094,7 +9094,7 @@
             "created_at": "Sat Mar 18 15:50:22 +0000 2023",
             "id": 1637119260970344453,
             "id_str": "1637119260970344453",
-            "text": "@NetGalley Thanks for the update! FYI - Once I cleared my browser's cache (for only NetGalley), I stopped getting t… https://t.co/6iYfGBIgBY",
+            "text": "@NetGalley Thanks for the update! FYI - Once I cleared my browser's cache (for only NetGalley), I stopped getting t\u2026 https://t.co/6iYfGBIgBY",
             "truncated": true,
             "entities": {
                 "hashtags": [],
@@ -9115,7 +9115,7 @@
                     {
                         "url": "https://t.co/6iYfGBIgBY",
                         "expanded_url": "https://twitter.com/i/web/status/1637119260970344453",
-                        "display_url": "twitter.com/i/web/status/1…",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
                         "indices": [
                             117,
                             140
@@ -9253,7 +9253,7 @@
                             {
                                 "url": "https://t.co/7NyOaTdX6P",
                                 "expanded_url": "https://www.linkedin.com/in/michealconcannon/",
-                                "display_url": "linkedin.com/in/michealconc…",
+                                "display_url": "linkedin.com/in/michealconc\u2026",
                                 "indices": [
                                     0,
                                     23
@@ -9267,7 +9267,7 @@
                 },
                 "protected": false,
                 "followers_count": 217,
-                "friends_count": 161,
+                "friends_count": 160,
                 "listed_count": 19,
                 "created_at": "Sun Jul 19 23:02:19 +0000 2009",
                 "favourites_count": 2541,
@@ -9368,7 +9368,7 @@
             "user": {
                 "id": 324061270,
                 "id_str": "324061270",
-                "name": "aziz.eth🦇🔊⚛",
+                "name": "aziz.eth\ud83e\udd87\ud83d\udd0a\u269b",
                 "screen_name": "MohammedAziz90",
                 "location": "London",
                 "description": "Founder of Matte Black Crypto \n\nWeb 3 | AI | NFT | DeFi",
@@ -9393,7 +9393,7 @@
                 },
                 "protected": false,
                 "followers_count": 943,
-                "friends_count": 4892,
+                "friends_count": 4891,
                 "listed_count": 50,
                 "created_at": "Sat Jun 25 22:57:08 +0000 2011",
                 "favourites_count": 28719,
@@ -9443,7 +9443,7 @@
             "created_at": "Sat Mar 18 14:31:31 +0000 2023",
             "id": 1637099416120180737,
             "id_str": "1637099416120180737",
-            "text": "Arc Browser'a Geçtim. Notion + Arc + Tick-Tick ile güçlü bir sinerji yakaladım. Tavsiyedir.",
+            "text": "Arc Browser'a Ge\u00e7tim. Notion + Arc + Tick-Tick ile g\u00fc\u00e7l\u00fc bir sinerji yakalad\u0131m. Tavsiyedir.",
             "truncated": false,
             "entities": {
                 "hashtags": [],
@@ -9464,7 +9464,7 @@
             "user": {
                 "id": 1373412336,
                 "id_str": "1373412336",
-                "name": "Sakızlı Salpi Paşa",
+                "name": "Sak\u0131zl\u0131 Salpi Pa\u015fa",
                 "screen_name": "SalpiOzgur",
                 "location": "The Room Where It Happens",
                 "description": "Istanbullu / For English Press @lebenstreppe",
@@ -9488,11 +9488,11 @@
                     }
                 },
                 "protected": false,
-                "followers_count": 4018,
+                "followers_count": 4019,
                 "friends_count": 413,
                 "listed_count": 20,
                 "created_at": "Tue Apr 23 00:34:03 +0000 2013",
-                "favourites_count": 76669,
+                "favourites_count": 76668,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": true,
@@ -9538,7 +9538,7 @@
             "created_at": "Sat Mar 18 14:27:15 +0000 2023",
             "id": 1637098342185594880,
             "id_str": "1637098342185594880",
-            "text": "@browsercompany @browsercompany WOW, WOW, WOW, WOW. Speechless. Just got my invite and have been using Arc. You guy… https://t.co/LIuJazTVeM",
+            "text": "@browsercompany @browsercompany WOW, WOW, WOW, WOW. Speechless. Just got my invite and have been using Arc. You guy\u2026 https://t.co/LIuJazTVeM",
             "truncated": true,
             "entities": {
                 "hashtags": [],
@@ -9569,7 +9569,7 @@
                     {
                         "url": "https://t.co/LIuJazTVeM",
                         "expanded_url": "https://twitter.com/i/web/status/1637098342185594880",
-                        "display_url": "twitter.com/i/web/status/1…",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
                         "indices": [
                             117,
                             140
@@ -9651,7 +9651,7 @@
             "created_at": "Sat Mar 18 14:18:13 +0000 2023",
             "id": 1637096071775092737,
             "id_str": "1637096071775092737",
-            "text": "RT @melvynxdev: Arc est le browser qui va révolutionner notre façon de consommer internet.\n\nOn passe quasi 80% de notre temps sur un naviga…",
+            "text": "RT @melvynxdev: Arc est le browser qui va r\u00e9volutionner notre fa\u00e7on de consommer internet.\n\nOn passe quasi 80% de notre temps sur un naviga\u2026",
             "truncated": false,
             "entities": {
                 "hashtags": [],
@@ -9659,7 +9659,7 @@
                 "user_mentions": [
                     {
                         "screen_name": "melvynxdev",
-                        "name": "Melvyn ▴ NextReact 🪐",
+                        "name": "Melvyn \u25b4 NextReact \ud83e\ude90",
                         "id": 1439893592248659975,
                         "id_str": "1439893592248659975",
                         "indices": [
@@ -9683,7 +9683,7 @@
             "user": {
                 "id": 465777259,
                 "id_str": "465777259",
-                "name": "Δ ΝΘΚΓΥΝΞ Δ",
+                "name": "\u0394 \u039d\u0398\u039a\u0393\u03a5\u039d\u039e \u0394",
                 "screen_name": "kev_nok",
                 "location": "Le Havre, France",
                 "description": "Instagram: kevnoklyne",
@@ -9698,7 +9698,7 @@
                 "friends_count": 258,
                 "listed_count": 1,
                 "created_at": "Mon Jan 16 18:38:22 +0000 2012",
-                "favourites_count": 4139,
+                "favourites_count": 4138,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": true,
@@ -9737,7 +9737,7 @@
                 "created_at": "Thu Jan 19 17:01:01 +0000 2023",
                 "id": 1616118545221550080,
                 "id_str": "1616118545221550080",
-                "text": "Arc est le browser qui va révolutionner notre façon de consommer internet.\n\nOn passe quasi 80% de notre temps sur u… https://t.co/VUrnU9UDdh",
+                "text": "Arc est le browser qui va r\u00e9volutionner notre fa\u00e7on de consommer internet.\n\nOn passe quasi 80% de notre temps sur u\u2026 https://t.co/VUrnU9UDdh",
                 "truncated": true,
                 "entities": {
                     "hashtags": [],
@@ -9747,7 +9747,7 @@
                         {
                             "url": "https://t.co/VUrnU9UDdh",
                             "expanded_url": "https://twitter.com/i/web/status/1616118545221550080",
-                            "display_url": "twitter.com/i/web/status/1…",
+                            "display_url": "twitter.com/i/web/status/1\u2026",
                             "indices": [
                                 117,
                                 140
@@ -9768,10 +9768,10 @@
                 "user": {
                     "id": 1439893592248659975,
                     "id_str": "1439893592248659975",
-                    "name": "Melvyn ▴ NextReact 🪐",
+                    "name": "Melvyn \u25b4 NextReact \ud83e\ude90",
                     "screen_name": "melvynxdev",
-                    "location": "Reçois 4 cours gratuit 🎁",
-                    "description": "Le seul formateur React agrée par la Nasa 🪐.\n\nJe te fais découvrir l'UNIVERS React avec NextReact 🚀",
+                    "location": "Re\u00e7ois 4 cours gratuit \ud83c\udf81",
+                    "description": "Le seul formateur React agr\u00e9e par la Nasa \ud83e\ude90.\n\nJe te fais d\u00e9couvrir l'UNIVERS React avec NextReact \ud83d\ude80",
                     "url": "https://t.co/GZvXmHhc0D",
                     "entities": {
                         "url": {
@@ -9779,7 +9779,7 @@
                                 {
                                     "url": "https://t.co/GZvXmHhc0D",
                                     "expanded_url": "https://codelynx.dev/nextreact/get-masterclass",
-                                    "display_url": "codelynx.dev/nextreact/get-…",
+                                    "display_url": "codelynx.dev/nextreact/get-\u2026",
                                     "indices": [
                                         0,
                                         23
@@ -9796,7 +9796,7 @@
                     "friends_count": 316,
                     "listed_count": 234,
                     "created_at": "Mon Sep 20 10:06:30 +0000 2021",
-                    "favourites_count": 8448,
+                    "favourites_count": 8447,
                     "utc_offset": null,
                     "time_zone": null,
                     "geo_enabled": false,
@@ -9850,7 +9850,7 @@
             "created_at": "Sat Mar 18 13:46:40 +0000 2023",
             "id": 1637088131856977923,
             "id_str": "1637088131856977923",
-            "text": "Wie lange kann man eigentlich auf einer „waiting list“ stehen? Frage für einen Freund 💁🏼‍♂️🙃 Bin  jedenfalls  mega… https://t.co/wwQS23rny2",
+            "text": "Wie lange kann man eigentlich auf einer \u201ewaiting list\u201c stehen? Frage f\u00fcr einen Freund \ud83d\udc81\ud83c\udffc\u200d\u2642\ufe0f\ud83d\ude43 Bin  jedenfalls  mega\u2026 https://t.co/wwQS23rny2",
             "truncated": true,
             "entities": {
                 "hashtags": [],
@@ -9860,7 +9860,7 @@
                     {
                         "url": "https://t.co/wwQS23rny2",
                         "expanded_url": "https://twitter.com/i/web/status/1637088131856977923",
-                        "display_url": "twitter.com/i/web/status/1…",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
                         "indices": [
                             116,
                             139
@@ -9881,10 +9881,10 @@
             "user": {
                 "id": 25104719,
                 "id_str": "25104719",
-                "name": "Stephan Röbbeln",
+                "name": "Stephan R\u00f6bbeln",
                 "screen_name": "StephanR78",
                 "location": "Hannover, Germany",
-                "description": "Papa, Apple-Nerd, Social Media, 100% 🏈 NFL, ELF\n\nCOO Le Buzz Studio - https://t.co/uSDlGmZtWb\n\nInto thinking, lifelong learning, productivity",
+                "description": "Papa, Apple-Nerd, Social Media, 100% \ud83c\udfc8 NFL, ELF\n\nCOO Le Buzz Studio - https://t.co/uSDlGmZtWb\n\nInto thinking, lifelong learning, productivity",
                 "url": "https://t.co/68Ov8VO3yc",
                 "entities": {
                     "url": {
@@ -9915,7 +9915,7 @@
                     }
                 },
                 "protected": false,
-                "followers_count": 1743,
+                "followers_count": 1742,
                 "friends_count": 785,
                 "listed_count": 217,
                 "created_at": "Wed Mar 18 16:48:45 +0000 2009",
@@ -9965,7 +9965,7 @@
             "created_at": "Sat Mar 18 10:21:13 +0000 2023",
             "id": 1637036426909962241,
             "id_str": "1637036426909962241",
-            "text": "Bir haftadır falan Arc browser kullanıyorum. Çok fazla şeyle ilgilenen ve üretim içinde olmak isteyenler için çok y… https://t.co/IV4XdT6105",
+            "text": "Bir haftad\u0131r falan Arc browser kullan\u0131yorum. \u00c7ok fazla \u015feyle ilgilenen ve \u00fcretim i\u00e7inde olmak isteyenler i\u00e7in \u00e7ok y\u2026 https://t.co/IV4XdT6105",
             "truncated": true,
             "entities": {
                 "hashtags": [],
@@ -9975,7 +9975,7 @@
                     {
                         "url": "https://t.co/IV4XdT6105",
                         "expanded_url": "https://twitter.com/i/web/status/1637036426909962241",
-                        "display_url": "twitter.com/i/web/status/1…",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
                         "indices": [
                             117,
                             140
@@ -9996,7 +9996,7 @@
             "user": {
                 "id": 3303819562,
                 "id_str": "3303819562",
-                "name": "Onur Güngör",
+                "name": "Onur G\u00fcng\u00f6r",
                 "screen_name": "onurgu_ml",
                 "location": "Istanbul, Turkey",
                 "description": "Part-time faculty - Bogazici University Comp. Eng.,\nData scientist and ML engineer",
@@ -10070,7 +10070,7 @@
             "created_at": "Sat Mar 18 10:19:00 +0000 2023",
             "id": 1637035867784073219,
             "id_str": "1637035867784073219",
-            "text": "@Iankitjh4 @pseudonymtra hey, here’s an invite to Arc browser.\n\nhttps://t.co/F71icLI6R4",
+            "text": "@Iankitjh4 @pseudonymtra hey, here\u2019s an invite to Arc browser.\n\nhttps://t.co/F71icLI6R4",
             "truncated": false,
             "entities": {
                 "hashtags": [],
@@ -10088,7 +10088,7 @@
                     },
                     {
                         "screen_name": "pseudonymtra",
-                        "name": "Likitha 🌚🤝",
+                        "name": "Likitha \ud83c\udf1a\ud83e\udd1d",
                         "id": 2698732128,
                         "id_str": "2698732128",
                         "indices": [
@@ -10122,7 +10122,7 @@
             "user": {
                 "id": 3104494094,
                 "id_str": "3104494094",
-                "name": "Amitesh 🧂",
+                "name": "Amitesh \ud83e\uddc2",
                 "screen_name": "amitesh5200",
                 "location": "Indira Nagar, Bengaluru South",
                 "description": "Stopped making rectangles for a living, now I use auto-layout :) | UX Designer @saltpe_",
@@ -10208,7 +10208,7 @@
                 "name": "Dan Malone",
                 "screen_name": "danmalone_mawla",
                 "location": "Dublin",
-                "description": "⚡ Creating evolving B2B SaaS websites that drive growth and generate leads.\nhttps://t.co/eWCEBkdTqh",
+                "description": "\u26a1 Creating evolving B2B SaaS websites that drive growth and generate leads.\nhttps://t.co/eWCEBkdTqh",
                 "url": "https://t.co/RrnnEKCJys",
                 "entities": {
                     "url": {
@@ -10239,7 +10239,7 @@
                     }
                 },
                 "protected": false,
-                "followers_count": 396,
+                "followers_count": 397,
                 "friends_count": 662,
                 "listed_count": 7,
                 "created_at": "Sat Aug 22 22:52:11 +0000 2009",
@@ -10289,7 +10289,7 @@
             "created_at": "Sat Mar 18 09:18:17 +0000 2023",
             "id": 1637020587171143681,
             "id_str": "1637020587171143681",
-            "text": "Un po’ di inviti per Arc per chi fosse interessato: hey, here’s an invite to Arc, the browser I was telling you abo… https://t.co/0EXYyh1KFA",
+            "text": "Un po\u2019 di inviti per Arc per chi fosse interessato: hey, here\u2019s an invite to Arc, the browser I was telling you abo\u2026 https://t.co/0EXYyh1KFA",
             "truncated": true,
             "entities": {
                 "hashtags": [],
@@ -10299,7 +10299,7 @@
                     {
                         "url": "https://t.co/0EXYyh1KFA",
                         "expanded_url": "https://twitter.com/i/web/status/1637020587171143681",
-                        "display_url": "twitter.com/i/web/status/1…",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
                         "indices": [
                             117,
                             140
@@ -10332,7 +10332,7 @@
                 },
                 "protected": false,
                 "followers_count": 284,
-                "friends_count": 623,
+                "friends_count": 624,
                 "listed_count": 8,
                 "created_at": "Mon Sep 08 21:46:05 +0000 2008",
                 "favourites_count": 2647,
@@ -10382,7 +10382,7 @@
             "created_at": "Sat Mar 18 09:17:58 +0000 2023",
             "id": 1637020508930842626,
             "id_str": "1637020508930842626",
-            "text": "Arc Browser、従来のブラウザのブックマークとタブの概念を再定義しているのが売りだけど頭と感覚の整理が追いつかない。単純に画面のhightを最大限ブラウジングに使えるのがいい。ChromiumベースなのでChrome Ex… https://t.co/mtkhNsugi6",
+            "text": "Arc Browser\u3001\u5f93\u6765\u306e\u30d6\u30e9\u30a6\u30b6\u306e\u30d6\u30c3\u30af\u30de\u30fc\u30af\u3068\u30bf\u30d6\u306e\u6982\u5ff5\u3092\u518d\u5b9a\u7fa9\u3057\u3066\u3044\u308b\u306e\u304c\u58f2\u308a\u3060\u3051\u3069\u982d\u3068\u611f\u899a\u306e\u6574\u7406\u304c\u8ffd\u3044\u3064\u304b\u306a\u3044\u3002\u5358\u7d14\u306b\u753b\u9762\u306ehight\u3092\u6700\u5927\u9650\u30d6\u30e9\u30a6\u30b8\u30f3\u30b0\u306b\u4f7f\u3048\u308b\u306e\u304c\u3044\u3044\u3002Chromium\u30d9\u30fc\u30b9\u306a\u306e\u3067Chrome Ex\u2026 https://t.co/mtkhNsugi6",
             "truncated": true,
             "entities": {
                 "hashtags": [],
@@ -10392,7 +10392,7 @@
                     {
                         "url": "https://t.co/mtkhNsugi6",
                         "expanded_url": "https://twitter.com/i/web/status/1637020508930842626",
-                        "display_url": "twitter.com/i/web/status/1…",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
                         "indices": [
                             117,
                             140
@@ -10415,8 +10415,8 @@
                 "id_str": "1146711",
                 "name": "champlasaonic",
                 "screen_name": "champlasonic",
-                "location": "埼玉県 川越市",
-                "description": "90年代は「音楽とインターネット」、00年代は「メディアとインターネット」、この10年は「人生とインターネット」、現在は「企業と社会とインターネット」をテーマに生き長らえてる者です。このTwitterアカウントは日々の生活の中で息を吐くように駄文を書き散らすため、あるいは私のライフログです。",
+                "location": "\u57fc\u7389\u770c \u5ddd\u8d8a\u5e02",
+                "description": "90\u5e74\u4ee3\u306f\u300c\u97f3\u697d\u3068\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8\u300d\u300100\u5e74\u4ee3\u306f\u300c\u30e1\u30c7\u30a3\u30a2\u3068\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8\u300d\u3001\u3053\u306e10\u5e74\u306f\u300c\u4eba\u751f\u3068\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8\u300d\u3001\u73fe\u5728\u306f\u300c\u4f01\u696d\u3068\u793e\u4f1a\u3068\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8\u300d\u3092\u30c6\u30fc\u30de\u306b\u751f\u304d\u9577\u3089\u3048\u3066\u308b\u8005\u3067\u3059\u3002\u3053\u306eTwitter\u30a2\u30ab\u30a6\u30f3\u30c8\u306f\u65e5\u3005\u306e\u751f\u6d3b\u306e\u4e2d\u3067\u606f\u3092\u5410\u304f\u3088\u3046\u306b\u99c4\u6587\u3092\u66f8\u304d\u6563\u3089\u3059\u305f\u3081\u3001\u3042\u308b\u3044\u306f\u79c1\u306e\u30e9\u30a4\u30d5\u30ed\u30b0\u3067\u3059\u3002",
                 "url": "https://t.co/3DeYQ48gtv",
                 "entities": {
                     "url": {
@@ -10438,7 +10438,7 @@
                 },
                 "protected": false,
                 "followers_count": 1563,
-                "friends_count": 3221,
+                "friends_count": 3219,
                 "listed_count": 91,
                 "created_at": "Wed Mar 14 09:33:57 +0000 2007",
                 "favourites_count": 1711,
@@ -10487,7 +10487,7 @@
             "created_at": "Sat Mar 18 07:17:36 +0000 2023",
             "id": 1636990219894538242,
             "id_str": "1636990219894538242",
-            "text": "arc browser 導入してみました",
+            "text": "arc browser \u5c0e\u5165\u3057\u3066\u307f\u307e\u3057\u305f",
             "truncated": false,
             "entities": {
                 "hashtags": [],
@@ -10508,10 +10508,10 @@
             "user": {
                 "id": 130128945,
                 "id_str": "130128945",
-                "name": "はにゃ氏@hanyanty",
+                "name": "\u306f\u306b\u3083\u6c0f@hanyanty",
                 "screen_name": "hanyanty",
                 "location": "",
-                "description": "はにゃ～んなクオリティ、hanyantyです。\nレザークラフトやいろんなクラフト。 \nオンラインショップできました！↓\nhttps://t.co/B4GYMECuYx\n正方形と波のデザイン【CuVe】展開中\nオーダー等ご依頼・ご相談はDMにて。",
+                "description": "\u306f\u306b\u3083\uff5e\u3093\u306a\u30af\u30aa\u30ea\u30c6\u30a3\u3001hanyanty\u3067\u3059\u3002\n\u30ec\u30b6\u30fc\u30af\u30e9\u30d5\u30c8\u3084\u3044\u308d\u3093\u306a\u30af\u30e9\u30d5\u30c8\u3002 \n\u30aa\u30f3\u30e9\u30a4\u30f3\u30b7\u30e7\u30c3\u30d7\u3067\u304d\u307e\u3057\u305f\uff01\u2193\nhttps://t.co/B4GYMECuYx\n\u6b63\u65b9\u5f62\u3068\u6ce2\u306e\u30c7\u30b6\u30a4\u30f3\u3010CuVe\u3011\u5c55\u958b\u4e2d\n\u30aa\u30fc\u30c0\u30fc\u7b49\u3054\u4f9d\u983c\u30fb\u3054\u76f8\u8ac7\u306fDM\u306b\u3066\u3002",
                 "url": "https://t.co/BdQOnu8P95",
                 "entities": {
                     "url": {
@@ -10625,7 +10625,7 @@
             "created_at": "Sat Mar 18 06:26:37 +0000 2023",
             "id": 1636977387253665792,
             "id_str": "1636977387253665792",
-            "text": "@simonw the more i think about it the more a multimodal AI browser makes sense\n\n@joshm pls can we have GPT4 enabled… https://t.co/fuBazkHVan",
+            "text": "@simonw the more i think about it the more a multimodal AI browser makes sense\n\n@joshm pls can we have GPT4 enabled\u2026 https://t.co/fuBazkHVan",
             "truncated": true,
             "entities": {
                 "hashtags": [],
@@ -10656,7 +10656,7 @@
                     {
                         "url": "https://t.co/fuBazkHVan",
                         "expanded_url": "https://twitter.com/i/web/status/1636977387253665792",
-                        "display_url": "twitter.com/i/web/status/1…",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
                         "indices": [
                             117,
                             140
@@ -10677,7 +10677,7 @@
             "user": {
                 "id": 33521530,
                 "id_str": "33521530",
-                "name": "swyx 🤖",
+                "name": "swyx \ud83e\udd16",
                 "screen_name": "swyx",
                 "location": "@swyx@sigmoid.social",
                 "description": "Simplifying things in surprising ways. Starting something smol.",
@@ -10701,11 +10701,11 @@
                     }
                 },
                 "protected": false,
-                "followers_count": 54407,
+                "followers_count": 54414,
                 "friends_count": 2999,
                 "listed_count": 1380,
                 "created_at": "Mon Apr 20 14:04:41 +0000 2009",
-                "favourites_count": 119509,
+                "favourites_count": 119511,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": true,
@@ -10751,7 +10751,7 @@
             "created_at": "Sat Mar 18 06:26:11 +0000 2023",
             "id": 1636977279250120705,
             "id_str": "1636977279250120705",
-            "text": "Well... #arc is good, but it has a huge learning curve. I never got used tabs in the sidebar. I already tried in th… https://t.co/KGMuK7Hwth",
+            "text": "Well... #arc is good, but it has a huge learning curve. I never got used tabs in the sidebar. I already tried in th\u2026 https://t.co/KGMuK7Hwth",
             "truncated": true,
             "entities": {
                 "hashtags": [
@@ -10769,7 +10769,7 @@
                     {
                         "url": "https://t.co/KGMuK7Hwth",
                         "expanded_url": "https://twitter.com/i/web/status/1636977279250120705",
-                        "display_url": "twitter.com/i/web/status/1…",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
                         "indices": [
                             117,
                             140
@@ -10792,7 +10792,7 @@
                 "id_str": "4375",
                 "name": "Diego Eis",
                 "screen_name": "diegoeis",
-                "location": "São Paulo",
+                "location": "S\u00e3o Paulo",
                 "description": "Mistura de Sheldon com Batman maligno. @productoversee e https://t.co/TMzjAP4zZl.",
                 "url": "https://t.co/wvuyAXfRRJ",
                 "entities": {
@@ -10824,11 +10824,11 @@
                     }
                 },
                 "protected": false,
-                "followers_count": 8378,
+                "followers_count": 8377,
                 "friends_count": 218,
                 "listed_count": 301,
                 "created_at": "Tue Aug 15 12:14:38 +0000 2006",
-                "favourites_count": 4412,
+                "favourites_count": 4413,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": true,
@@ -10874,7 +10874,7 @@
             "created_at": "Sat Mar 18 06:20:33 +0000 2023",
             "id": 1636975859524411393,
             "id_str": "1636975859524411393",
-            "text": "@joshm @browsercompany @OpenAI I don't see why you'd want to ruin your browser by putting a large language model in… https://t.co/OM3ygvkA9V",
+            "text": "@joshm @browsercompany @OpenAI I don't see why you'd want to ruin your browser by putting a large language model in\u2026 https://t.co/OM3ygvkA9V",
             "truncated": true,
             "entities": {
                 "hashtags": [],
@@ -10915,7 +10915,7 @@
                     {
                         "url": "https://t.co/OM3ygvkA9V",
                         "expanded_url": "https://twitter.com/i/web/status/1636975859524411393",
-                        "display_url": "twitter.com/i/web/status/1…",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
                         "indices": [
                             117,
                             140
@@ -11020,7 +11020,7 @@
             "created_at": "Sat Mar 18 06:19:47 +0000 2023",
             "id": 1636975668079542272,
             "id_str": "1636975668079542272",
-            "text": "2023 #macOS tools (nothing GPT or DevOps related) that I'm enjoying:\n@mimestream macOS GMail client\n@browsercompany… https://t.co/7qgFIK6VyX",
+            "text": "2023 #macOS tools (nothing GPT or DevOps related) that I'm enjoying:\n@mimestream macOS GMail client\n@browsercompany\u2026 https://t.co/7qgFIK6VyX",
             "truncated": true,
             "entities": {
                 "hashtags": [
@@ -11059,7 +11059,7 @@
                     {
                         "url": "https://t.co/7qgFIK6VyX",
                         "expanded_url": "https://twitter.com/i/web/status/1636975668079542272",
-                        "display_url": "twitter.com/i/web/status/1…",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
                         "indices": [
                             117,
                             140
@@ -11083,7 +11083,7 @@
                 "name": "Bret Fisher",
                 "screen_name": "BretFisher",
                 "location": "Virginia Beach, VA",
-                "description": "Docker & Kubernetes Mastery👨‍🏫\nDocker Captain🐳\nBeach life🏖\nNavy vet⚓️\nStream https://t.co/kLPglzOgzt🔴\nChat https://t.co/Bu3r0YVNVg💬\nEmail https://t.co/cs6LNoW15W📰\n@BretFisher@hachyderm.io\nhe/him",
+                "description": "Docker & Kubernetes Mastery\ud83d\udc68\u200d\ud83c\udfeb\nDocker Captain\ud83d\udc33\nBeach life\ud83c\udfd6\nNavy vet\u2693\ufe0f\nStream https://t.co/kLPglzOgzt\ud83d\udd34\nChat https://t.co/Bu3r0YVNVg\ud83d\udcac\nEmail https://t.co/cs6LNoW15W\ud83d\udcf0\n@BretFisher@hachyderm.io\nhe/him",
                 "url": "https://t.co/QdqP0lnkI4",
                 "entities": {
                     "url": {
@@ -11214,10 +11214,10 @@
             "user": {
                 "id": 835548508224651264,
                 "id_str": "835548508224651264",
-                "name": "🇿🇦 🫶🏾🇿🇦",
+                "name": "\ud83c\uddff\ud83c\udde6 \ud83e\udef6\ud83c\udffe\ud83c\uddff\ud83c\udde6",
                 "screen_name": "TheRealBandisa",
                 "location": "Cape Town, South Africa",
-                "description": "🇸🇿 Swati 🇸🇿 📱🖥📹🎥📺Tech 🖥📹🎥🎶Music🎶🧉Anime🧉🕹Gaming🕹 5 May 🎂 Software Engineer",
+                "description": "\ud83c\uddf8\ud83c\uddff Swati \ud83c\uddf8\ud83c\uddff \ud83d\udcf1\ud83d\udda5\ud83d\udcf9\ud83c\udfa5\ud83d\udcfaTech \ud83d\udda5\ud83d\udcf9\ud83c\udfa5\ud83c\udfb6Music\ud83c\udfb6\ud83e\uddc9Anime\ud83e\uddc9\ud83d\udd79Gaming\ud83d\udd79 5 May \ud83c\udf82 Software Engineer",
                 "url": "https://t.co/WwMM3HEh74",
                 "entities": {
                     "url": {
@@ -11238,11 +11238,11 @@
                     }
                 },
                 "protected": false,
-                "followers_count": 10202,
-                "friends_count": 10891,
+                "followers_count": 10203,
+                "friends_count": 10897,
                 "listed_count": 5,
                 "created_at": "Sat Feb 25 17:54:22 +0000 2017",
-                "favourites_count": 58701,
+                "favourites_count": 58700,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": true,
@@ -11288,7 +11288,7 @@
             "created_at": "Sat Mar 18 05:44:11 +0000 2023",
             "id": 1636966710795460608,
             "id_str": "1636966710795460608",
-            "text": "Mac専用ブラウザのArc browserのベータ版をインストールしてみました！ https://t.co/IYaTIN4zxE",
+            "text": "Mac\u5c02\u7528\u30d6\u30e9\u30a6\u30b6\u306eArc browser\u306e\u30d9\u30fc\u30bf\u7248\u3092\u30a4\u30f3\u30b9\u30c8\u30fc\u30eb\u3057\u3066\u307f\u307e\u3057\u305f\uff01 https://t.co/IYaTIN4zxE",
             "truncated": false,
             "entities": {
                 "hashtags": [],
@@ -11390,7 +11390,7 @@
                 "name": "Goto",
                 "screen_name": "mg10313273",
                 "location": "Japan",
-                "description": "■既卒文系/海外留学経験🇨🇳\n■2021年3月大学卒業→2021年9月〜DMM WEBCAMP→2021年3月〜都内IT企業(SES)\n■CS50, Flutter\n■Vue.js×Laravelで個人開発中",
+                "description": "\u25a0\u65e2\u5352\u6587\u7cfb/\u6d77\u5916\u7559\u5b66\u7d4c\u9a13\ud83c\udde8\ud83c\uddf3\n\u25a02021\u5e743\u6708\u5927\u5b66\u5352\u696d\u21922021\u5e749\u6708\u301cDMM WEBCAMP\u21922021\u5e743\u6708\u301c\u90fd\u5185IT\u4f01\u696d(SES)\n\u25a0CS50, Flutter\n\u25a0Vue.js\u00d7Laravel\u3067\u500b\u4eba\u958b\u767a\u4e2d",
                 "url": "https://t.co/Um7iJPTu7g",
                 "entities": {
                     "url": {
@@ -11462,7 +11462,7 @@
             "created_at": "Sat Mar 18 04:57:38 +0000 2023",
             "id": 1636954996053798916,
             "id_str": "1636954996053798916",
-            "text": "ブログった &gt;&gt;&gt; ブラウザの Arc を使ってみる https://t.co/hGnMujVvhO",
+            "text": "\u30d6\u30ed\u30b0\u3063\u305f &gt;&gt;&gt; \u30d6\u30e9\u30a6\u30b6\u306e Arc \u3092\u4f7f\u3063\u3066\u307f\u308b https://t.co/hGnMujVvhO",
             "truncated": false,
             "entities": {
                 "hashtags": [],
@@ -11472,7 +11472,7 @@
                     {
                         "url": "https://t.co/hGnMujVvhO",
                         "expanded_url": "https://note.mersy418.com/article/browser-arc?utm_source=feed",
-                        "display_url": "note.mersy418.com/article/browse…",
+                        "display_url": "note.mersy418.com/article/browse\u2026",
                         "indices": [
                             36,
                             59
@@ -11493,10 +11493,10 @@
             "user": {
                 "id": 3114881,
                 "id_str": "3114881",
-                "name": "Masashi Yanagiya＠bit part",
+                "name": "Masashi Yanagiya\uff20bit part",
                 "screen_name": "mersy",
                 "location": "Singapore",
-                "description": "CMSを中心としたWeb制作会社 bit part の代表社員でWebディレクター。大規模から小規模まで多くのWebサイト構築案件に関わり、CMS案件の設計業務やプロジェクトの進行管理などのディレクション業務を担当。 Craft CMS のことなどをブログで書いてます。 愛犬マリーとの散歩やキャンプが楽しい。",
+                "description": "CMS\u3092\u4e2d\u5fc3\u3068\u3057\u305fWeb\u5236\u4f5c\u4f1a\u793e bit part \u306e\u4ee3\u8868\u793e\u54e1\u3067Web\u30c7\u30a3\u30ec\u30af\u30bf\u30fc\u3002\u5927\u898f\u6a21\u304b\u3089\u5c0f\u898f\u6a21\u307e\u3067\u591a\u304f\u306eWeb\u30b5\u30a4\u30c8\u69cb\u7bc9\u6848\u4ef6\u306b\u95a2\u308f\u308a\u3001CMS\u6848\u4ef6\u306e\u8a2d\u8a08\u696d\u52d9\u3084\u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u306e\u9032\u884c\u7ba1\u7406\u306a\u3069\u306e\u30c7\u30a3\u30ec\u30af\u30b7\u30e7\u30f3\u696d\u52d9\u3092\u62c5\u5f53\u3002 Craft CMS \u306e\u3053\u3068\u306a\u3069\u3092\u30d6\u30ed\u30b0\u3067\u66f8\u3044\u3066\u307e\u3059\u3002 \u611b\u72ac\u30de\u30ea\u30fc\u3068\u306e\u6563\u6b69\u3084\u30ad\u30e3\u30f3\u30d7\u304c\u697d\u3057\u3044\u3002",
                 "url": "https://t.co/WnJizyFA3L",
                 "entities": {
                     "url": {
@@ -11517,7 +11517,7 @@
                     }
                 },
                 "protected": false,
-                "followers_count": 1313,
+                "followers_count": 1312,
                 "friends_count": 1566,
                 "listed_count": 65,
                 "created_at": "Sun Apr 01 09:48:36 +0000 2007",
@@ -11610,7 +11610,7 @@
             "user": {
                 "id": 41346791,
                 "id_str": "41346791",
-                "name": "Kafe Dy ✨Balance Your Life✨",
+                "name": "Kafe Dy \u2728Balance Your Life\u2728",
                 "screen_name": "dykafenated",
                 "location": "",
                 "description": "Explorations on holistic productivity, marketing and solopreneurship. Follow for free @NotionHQ templates, actionable advice, journal prompts and more.",
@@ -11671,7 +11671,7 @@
             "created_at": "Sat Mar 18 03:45:01 +0000 2023",
             "id": 1636936721194684418,
             "id_str": "1636936721194684418",
-            "text": "@sev_estil I used to use it on app, but switched to browser. Much easier to save the specific pages I need and divi… https://t.co/38XEQ7vaVz",
+            "text": "@sev_estil I used to use it on app, but switched to browser. Much easier to save the specific pages I need and divi\u2026 https://t.co/38XEQ7vaVz",
             "truncated": true,
             "entities": {
                 "hashtags": [],
@@ -11692,7 +11692,7 @@
                     {
                         "url": "https://t.co/38XEQ7vaVz",
                         "expanded_url": "https://twitter.com/i/web/status/1636936721194684418",
-                        "display_url": "twitter.com/i/web/status/1…",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
                         "indices": [
                             117,
                             140
@@ -11713,7 +11713,7 @@
             "user": {
                 "id": 41346791,
                 "id_str": "41346791",
-                "name": "Kafe Dy ✨Balance Your Life✨",
+                "name": "Kafe Dy \u2728Balance Your Life\u2728",
                 "screen_name": "dykafenated",
                 "location": "",
                 "description": "Explorations on holistic productivity, marketing and solopreneurship. Follow for free @NotionHQ templates, actionable advice, journal prompts and more.",
@@ -11806,10 +11806,10 @@
             "user": {
                 "id": 1404452048989458438,
                 "id_str": "1404452048989458438",
-                "name": "Juan Otálora 🧠",
+                "name": "Juan Ot\u00e1lora \ud83e\udde0",
                 "screen_name": "juanotalo",
-                "location": "Free eBook 👉🏼",
-                "description": "Founder of https://t.co/jStNvI0MNA 🔧\n\nI've helped +200 students remember their classes with science & apps 🧬 \n\nInsights on motivation, memory and mindset",
+                "location": "Free eBook \ud83d\udc49\ud83c\udffc",
+                "description": "Founder of https://t.co/jStNvI0MNA \ud83d\udd27\n\nI've helped +200 students remember their classes with science & apps \ud83e\uddec \n\nInsights on motivation, memory and mindset",
                 "url": "https://t.co/cFNCqRIJlP",
                 "entities": {
                     "url": {
@@ -11890,7 +11890,7 @@
             "created_at": "Sat Mar 18 03:14:16 +0000 2023",
             "id": 1636928980325396481,
             "id_str": "1636928980325396481",
-            "text": "@craigseanhooper @CleanShot I've tried Arc for a week, and it was a tough transition for me. I fell back to chrome.… https://t.co/BYfEdxLdxI",
+            "text": "@craigseanhooper @CleanShot I've tried Arc for a week, and it was a tough transition for me. I fell back to chrome.\u2026 https://t.co/BYfEdxLdxI",
             "truncated": true,
             "entities": {
                 "hashtags": [],
@@ -11921,7 +11921,7 @@
                     {
                         "url": "https://t.co/BYfEdxLdxI",
                         "expanded_url": "https://twitter.com/i/web/status/1636928980325396481",
-                        "display_url": "twitter.com/i/web/status/1…",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
                         "indices": [
                             117,
                             140
@@ -11942,10 +11942,10 @@
             "user": {
                 "id": 2477077929,
                 "id_str": "2477077929",
-                "name": "Ricky Palaguachi 🥇",
+                "name": "Ricky Palaguachi \ud83e\udd47",
                 "screen_name": "RickyPalaguachi",
-                "location": "Go from 0 to 1 👉🏼",
-                "description": "Software Developer • Digital Creator // Helping you reach your potential using philosophy, creativity, and technology // Offers from @Apple @Google @Amazon",
+                "location": "Go from 0 to 1 \ud83d\udc49\ud83c\udffc",
+                "description": "Software Developer \u2022 Digital Creator // Helping you reach your potential using philosophy, creativity, and technology // Offers from @Apple @Google @Amazon",
                 "url": "https://t.co/VJSzJvQBvx",
                 "entities": {
                     "url": {
@@ -11966,16 +11966,16 @@
                     }
                 },
                 "protected": false,
-                "followers_count": 116,
-                "friends_count": 233,
+                "followers_count": 115,
+                "friends_count": 232,
                 "listed_count": 1,
                 "created_at": "Fri Apr 11 20:31:57 +0000 2014",
-                "favourites_count": 664,
+                "favourites_count": 665,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": false,
                 "verified": false,
-                "statuses_count": 455,
+                "statuses_count": 456,
                 "lang": null,
                 "contributors_enabled": false,
                 "is_translator": false,
@@ -12024,7 +12024,7 @@
                 "user_mentions": [
                     {
                         "screen_name": "RickyPalaguachi",
-                        "name": "Ricky Palaguachi 🥇",
+                        "name": "Ricky Palaguachi \ud83e\udd47",
                         "id": 2477077929,
                         "id_str": "2477077929",
                         "indices": [
@@ -12163,10 +12163,10 @@
             "user": {
                 "id": 3023775996,
                 "id_str": "3023775996",
-                "name": "トークン",
+                "name": "\u30c8\u30fc\u30af\u30f3",
                 "screen_name": "aknosp6",
                 "location": "#085485",
-                "description": "でかい円柱",
+                "description": "\u3067\u304b\u3044\u5186\u67f1",
                 "url": "https://t.co/59voEtEBoQ",
                 "entities": {
                     "url": {
@@ -12294,7 +12294,7 @@
                     }
                 },
                 "protected": false,
-                "followers_count": 740,
+                "followers_count": 739,
                 "friends_count": 487,
                 "listed_count": 5,
                 "created_at": "Mon Dec 19 05:01:02 +0000 2011",
@@ -12344,7 +12344,7 @@
             "created_at": "Sat Mar 18 01:01:36 +0000 2023",
             "id": 1636895594785456128,
             "id_str": "1636895594785456128",
-            "text": "@talyssonoc Here I’m trying Arc Browser. Do you guys want invites?",
+            "text": "@talyssonoc Here I\u2019m trying Arc Browser. Do you guys want invites?",
             "truncated": false,
             "entities": {
                 "hashtags": [],
@@ -12379,7 +12379,7 @@
                 "name": "Halan Pinheiro",
                 "screen_name": "halanpin",
                 "location": "Natal, Brasil",
-                "description": "A Software Developer living in Natal. I’m confident to talk about cryptography and coffee. Often about politics, philosophy and technology.",
+                "description": "A Software Developer living in Natal. I\u2019m confident to talk about cryptography and coffee. Often about politics, philosophy and technology.",
                 "url": "https://t.co/JYCvFgTqi9",
                 "entities": {
                     "url": {
@@ -12450,7 +12450,7 @@
             "created_at": "Sat Mar 18 00:42:17 +0000 2023",
             "id": 1636890733096599554,
             "id_str": "1636890733096599554",
-            "text": "Arc Browserのダウンロード招待メールがようやくきたぜ。\nhttps://t.co/7yHmcKR9up",
+            "text": "Arc Browser\u306e\u30c0\u30a6\u30f3\u30ed\u30fc\u30c9\u62db\u5f85\u30e1\u30fc\u30eb\u304c\u3088\u3046\u3084\u304f\u304d\u305f\u305c\u3002\nhttps://t.co/7yHmcKR9up",
             "truncated": false,
             "entities": {
                 "hashtags": [],
@@ -12483,8 +12483,8 @@
                 "id_str": "1146711",
                 "name": "champlasaonic",
                 "screen_name": "champlasonic",
-                "location": "埼玉県 川越市",
-                "description": "90年代は「音楽とインターネット」、00年代は「メディアとインターネット」、この10年は「人生とインターネット」、現在は「企業と社会とインターネット」をテーマに生き長らえてる者です。このTwitterアカウントは日々の生活の中で息を吐くように駄文を書き散らすため、あるいは私のライフログです。",
+                "location": "\u57fc\u7389\u770c \u5ddd\u8d8a\u5e02",
+                "description": "90\u5e74\u4ee3\u306f\u300c\u97f3\u697d\u3068\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8\u300d\u300100\u5e74\u4ee3\u306f\u300c\u30e1\u30c7\u30a3\u30a2\u3068\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8\u300d\u3001\u3053\u306e10\u5e74\u306f\u300c\u4eba\u751f\u3068\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8\u300d\u3001\u73fe\u5728\u306f\u300c\u4f01\u696d\u3068\u793e\u4f1a\u3068\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8\u300d\u3092\u30c6\u30fc\u30de\u306b\u751f\u304d\u9577\u3089\u3048\u3066\u308b\u8005\u3067\u3059\u3002\u3053\u306eTwitter\u30a2\u30ab\u30a6\u30f3\u30c8\u306f\u65e5\u3005\u306e\u751f\u6d3b\u306e\u4e2d\u3067\u606f\u3092\u5410\u304f\u3088\u3046\u306b\u99c4\u6587\u3092\u66f8\u304d\u6563\u3089\u3059\u305f\u3081\u3001\u3042\u308b\u3044\u306f\u79c1\u306e\u30e9\u30a4\u30d5\u30ed\u30b0\u3067\u3059\u3002",
                 "url": "https://t.co/3DeYQ48gtv",
                 "entities": {
                     "url": {
@@ -12556,7 +12556,7 @@
             "created_at": "Sat Mar 18 00:35:30 +0000 2023",
             "id": 1636889028338372611,
             "id_str": "1636889028338372611",
-            "text": "I tried Arc browser by @browsercompany today and it was amazing. It has a sleek and intuitive UI that transforms th… https://t.co/EIhGgpF0mb",
+            "text": "I tried Arc browser by @browsercompany today and it was amazing. It has a sleek and intuitive UI that transforms th\u2026 https://t.co/EIhGgpF0mb",
             "truncated": true,
             "entities": {
                 "hashtags": [],
@@ -12577,7 +12577,7 @@
                     {
                         "url": "https://t.co/EIhGgpF0mb",
                         "expanded_url": "https://twitter.com/i/web/status/1636889028338372611",
-                        "display_url": "twitter.com/i/web/status/1…",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
                         "indices": [
                             117,
                             140
@@ -12601,7 +12601,7 @@
                 "name": "Mytham",
                 "screen_name": "iMythms",
                 "location": "Bahrain",
-                "description": "Designer • Huge fan of The Office & Apple. Tech enthusiast • 22WC CHAMPION 🇦🇷 ⭐️⭐️⭐️ 🇦🇷",
+                "description": "Designer \u2022 Huge fan of The Office & Apple. Tech enthusiast \u2022 22WC CHAMPION \ud83c\udde6\ud83c\uddf7 \u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f \ud83c\udde6\ud83c\uddf7",
                 "url": "https://t.co/q2YIiXy7ms",
                 "entities": {
                     "url": {
@@ -12623,7 +12623,7 @@
                 },
                 "protected": false,
                 "followers_count": 699,
-                "friends_count": 507,
+                "friends_count": 506,
                 "listed_count": 3,
                 "created_at": "Fri Nov 25 12:28:44 +0000 2011",
                 "favourites_count": 1971,
@@ -12707,8 +12707,8 @@
                 "id_str": "4581039017",
                 "name": "Eugenio Rosario",
                 "screen_name": "GenioRosario94",
-                "location": "São Paulo, Brasil",
-                "description": "Tech & Sports ❤️",
+                "location": "S\u00e3o Paulo, Brasil",
+                "description": "Tech & Sports \u2764\ufe0f",
                 "url": null,
                 "entities": {
                     "description": {
@@ -12798,10 +12798,10 @@
             "user": {
                 "id": 1432891144388558857,
                 "id_str": "1432891144388558857",
-                "name": "切嗣",
+                "name": "\u5207\u55e3",
                 "screen_name": "shwezhu",
                 "location": "",
-                "description": "自信了，就会乐观，乐观了就会上求",
+                "description": "\u81ea\u4fe1\u4e86\uff0c\u5c31\u4f1a\u4e50\u89c2\uff0c\u4e50\u89c2\u4e86\u5c31\u4f1a\u4e0a\u6c42",
                 "url": null,
                 "entities": {
                     "description": {
@@ -12859,7 +12859,7 @@
             "created_at": "Fri Mar 17 22:25:03 +0000 2023",
             "id": 1636856199667744768,
             "id_str": "1636856199667744768",
-            "text": "@ghost_motley Sick and tired of Chromium variants. Hard to be excited about Arc Browser hitting Windows eventually… https://t.co/m8L9d2hDvV",
+            "text": "@ghost_motley Sick and tired of Chromium variants. Hard to be excited about Arc Browser hitting Windows eventually\u2026 https://t.co/m8L9d2hDvV",
             "truncated": true,
             "entities": {
                 "hashtags": [],
@@ -12880,7 +12880,7 @@
                     {
                         "url": "https://t.co/m8L9d2hDvV",
                         "expanded_url": "https://twitter.com/i/web/status/1636856199667744768",
-                        "display_url": "twitter.com/i/web/status/1…",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
                         "indices": [
                             116,
                             139
@@ -12962,7 +12962,7 @@
             "created_at": "Fri Mar 17 22:23:05 +0000 2023",
             "id": 1636855703301246976,
             "id_str": "1636855703301246976",
-            "text": "RT @Cryptographur: $MASQ 🎭 has broken out, retested, and held against this trend line that has been holding it down\n\nSomething to watch (or…",
+            "text": "RT @Cryptographur: $MASQ \ud83c\udfad has broken out, retested, and held against this trend line that has been holding it down\n\nSomething to watch (or\u2026",
             "truncated": false,
             "entities": {
                 "hashtags": [],
@@ -12978,7 +12978,7 @@
                 "user_mentions": [
                     {
                         "screen_name": "Cryptographur",
-                        "name": "Jim, Ski Bum 🏴‍☠️",
+                        "name": "Jim, Ski Bum \ud83c\udff4\u200d\u2620\ufe0f",
                         "id": 1265745017089515521,
                         "id_str": "1265745017089515521",
                         "indices": [
@@ -13002,7 +13002,7 @@
             "user": {
                 "id": 1265745017089515521,
                 "id_str": "1265745017089515521",
-                "name": "Jim, Ski Bum 🏴‍☠️",
+                "name": "Jim, Ski Bum \ud83c\udff4\u200d\u2620\ufe0f",
                 "screen_name": "Cryptographur",
                 "location": "New York ",
                 "description": "Crypto/Macro/Swing Trader/DeFi",
@@ -13013,7 +13013,7 @@
                             {
                                 "url": "https://t.co/C2HJjP5LVU",
                                 "expanded_url": "https://www.mexc.com/register?inviteCode=1CniW",
-                                "display_url": "mexc.com/register?invit…",
+                                "display_url": "mexc.com/register?invit\u2026",
                                 "indices": [
                                     0,
                                     23
@@ -13028,9 +13028,9 @@
                 "protected": false,
                 "followers_count": 2531,
                 "friends_count": 937,
-                "listed_count": 73,
+                "listed_count": 74,
                 "created_at": "Wed May 27 20:41:54 +0000 2020",
-                "favourites_count": 13596,
+                "favourites_count": 13597,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": false,
@@ -13069,7 +13069,7 @@
                 "created_at": "Fri Mar 17 16:21:55 +0000 2023",
                 "id": 1636764812268154884,
                 "id_str": "1636764812268154884",
-                "text": "$MASQ 🎭 has broken out, retested, and held against this trend line that has been holding it down\n\nSomething to watc… https://t.co/4XzbIX0FrQ",
+                "text": "$MASQ \ud83c\udfad has broken out, retested, and held against this trend line that has been holding it down\n\nSomething to watc\u2026 https://t.co/4XzbIX0FrQ",
                 "truncated": true,
                 "entities": {
                     "hashtags": [],
@@ -13087,7 +13087,7 @@
                         {
                             "url": "https://t.co/4XzbIX0FrQ",
                             "expanded_url": "https://twitter.com/i/web/status/1636764812268154884",
-                            "display_url": "twitter.com/i/web/status/1…",
+                            "display_url": "twitter.com/i/web/status/1\u2026",
                             "indices": [
                                 117,
                                 140
@@ -13108,7 +13108,7 @@
                 "user": {
                     "id": 1265745017089515521,
                     "id_str": "1265745017089515521",
-                    "name": "Jim, Ski Bum 🏴‍☠️",
+                    "name": "Jim, Ski Bum \ud83c\udff4\u200d\u2620\ufe0f",
                     "screen_name": "Cryptographur",
                     "location": "New York ",
                     "description": "Crypto/Macro/Swing Trader/DeFi",
@@ -13119,7 +13119,7 @@
                                 {
                                     "url": "https://t.co/C2HJjP5LVU",
                                     "expanded_url": "https://www.mexc.com/register?inviteCode=1CniW",
-                                    "display_url": "mexc.com/register?invit…",
+                                    "display_url": "mexc.com/register?invit\u2026",
                                     "indices": [
                                         0,
                                         23
@@ -13134,9 +13134,9 @@
                     "protected": false,
                     "followers_count": 2531,
                     "friends_count": 937,
-                    "listed_count": 73,
+                    "listed_count": 74,
                     "created_at": "Wed May 27 20:41:54 +0000 2020",
-                    "favourites_count": 13596,
+                    "favourites_count": 13597,
                     "utc_offset": null,
                     "time_zone": null,
                     "geo_enabled": false,
@@ -13181,6 +13181,716 @@
             },
             "is_quote_status": false,
             "retweet_count": 2,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Mar 17 22:21:24 +0000 2023",
+            "id": 1636855279772999680,
+            "id_str": "1636855279772999680",
+            "text": "It took me a week, but as of today #Arc is now my default browser - sorry @brave. The way it helps you to organise\u2026 https://t.co/Eq82FN1txo",
+            "truncated": true,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Arc",
+                        "indices": [
+                            35,
+                            39
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "brave",
+                        "name": "Brave Software",
+                        "id": 257245904,
+                        "id_str": "257245904",
+                        "indices": [
+                            74,
+                            80
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/Eq82FN1txo",
+                        "expanded_url": "https://twitter.com/i/web/status/1636855279772999680",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            116,
+                            139
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": 1636855278057521154,
+            "in_reply_to_status_id_str": "1636855278057521154",
+            "in_reply_to_user_id": 5804172,
+            "in_reply_to_user_id_str": "5804172",
+            "in_reply_to_screen_name": "saltedlolly",
+            "user": {
+                "id": 5804172,
+                "id_str": "5804172",
+                "name": "\ud81a\udce0\ua6b3\ua6b3\ua6b2 - olly.dgb",
+                "screen_name": "saltedlolly",
+                "location": "UK",
+                "description": "Lost down the #crypto rabbit hole. Advocate for an open, #decentralized, permissionless, trustless, borderless, #blockchain future. Think #DigiByte.",
+                "url": "https://t.co/9Qxo2Y2B4A",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/9Qxo2Y2B4A",
+                                "expanded_url": "http://digibyte.help",
+                                "display_url": "digibyte.help",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 1468,
+                "friends_count": 3601,
+                "listed_count": 63,
+                "created_at": "Sun May 06 08:47:24 +0000 2007",
+                "favourites_count": 10896,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 12272,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "352726",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1633827681635807233/OJYAPfP2_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1633827681635807233/OJYAPfP2_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/5804172/1678404529",
+                "profile_link_color": "D02B55",
+                "profile_sidebar_border_color": "829D5E",
+                "profile_sidebar_fill_color": "99CC33",
+                "profile_text_color": "3E4415",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 3,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Mar 17 22:14:30 +0000 2023",
+            "id": 1636853541804335111,
+            "id_str": "1636853541804335111",
+            "text": "RT @flack00n: Just installed the Arc browser. First impression - this thing feels hella smooth for a browser. Has a lot of small niceties t\u2026",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "flack00n",
+                        "name": "flacko",
+                        "id": 1187283521095770112,
+                        "id_str": "1187283521095770112",
+                        "indices": [
+                            3,
+                            12
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1585701007534788622,
+                "id_str": "1585701007534788622",
+                "name": "Belinda \ud83d\ude09",
+                "screen_name": "Belinda__1585",
+                "location": "",
+                "description": "I'm so fu\u0441king h\u043et \ud83d\ude09",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 8,
+                "friends_count": 295,
+                "listed_count": 1,
+                "created_at": "Thu Oct 27 18:32:41 +0000 2022",
+                "favourites_count": 513,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 529,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1629834176437338112/VK9mv9Kt_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1629834176437338112/VK9mv9Kt_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1585701007534788622/1677417728",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Thu Feb 16 06:11:05 +0000 2023",
+                "id": 1626101844471607297,
+                "id_str": "1626101844471607297",
+                "text": "Just installed the Arc browser. First impression - this thing feels hella smooth for a browser. Has a lot of small\u2026 https://t.co/R4IGwBgfBN",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/R4IGwBgfBN",
+                            "expanded_url": "https://twitter.com/i/web/status/1626101844471607297",
+                            "display_url": "twitter.com/i/web/status/1\u2026",
+                            "indices": [
+                                116,
+                                139
+                            ]
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 1187283521095770112,
+                    "id_str": "1187283521095770112",
+                    "name": "flacko",
+                    "screen_name": "flack00n",
+                    "location": "",
+                    "description": "RoR and React dev. web3 security enthusiast.",
+                    "url": null,
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 75,
+                    "friends_count": 283,
+                    "listed_count": 4,
+                    "created_at": "Thu Oct 24 08:23:51 +0000 2019",
+                    "favourites_count": 33920,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": false,
+                    "verified": false,
+                    "statuses_count": 89,
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "F5F8FA",
+                    "profile_background_image_url": null,
+                    "profile_background_image_url_https": null,
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1371805412245307392/yDRphfDp_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1371805412245307392/yDRphfDp_normal.jpg",
+                    "profile_link_color": "1DA1F2",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": false,
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "following": null,
+                    "follow_request_sent": null,
+                    "notifications": null,
+                    "translator_type": "none",
+                    "withheld_in_countries": []
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 1,
+                "favorite_count": 0,
+                "favorited": false,
+                "retweeted": false,
+                "lang": "en"
+            },
+            "is_quote_status": false,
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Mar 17 22:14:09 +0000 2023",
+            "id": 1636853453879214080,
+            "id_str": "1636853453879214080",
+            "text": "Received my invite for the Arc browser. Installed it and tried ti create an account as directed and it tells me my\u2026 https://t.co/BeMrfeU3dv",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/BeMrfeU3dv",
+                        "expanded_url": "https://twitter.com/i/web/status/1636853453879214080",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            116,
+                            139
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 655833,
+                "id_str": "655833",
+                "name": "Clifton Thomas",
+                "screen_name": "cliftonmthomas",
+                "location": "Virginia",
+                "description": "Graphic Designer. Dad joke enthusiast.\nCo-Host of @benefitofdoud",
+                "url": "https://t.co/Qgy4MtLbKq",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/Qgy4MtLbKq",
+                                "expanded_url": "https://twitter.com/cliftonmthomas",
+                                "display_url": "twitter.com/cliftonmthomas",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 965,
+                "friends_count": 390,
+                "listed_count": 73,
+                "created_at": "Wed Jan 17 18:22:14 +0000 2007",
+                "favourites_count": 12029,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 50422,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "9AE4E8",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1615547648479461378/pv4B1S9V_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1615547648479461378/pv4B1S9V_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/655833/1611604452",
+                "profile_link_color": "0000FF",
+                "profile_sidebar_border_color": "87BC44",
+                "profile_sidebar_fill_color": "E0FF92",
+                "profile_text_color": "000000",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Mar 17 21:38:11 +0000 2023",
+            "id": 1636844404915707905,
+            "id_str": "1636844404915707905",
+            "text": "\u00bfAlg\u00fan invite de Arc Browser que le sobre?\n\n#Arc #ArcBrowser #Dev https://t.co/oJIgJ7mC0M",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Arc",
+                        "indices": [
+                            44,
+                            48
+                        ]
+                    },
+                    {
+                        "text": "ArcBrowser",
+                        "indices": [
+                            49,
+                            60
+                        ]
+                    },
+                    {
+                        "text": "Dev",
+                        "indices": [
+                            61,
+                            65
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 1636844397961662465,
+                        "id_str": "1636844397961662465",
+                        "indices": [
+                            66,
+                            89
+                        ],
+                        "media_url": "http://pbs.twimg.com/tweet_video_thumb/Frc9Tr0X0AE1048.jpg",
+                        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Frc9Tr0X0AE1048.jpg",
+                        "url": "https://t.co/oJIgJ7mC0M",
+                        "display_url": "pic.twitter.com/oJIgJ7mC0M",
+                        "expanded_url": "https://twitter.com/hc_mty/status/1636844404915707905/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 498,
+                                "h": 498,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 498,
+                                "h": 498,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 498,
+                                "h": 498,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1636844397961662465,
+                        "id_str": "1636844397961662465",
+                        "indices": [
+                            66,
+                            89
+                        ],
+                        "media_url": "http://pbs.twimg.com/tweet_video_thumb/Frc9Tr0X0AE1048.jpg",
+                        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Frc9Tr0X0AE1048.jpg",
+                        "url": "https://t.co/oJIgJ7mC0M",
+                        "display_url": "pic.twitter.com/oJIgJ7mC0M",
+                        "expanded_url": "https://twitter.com/hc_mty/status/1636844404915707905/photo/1",
+                        "type": "animated_gif",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 498,
+                                "h": 498,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 498,
+                                "h": 498,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 498,
+                                "h": 498,
+                                "resize": "fit"
+                            }
+                        },
+                        "video_info": {
+                            "aspect_ratio": [
+                                1,
+                                1
+                            ],
+                            "variants": [
+                                {
+                                    "bitrate": 0,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/tweet_video/Frc9Tr0X0AE1048.mp4"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "es",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 59991968,
+                "id_str": "59991968",
+                "name": "HC \uea00",
+                "screen_name": "hc_mty",
+                "location": "Mty.MX",
+                "description": "\ud83d\udc68\u200d\ud83d\udcbb  \ud83d\udda5  \u2699\ufe0f   Developer\n\u26f0  \ud83e\udd69  \ud83d\udcaa   Regio\n\u26bd\ufe0f  \ud83c\uddeb\ud83c\uddee  \ud83d\udd1d   #Rayados",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 589,
+                "friends_count": 597,
+                "listed_count": 24,
+                "created_at": "Sat Jul 25 05:36:47 +0000 2009",
+                "favourites_count": 15433,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 51442,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C6E2EE",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1586937480355483648/_7f2C9sq_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1586937480355483648/_7f2C9sq_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/59991968/1556495044",
+                "profile_link_color": "1C8EB0",
+                "profile_sidebar_border_color": "73787A",
+                "profile_sidebar_fill_color": "B6B6B8",
+                "profile_text_color": "3B3938",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "es"
+        },
+        {
+            "created_at": "Fri Mar 17 20:26:51 +0000 2023",
+            "id": 1636826449737859117,
+            "id_str": "1636826449737859117",
+            "text": "#arc ist the best browser interface i have seen in a decade but looking at some internals it seems that\u2026 https://t.co/KVzdC5Ah6Q",
+            "truncated": true,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "arc",
+                        "indices": [
+                            0,
+                            4
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/KVzdC5Ah6Q",
+                        "expanded_url": "https://twitter.com/i/web/status/1636826449737859117",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            105,
+                            128
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 18347827,
+                "id_str": "18347827",
+                "name": "Jan Friedensreich",
+                "screen_name": "JFriedensreich",
+                "location": "Berlin, Berlin",
+                "description": "",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 283,
+                "friends_count": 771,
+                "listed_count": 23,
+                "created_at": "Wed Dec 24 01:49:45 +0000 2008",
+                "favourites_count": 6688,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 1920,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "FFFFFF",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/2754901199/5fbcb746320f71af2962e865ca23f3ee_normal.jpeg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/2754901199/5fbcb746320f71af2962e865ca23f3ee_normal.jpeg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/18347827/1613594186",
+                "profile_link_color": "22B1C7",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "F6F6F6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": false,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
             "favorite_count": 0,
             "favorited": false,
             "retweeted": false,
