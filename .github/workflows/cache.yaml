@@ -25,7 +25,7 @@ jobs:
         run: |
           git config pull.rebase true
           git pull
-      - name: Get Current Tracks
+      - name: Get Tweets
         run: python3 tweet.py
         env:
           TWEET_BEARER_TOKEN: ${{ secrets.TWEET_BEARER_TOKEN }}
@@ -33,10 +33,10 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add now-playing.json
-          git diff-index --quiet HEAD || git commit -m "Update now-playing"
+          git add twitter.json
+          git diff-index --quiet HEAD || git commit -m "Update Tweet"
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
-          github_token: ${{ secrets.REPO_SECRET }}
+          GITHUB_TOKEN: ${{ github.token }}
           branch: main
