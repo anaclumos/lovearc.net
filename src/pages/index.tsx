@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import useSWR from 'swr';
-import { TweetData } from './type';
+import { TweetData } from '../type';
 import Image from 'next/image';
 
 function mapTweetDataToTweet(tweetData: any) {
