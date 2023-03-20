@@ -1,7 +1,7 @@
 name: Cache Love Arc Tweets
 on:
   schedule:
-    - cron: '*/5 * * * *'
+    - cron: '*/30 * * * *'
   push:
     branches:
       - main
