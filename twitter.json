@@ -1,6 +1,811 @@
 {
     "statuses": [
         {
+            "created_at": "Wed Mar 22 00:02:00 +0000 2023",
+            "id": 1638330145357328384,
+            "id_str": "1638330145357328384",
+            "text": "RT @evanwinter_: Super interesting conversation @joshm @lennysan. As an Arc user, the optimization for feeling over metrics is palpable. It\u2026",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "evanwinter_",
+                        "name": "Evan Winter",
+                        "id": 721869578599579648,
+                        "id_str": "721869578599579648",
+                        "indices": [
+                            3,
+                            15
+                        ]
+                    },
+                    {
+                        "screen_name": "joshm",
+                        "name": "Josh Miller",
+                        "id": 42559115,
+                        "id_str": "42559115",
+                        "indices": [
+                            48,
+                            54
+                        ]
+                    },
+                    {
+                        "screen_name": "lennysan",
+                        "name": "Lenny Rachitsky",
+                        "id": 7958322,
+                        "id_str": "7958322",
+                        "indices": [
+                            55,
+                            64
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1241814552,
+                "id_str": "1241814552",
+                "name": "Tom Mock",
+                "screen_name": "thomas_mock",
+                "location": "San Antonio, TX",
+                "description": "He/Him | Product Manager @posit_pbc\ud83d\udc68\u200d\ud83d\udcbb I \u2764\ufe0f Data, \ud83c\udf2e, tables, Quarto, #tidyverse & #RStats | @thomas_mock@fosstodon.org",
+                "url": "https://t.co/jYBsulyy65",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/jYBsulyy65",
+                                "expanded_url": "https://themockup.blog",
+                                "display_url": "themockup.blog",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 18588,
+                "friends_count": 1451,
+                "listed_count": 410,
+                "created_at": "Mon Mar 04 17:35:03 +0000 2013",
+                "favourites_count": 45770,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 23029,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1550513632940904460/BVHnaWhq_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1550513632940904460/BVHnaWhq_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1241814552/1667402030",
+                "profile_link_color": "1B95E0",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Tue Mar 21 23:41:42 +0000 2023",
+                "id": 1638325036867100675,
+                "id_str": "1638325036867100675",
+                "text": "Super interesting conversation @joshm @lennysan. As an Arc user, the optimization for feeling over metrics is palpa\u2026 https://t.co/3JPhzBFNFB",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [
+                        {
+                            "screen_name": "joshm",
+                            "name": "Josh Miller",
+                            "id": 42559115,
+                            "id_str": "42559115",
+                            "indices": [
+                                31,
+                                37
+                            ]
+                        },
+                        {
+                            "screen_name": "lennysan",
+                            "name": "Lenny Rachitsky",
+                            "id": 7958322,
+                            "id_str": "7958322",
+                            "indices": [
+                                38,
+                                47
+                            ]
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "url": "https://t.co/3JPhzBFNFB",
+                            "expanded_url": "https://twitter.com/i/web/status/1638325036867100675",
+                            "display_url": "twitter.com/i/web/status/1\u2026",
+                            "indices": [
+                                117,
+                                140
+                            ]
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 721869578599579648,
+                    "id_str": "721869578599579648",
+                    "name": "Evan Winter",
+                    "screen_name": "evanwinter_",
+                    "location": "Chicago, IL",
+                    "description": "software engineer, front-end",
+                    "url": "https://t.co/ExDmPQTwiD",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/ExDmPQTwiD",
+                                    "expanded_url": "https://evanwinter.codes",
+                                    "display_url": "evanwinter.codes",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 61,
+                    "friends_count": 181,
+                    "listed_count": 0,
+                    "created_at": "Mon Apr 18 01:14:54 +0000 2016",
+                    "favourites_count": 1496,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": true,
+                    "verified": false,
+                    "statuses_count": 51,
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "000000",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1571914342739709954/_9XtEw1T_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1571914342739709954/_9XtEw1T_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/721869578599579648/1624399826",
+                    "profile_link_color": "1B95E0",
+                    "profile_sidebar_border_color": "000000",
+                    "profile_sidebar_fill_color": "000000",
+                    "profile_text_color": "000000",
+                    "profile_use_background_image": false,
+                    "has_extended_profile": true,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": null,
+                    "follow_request_sent": null,
+                    "notifications": null,
+                    "translator_type": "none",
+                    "withheld_in_countries": []
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 2,
+                "favorite_count": 3,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "is_quote_status": false,
+            "retweet_count": 2,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Tue Mar 21 23:57:27 +0000 2023",
+            "id": 1638329001554083842,
+            "id_str": "1638329001554083842",
+            "text": "RT @evanwinter_: Super interesting conversation @joshm @lennysan. As an Arc user, the optimization for feeling over metrics is palpable. It\u2026",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "evanwinter_",
+                        "name": "Evan Winter",
+                        "id": 721869578599579648,
+                        "id_str": "721869578599579648",
+                        "indices": [
+                            3,
+                            15
+                        ]
+                    },
+                    {
+                        "screen_name": "joshm",
+                        "name": "Josh Miller",
+                        "id": 42559115,
+                        "id_str": "42559115",
+                        "indices": [
+                            48,
+                            54
+                        ]
+                    },
+                    {
+                        "screen_name": "lennysan",
+                        "name": "Lenny Rachitsky",
+                        "id": 7958322,
+                        "id_str": "7958322",
+                        "indices": [
+                            55,
+                            64
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 7958322,
+                "id_str": "7958322",
+                "name": "Lenny Rachitsky",
+                "screen_name": "lennysan",
+                "location": "Bay Area, CA",
+                "description": "\ud83d\udc4b Newsletter https://t.co/LF0tRFp4pl | Podcast: https://t.co/ZQWNT0ipGb | Jobs: https://t.co/h5qbpego8F | Investing: https://t.co/tLghMwfwmW",
+                "url": "https://t.co/oyrzp0FCKs",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/oyrzp0FCKs",
+                                "expanded_url": "https://LennyRachitsky.com",
+                                "display_url": "LennyRachitsky.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/LF0tRFp4pl",
+                                "expanded_url": "http://LennysNewsletter.com",
+                                "display_url": "LennysNewsletter.com",
+                                "indices": [
+                                    13,
+                                    36
+                                ]
+                            },
+                            {
+                                "url": "https://t.co/ZQWNT0ipGb",
+                                "expanded_url": "http://LennysPodcast.com",
+                                "display_url": "LennysPodcast.com",
+                                "indices": [
+                                    48,
+                                    71
+                                ]
+                            },
+                            {
+                                "url": "https://t.co/h5qbpego8F",
+                                "expanded_url": "http://LennysJobs.com",
+                                "display_url": "LennysJobs.com",
+                                "indices": [
+                                    80,
+                                    103
+                                ]
+                            },
+                            {
+                                "url": "https://t.co/tLghMwfwmW",
+                                "expanded_url": "http://LennyRachitsky.com/investing",
+                                "display_url": "LennyRachitsky.com/investing",
+                                "indices": [
+                                    117,
+                                    140
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 169108,
+                "friends_count": 2144,
+                "listed_count": 3594,
+                "created_at": "Sat Aug 04 18:00:51 +0000 2007",
+                "favourites_count": 42857,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 27944,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1592990461517389824/iln8hi1f_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1592990461517389824/iln8hi1f_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/7958322/1561500320",
+                "profile_link_color": "ABB8C2",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Tue Mar 21 23:41:42 +0000 2023",
+                "id": 1638325036867100675,
+                "id_str": "1638325036867100675",
+                "text": "Super interesting conversation @joshm @lennysan. As an Arc user, the optimization for feeling over metrics is palpa\u2026 https://t.co/3JPhzBFNFB",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [
+                        {
+                            "screen_name": "joshm",
+                            "name": "Josh Miller",
+                            "id": 42559115,
+                            "id_str": "42559115",
+                            "indices": [
+                                31,
+                                37
+                            ]
+                        },
+                        {
+                            "screen_name": "lennysan",
+                            "name": "Lenny Rachitsky",
+                            "id": 7958322,
+                            "id_str": "7958322",
+                            "indices": [
+                                38,
+                                47
+                            ]
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "url": "https://t.co/3JPhzBFNFB",
+                            "expanded_url": "https://twitter.com/i/web/status/1638325036867100675",
+                            "display_url": "twitter.com/i/web/status/1\u2026",
+                            "indices": [
+                                117,
+                                140
+                            ]
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 721869578599579648,
+                    "id_str": "721869578599579648",
+                    "name": "Evan Winter",
+                    "screen_name": "evanwinter_",
+                    "location": "Chicago, IL",
+                    "description": "software engineer, front-end",
+                    "url": "https://t.co/ExDmPQTwiD",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/ExDmPQTwiD",
+                                    "expanded_url": "https://evanwinter.codes",
+                                    "display_url": "evanwinter.codes",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 61,
+                    "friends_count": 181,
+                    "listed_count": 0,
+                    "created_at": "Mon Apr 18 01:14:54 +0000 2016",
+                    "favourites_count": 1496,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": true,
+                    "verified": false,
+                    "statuses_count": 51,
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "000000",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1571914342739709954/_9XtEw1T_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1571914342739709954/_9XtEw1T_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/721869578599579648/1624399826",
+                    "profile_link_color": "1B95E0",
+                    "profile_sidebar_border_color": "000000",
+                    "profile_sidebar_fill_color": "000000",
+                    "profile_text_color": "000000",
+                    "profile_use_background_image": false,
+                    "has_extended_profile": true,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": null,
+                    "follow_request_sent": null,
+                    "notifications": null,
+                    "translator_type": "none",
+                    "withheld_in_countries": []
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 2,
+                "favorite_count": 3,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "is_quote_status": false,
+            "retweet_count": 2,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Tue Mar 21 23:57:18 +0000 2023",
+            "id": 1638328962874228737,
+            "id_str": "1638328962874228737",
+            "text": "@joshm @Unreal_Dreamer @browsercompany Hey Josh! I am really loving my experience so far using the Arc browser. I c\u2026 https://t.co/AoMKh4BQdu",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "joshm",
+                        "name": "Josh Miller",
+                        "id": 42559115,
+                        "id_str": "42559115",
+                        "indices": [
+                            0,
+                            6
+                        ]
+                    },
+                    {
+                        "screen_name": "Unreal_Dreamer",
+                        "name": "Unreal Dreamer",
+                        "id": 750925664778383360,
+                        "id_str": "750925664778383360",
+                        "indices": [
+                            7,
+                            22
+                        ]
+                    },
+                    {
+                        "screen_name": "browsercompany",
+                        "name": "The Browser Company",
+                        "id": 1224730221557043202,
+                        "id_str": "1224730221557043202",
+                        "indices": [
+                            23,
+                            38
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/AoMKh4BQdu",
+                        "expanded_url": "https://twitter.com/i/web/status/1638328962874228737",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": 1638308697536602113,
+            "in_reply_to_status_id_str": "1638308697536602113",
+            "in_reply_to_user_id": 42559115,
+            "in_reply_to_user_id_str": "42559115",
+            "in_reply_to_screen_name": "joshm",
+            "user": {
+                "id": 1570242693531566082,
+                "id_str": "1570242693531566082",
+                "name": "ed.ts",
+                "screen_name": "ecbfdevs",
+                "location": "",
+                "description": "Software Engineer \u2022 Web Development \ud83e\udd18",
+                "url": "https://t.co/aGnRvuZQVu",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/aGnRvuZQVu",
+                                "expanded_url": "https://github.com/edwincarlflores",
+                                "display_url": "github.com/edwincarlflores",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 6,
+                "friends_count": 135,
+                "listed_count": 0,
+                "created_at": "Thu Sep 15 02:47:10 +0000 2022",
+                "favourites_count": 731,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 37,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1570243194620874752/rzkD4YHU_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1570243194620874752/rzkD4YHU_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Tue Mar 21 23:41:42 +0000 2023",
+            "id": 1638325036867100675,
+            "id_str": "1638325036867100675",
+            "text": "Super interesting conversation @joshm @lennysan. As an Arc user, the optimization for feeling over metrics is palpa\u2026 https://t.co/3JPhzBFNFB",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "joshm",
+                        "name": "Josh Miller",
+                        "id": 42559115,
+                        "id_str": "42559115",
+                        "indices": [
+                            31,
+                            37
+                        ]
+                    },
+                    {
+                        "screen_name": "lennysan",
+                        "name": "Lenny Rachitsky",
+                        "id": 7958322,
+                        "id_str": "7958322",
+                        "indices": [
+                            38,
+                            47
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/3JPhzBFNFB",
+                        "expanded_url": "https://twitter.com/i/web/status/1638325036867100675",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 721869578599579648,
+                "id_str": "721869578599579648",
+                "name": "Evan Winter",
+                "screen_name": "evanwinter_",
+                "location": "Chicago, IL",
+                "description": "software engineer, front-end",
+                "url": "https://t.co/ExDmPQTwiD",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/ExDmPQTwiD",
+                                "expanded_url": "https://evanwinter.codes",
+                                "display_url": "evanwinter.codes",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 61,
+                "friends_count": 181,
+                "listed_count": 0,
+                "created_at": "Mon Apr 18 01:14:54 +0000 2016",
+                "favourites_count": 1496,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 51,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1571914342739709954/_9XtEw1T_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1571914342739709954/_9XtEw1T_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/721869578599579648/1624399826",
+                "profile_link_color": "1B95E0",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 2,
+            "favorite_count": 3,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        {
             "created_at": "Tue Mar 21 22:50:59 +0000 2023",
             "id": 1638312274677886976,
             "id_str": "1638312274677886976",
@@ -177,12 +982,12 @@
                 "friends_count": 1370,
                 "listed_count": 3,
                 "created_at": "Fri Apr 02 04:27:40 +0000 2021",
-                "favourites_count": 90367,
+                "favourites_count": 90374,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": false,
                 "verified": false,
-                "statuses_count": 30979,
+                "statuses_count": 30983,
                 "lang": null,
                 "contributors_enabled": false,
                 "is_translator": false,
@@ -286,12 +1091,12 @@
                     "friends_count": 958,
                     "listed_count": 31,
                     "created_at": "Thu Jul 07 05:33:24 +0000 2016",
-                    "favourites_count": 23350,
+                    "favourites_count": 23351,
                     "utc_offset": null,
                     "time_zone": null,
                     "geo_enabled": false,
                     "verified": false,
-                    "statuses_count": 24968,
+                    "statuses_count": 24969,
                     "lang": null,
                     "contributors_enabled": false,
                     "is_translator": false,
@@ -323,7 +1128,7 @@
                 "contributors": null,
                 "is_quote_status": false,
                 "retweet_count": 1,
-                "favorite_count": 17,
+                "favorite_count": 22,
                 "favorited": false,
                 "retweeted": false,
                 "possibly_sensitive": false,
@@ -410,12 +1215,12 @@
                 "friends_count": 958,
                 "listed_count": 31,
                 "created_at": "Thu Jul 07 05:33:24 +0000 2016",
-                "favourites_count": 23350,
+                "favourites_count": 23351,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": false,
                 "verified": false,
-                "statuses_count": 24968,
+                "statuses_count": 24969,
                 "lang": null,
                 "contributors_enabled": false,
                 "is_translator": false,
@@ -447,7 +1252,7 @@
             "contributors": null,
             "is_quote_status": false,
             "retweet_count": 1,
-            "favorite_count": 17,
+            "favorite_count": 22,
             "favorited": false,
             "retweeted": false,
             "possibly_sensitive": false,
@@ -643,7 +1448,7 @@
             "contributors": null,
             "is_quote_status": false,
             "retweet_count": 0,
-            "favorite_count": 2,
+            "favorite_count": 3,
             "favorited": false,
             "retweeted": false,
             "lang": "en"
@@ -1050,7 +1855,7 @@
                     }
                 },
                 "protected": false,
-                "followers_count": 195,
+                "followers_count": 196,
                 "friends_count": 276,
                 "listed_count": 10,
                 "created_at": "Thu Sep 26 02:17:57 +0000 2013",
@@ -1091,7 +1896,7 @@
             "contributors": null,
             "is_quote_status": false,
             "retweet_count": 0,
-            "favorite_count": 0,
+            "favorite_count": 1,
             "favorited": false,
             "retweeted": false,
             "lang": "en"
@@ -1237,11 +2042,11 @@
                     }
                 },
                 "protected": false,
-                "followers_count": 4390,
-                "friends_count": 3128,
+                "followers_count": 4389,
+                "friends_count": 3127,
                 "listed_count": 267,
                 "created_at": "Sun Mar 09 22:17:54 +0000 2008",
-                "favourites_count": 9705,
+                "favourites_count": 9703,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": true,
@@ -1500,10 +2305,10 @@
                 },
                 "protected": false,
                 "followers_count": 1431,
-                "friends_count": 1265,
+                "friends_count": 1266,
                 "listed_count": 86,
                 "created_at": "Mon Jan 28 16:14:59 +0000 2008",
-                "favourites_count": 4252,
+                "favourites_count": 4254,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": true,
@@ -1616,7 +2421,7 @@
                 },
                 "protected": false,
                 "followers_count": 312,
-                "friends_count": 785,
+                "friends_count": 786,
                 "listed_count": 6,
                 "created_at": "Sat Feb 07 15:41:14 +0000 2009",
                 "favourites_count": 1388,
@@ -2032,7 +2837,7 @@
                     }
                 },
                 "protected": false,
-                "followers_count": 2413,
+                "followers_count": 2412,
                 "friends_count": 711,
                 "listed_count": 12,
                 "created_at": "Wed Mar 03 10:04:02 +0000 2010",
@@ -2149,7 +2954,7 @@
                     }
                 },
                 "protected": false,
-                "followers_count": 159,
+                "followers_count": 160,
                 "friends_count": 50,
                 "listed_count": 4,
                 "created_at": "Mon Nov 21 11:05:22 +0000 2022",
@@ -2668,7 +3473,7 @@
                     }
                 },
                 "protected": false,
-                "followers_count": 1599,
+                "followers_count": 1600,
                 "friends_count": 755,
                 "listed_count": 2,
                 "created_at": "Thu Jan 01 14:23:06 +0000 2015",
@@ -3685,15 +4490,15 @@
                 },
                 "protected": false,
                 "followers_count": 2224,
-                "friends_count": 2405,
+                "friends_count": 2407,
                 "listed_count": 26,
                 "created_at": "Sat Mar 24 00:19:23 +0000 2007",
-                "favourites_count": 57687,
+                "favourites_count": 57694,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": true,
                 "verified": false,
-                "statuses_count": 3288,
+                "statuses_count": 3290,
                 "lang": null,
                 "contributors_enabled": false,
                 "is_translator": false,
@@ -3819,15 +4624,15 @@
                 },
                 "protected": false,
                 "followers_count": 2224,
-                "friends_count": 2405,
+                "friends_count": 2407,
                 "listed_count": 26,
                 "created_at": "Sat Mar 24 00:19:23 +0000 2007",
-                "favourites_count": 57687,
+                "favourites_count": 57694,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": true,
                 "verified": false,
-                "statuses_count": 3288,
+                "statuses_count": 3290,
                 "lang": null,
                 "contributors_enabled": false,
                 "is_translator": false,
@@ -4110,7 +4915,7 @@
                 "friends_count": 19,
                 "listed_count": 0,
                 "created_at": "Fri Sep 23 12:57:14 +0000 2022",
-                "favourites_count": 656,
+                "favourites_count": 659,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": false,
@@ -5067,7 +5872,7 @@
                 "friends_count": 987,
                 "listed_count": 1,
                 "created_at": "Sat Jan 13 14:44:13 +0000 2018",
-                "favourites_count": 38972,
+                "favourites_count": 38971,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": true,
@@ -6252,7 +7057,7 @@
                         }
                     },
                     "protected": false,
-                    "followers_count": 982,
+                    "followers_count": 983,
                     "friends_count": 197,
                     "listed_count": 14,
                     "created_at": "Thu Jan 24 13:15:42 +0000 2019",
@@ -6293,7 +7098,7 @@
                 "contributors": null,
                 "is_quote_status": false,
                 "retweet_count": 35,
-                "favorite_count": 1275,
+                "favorite_count": 1285,
                 "favorited": false,
                 "retweeted": false,
                 "possibly_sensitive": false,
@@ -7491,11 +8296,11 @@
                     }
                 },
                 "protected": false,
-                "followers_count": 1473,
-                "friends_count": 1920,
+                "followers_count": 1474,
+                "friends_count": 1921,
                 "listed_count": 4,
                 "created_at": "Thu Dec 29 03:13:33 +0000 2016",
-                "favourites_count": 78980,
+                "favourites_count": 78983,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": true,
@@ -19921,7 +20726,7 @@
             "contributors": null,
             "is_quote_status": false,
             "retweet_count": 0,
-            "favorite_count": 2,
+            "favorite_count": 3,
             "favorited": false,
             "retweeted": false,
             "lang": "en"
@@ -20398,11 +21203,11 @@
                     }
                 },
                 "protected": false,
-                "followers_count": 2535,
+                "followers_count": 2536,
                 "friends_count": 939,
                 "listed_count": 74,
                 "created_at": "Wed May 27 20:41:54 +0000 2020",
-                "favourites_count": 13647,
+                "favourites_count": 13648,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": false,
@@ -21102,7 +21907,7 @@
                         }
                     },
                     "protected": false,
-                    "followers_count": 14208,
+                    "followers_count": 14209,
                     "friends_count": 330,
                     "listed_count": 262,
                     "created_at": "Tue Jul 07 18:49:37 +0000 2009",
@@ -22234,7 +23039,7 @@
                 "friends_count": 3482,
                 "listed_count": 87,
                 "created_at": "Sun Jul 19 04:35:19 +0000 2020",
-                "favourites_count": 60059,
+                "favourites_count": 60060,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": true,
@@ -22564,12 +23369,12 @@
                 "friends_count": 1771,
                 "listed_count": 68,
                 "created_at": "Sat Aug 08 00:39:49 +0000 2009",
-                "favourites_count": 92538,
+                "favourites_count": 92539,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": true,
                 "verified": false,
-                "statuses_count": 139357,
+                "statuses_count": 139358,
                 "lang": null,
                 "contributors_enabled": false,
                 "is_translator": false,
@@ -23439,7 +24244,7 @@
                 "friends_count": 360,
                 "listed_count": 18,
                 "created_at": "Mon Nov 04 01:46:03 +0000 2019",
-                "favourites_count": 6294,
+                "favourites_count": 6295,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": false,
@@ -23532,7 +24337,7 @@
                 "friends_count": 316,
                 "listed_count": 2,
                 "created_at": "Mon Jan 28 10:03:34 +0000 2019",
-                "favourites_count": 17242,
+                "favourites_count": 17243,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": false,
