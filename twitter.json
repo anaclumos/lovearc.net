@@ -271,7 +271,7 @@
                 "friends_count": 254,
                 "listed_count": 8,
                 "created_at": "Fri Jan 24 23:39:28 +0000 2020",
-                "favourites_count": 2554,
+                "favourites_count": 2555,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": true,
@@ -372,11 +372,11 @@
                     }
                 },
                 "protected": false,
-                "followers_count": 2844,
-                "friends_count": 1162,
+                "followers_count": 2843,
+                "friends_count": 1163,
                 "listed_count": 58,
                 "created_at": "Wed May 28 12:48:44 +0000 2014",
-                "favourites_count": 28230,
+                "favourites_count": 28229,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": true,
@@ -884,12 +884,12 @@
                 "friends_count": 1359,
                 "listed_count": 0,
                 "created_at": "Sun Dec 03 14:03:39 +0000 2017",
-                "favourites_count": 114362,
+                "favourites_count": 114394,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": true,
                 "verified": false,
-                "statuses_count": 2444,
+                "statuses_count": 2446,
                 "lang": null,
                 "contributors_enabled": false,
                 "is_translator": false,
@@ -978,11 +978,11 @@
                         }
                     },
                     "protected": false,
-                    "followers_count": 4645,
-                    "friends_count": 485,
+                    "followers_count": 4644,
+                    "friends_count": 484,
                     "listed_count": 12,
                     "created_at": "Wed Jul 28 05:44:10 +0000 2010",
-                    "favourites_count": 8852,
+                    "favourites_count": 8850,
                     "utc_offset": null,
                     "time_zone": null,
                     "geo_enabled": true,
@@ -1079,15 +1079,15 @@
                 },
                 "protected": false,
                 "followers_count": 125,
-                "friends_count": 2075,
+                "friends_count": 2076,
                 "listed_count": 6,
                 "created_at": "Mon Jun 04 13:39:46 +0000 2012",
-                "favourites_count": 14408,
+                "favourites_count": 14411,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": false,
                 "verified": false,
-                "statuses_count": 4496,
+                "statuses_count": 4497,
                 "lang": null,
                 "contributors_enabled": false,
                 "is_translator": false,
@@ -1297,7 +1297,7 @@
                     }
                 },
                 "protected": false,
-                "followers_count": 100,
+                "followers_count": 99,
                 "friends_count": 539,
                 "listed_count": 0,
                 "created_at": "Tue Mar 11 14:43:47 +0000 2014",
@@ -1952,16 +1952,16 @@
                     }
                 },
                 "protected": false,
-                "followers_count": 12575,
+                "followers_count": 12574,
                 "friends_count": 6810,
                 "listed_count": 1,
                 "created_at": "Tue Nov 07 08:05:28 +0000 2017",
-                "favourites_count": 18263,
+                "favourites_count": 18265,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": true,
                 "verified": false,
-                "statuses_count": 29456,
+                "statuses_count": 29459,
                 "lang": null,
                 "contributors_enabled": false,
                 "is_translator": false,
@@ -2050,8 +2050,8 @@
                         }
                     },
                     "protected": false,
-                    "followers_count": 10504,
-                    "friends_count": 1795,
+                    "followers_count": 10505,
+                    "friends_count": 1796,
                     "listed_count": 7,
                     "created_at": "Mon Feb 17 22:09:10 +0000 2014",
                     "favourites_count": 16283,
@@ -2059,7 +2059,7 @@
                     "time_zone": null,
                     "geo_enabled": true,
                     "verified": false,
-                    "statuses_count": 18809,
+                    "statuses_count": 18814,
                     "lang": null,
                     "contributors_enabled": false,
                     "is_translator": false,
@@ -2174,7 +2174,7 @@
                     }
                 },
                 "protected": false,
-                "followers_count": 1717,
+                "followers_count": 1718,
                 "friends_count": 74,
                 "listed_count": 9,
                 "created_at": "Thu Sep 29 16:27:01 +0000 2022",
@@ -2279,11 +2279,11 @@
                     }
                 },
                 "protected": false,
-                "followers_count": 4645,
-                "friends_count": 485,
+                "followers_count": 4644,
+                "friends_count": 484,
                 "listed_count": 12,
                 "created_at": "Wed Jul 28 05:44:10 +0000 2010",
-                "favourites_count": 8852,
+                "favourites_count": 8850,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": true,
@@ -2478,8 +2478,8 @@
                     }
                 },
                 "protected": false,
-                "followers_count": 10504,
-                "friends_count": 1795,
+                "followers_count": 10505,
+                "friends_count": 1796,
                 "listed_count": 7,
                 "created_at": "Mon Feb 17 22:09:10 +0000 2014",
                 "favourites_count": 16283,
@@ -2487,7 +2487,7 @@
                 "time_zone": null,
                 "geo_enabled": true,
                 "verified": false,
-                "statuses_count": 18809,
+                "statuses_count": 18814,
                 "lang": null,
                 "contributors_enabled": false,
                 "is_translator": false,
@@ -2790,11 +2790,11 @@
                     }
                 },
                 "protected": false,
-                "followers_count": 22720,
+                "followers_count": 22722,
                 "friends_count": 1826,
                 "listed_count": 146,
                 "created_at": "Sat Jul 20 15:00:28 +0000 2019",
-                "favourites_count": 72336,
+                "favourites_count": 72335,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": false,
@@ -3408,7 +3408,7 @@
             "contributors": null,
             "is_quote_status": false,
             "retweet_count": 0,
-            "favorite_count": 0,
+            "favorite_count": 1,
             "favorited": false,
             "retweeted": false,
             "lang": "en"
@@ -3501,7 +3501,7 @@
                 },
                 "protected": false,
                 "followers_count": 6227,
-                "friends_count": 1836,
+                "friends_count": 1838,
                 "listed_count": 289,
                 "created_at": "Mon May 10 07:51:09 +0000 2010",
                 "favourites_count": 9692,
@@ -3613,7 +3613,7 @@
                 "time_zone": null,
                 "geo_enabled": false,
                 "verified": false,
-                "statuses_count": 11039,
+                "statuses_count": 11041,
                 "lang": null,
                 "contributors_enabled": false,
                 "is_translator": false,
@@ -3712,7 +3712,7 @@
                         }
                     },
                     "protected": false,
-                    "followers_count": 13406,
+                    "followers_count": 13405,
                     "friends_count": 960,
                     "listed_count": 31,
                     "created_at": "Thu Jul 07 05:33:24 +0000 2016",
@@ -3934,14 +3934,14 @@
                 "protected": false,
                 "followers_count": 7195,
                 "friends_count": 996,
-                "listed_count": 35,
+                "listed_count": 36,
                 "created_at": "Thu Sep 11 15:57:17 +0000 2014",
-                "favourites_count": 65507,
+                "favourites_count": 65503,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": true,
                 "verified": true,
-                "statuses_count": 3296,
+                "statuses_count": 3295,
                 "lang": null,
                 "contributors_enabled": false,
                 "is_translator": false,
@@ -4164,7 +4164,7 @@
                 "contributors": null,
                 "is_quote_status": false,
                 "retweet_count": 2,
-                "favorite_count": 39,
+                "favorite_count": 41,
                 "favorited": false,
                 "retweeted": false,
                 "lang": "en"
@@ -4373,7 +4373,7 @@
                 "friends_count": 98,
                 "listed_count": 0,
                 "created_at": "Sat Feb 27 19:13:34 +0000 2021",
-                "favourites_count": 474,
+                "favourites_count": 475,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": false,
@@ -4475,11 +4475,11 @@
                     }
                 },
                 "protected": false,
-                "followers_count": 3784,
+                "followers_count": 3786,
                 "friends_count": 1009,
                 "listed_count": 34,
                 "created_at": "Thu Apr 30 18:25:06 +0000 2020",
-                "favourites_count": 16453,
+                "favourites_count": 16450,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": false,
@@ -4940,7 +4940,7 @@
                 "friends_count": 1268,
                 "listed_count": 6,
                 "created_at": "Thu Jan 27 20:01:31 +0000 2022",
-                "favourites_count": 18356,
+                "favourites_count": 18358,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": false,
@@ -5125,7 +5125,7 @@
                 "friends_count": 2321,
                 "listed_count": 7,
                 "created_at": "Tue May 17 15:03:09 +0000 2011",
-                "favourites_count": 23054,
+                "favourites_count": 21263,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": true,
@@ -5446,11 +5446,11 @@
                     }
                 },
                 "protected": false,
-                "followers_count": 18588,
+                "followers_count": 18589,
                 "friends_count": 1451,
                 "listed_count": 410,
                 "created_at": "Mon Mar 04 17:35:03 +0000 2013",
-                "favourites_count": 45767,
+                "favourites_count": 45768,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": false,
@@ -5736,9 +5736,9 @@
                     }
                 },
                 "protected": false,
-                "followers_count": 169374,
-                "friends_count": 2144,
-                "listed_count": 3596,
+                "followers_count": 169375,
+                "friends_count": 2145,
+                "listed_count": 3598,
                 "created_at": "Sat Aug 04 18:00:51 +0000 2007",
                 "favourites_count": 42933,
                 "utc_offset": null,
@@ -6242,7 +6242,7 @@
                 },
                 "protected": false,
                 "followers_count": 717,
-                "friends_count": 661,
+                "friends_count": 662,
                 "listed_count": 78,
                 "created_at": "Tue May 20 11:56:37 +0000 2008",
                 "favourites_count": 8331,
@@ -6348,7 +6348,7 @@
                 "friends_count": 1383,
                 "listed_count": 3,
                 "created_at": "Fri Apr 02 04:27:40 +0000 2021",
-                "favourites_count": 90573,
+                "favourites_count": 90568,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": false,
@@ -6453,7 +6453,7 @@
                         }
                     },
                     "protected": false,
-                    "followers_count": 13406,
+                    "followers_count": 13405,
                     "friends_count": 960,
                     "listed_count": 31,
                     "created_at": "Thu Jul 07 05:33:24 +0000 2016",
@@ -6577,7 +6577,7 @@
                     }
                 },
                 "protected": false,
-                "followers_count": 13406,
+                "followers_count": 13405,
                 "friends_count": 960,
                 "listed_count": 31,
                 "created_at": "Thu Jul 07 05:33:24 +0000 2016",
@@ -6814,7 +6814,7 @@
             "contributors": null,
             "is_quote_status": false,
             "retweet_count": 2,
-            "favorite_count": 39,
+            "favorite_count": 41,
             "favorited": false,
             "retweeted": false,
             "lang": "en"
@@ -7001,7 +7001,7 @@
                 "time_zone": null,
                 "geo_enabled": true,
                 "verified": false,
-                "statuses_count": 15,
+                "statuses_count": 16,
                 "lang": null,
                 "contributors_enabled": false,
                 "is_translator": false,
@@ -7108,7 +7108,7 @@
                     }
                 },
                 "protected": false,
-                "followers_count": 1276,
+                "followers_count": 1281,
                 "friends_count": 1237,
                 "listed_count": 87,
                 "created_at": "Mon Jan 21 15:23:22 +0000 2008",
@@ -7117,7 +7117,7 @@
                 "time_zone": null,
                 "geo_enabled": true,
                 "verified": false,
-                "statuses_count": 2162,
+                "statuses_count": 2166,
                 "lang": null,
                 "contributors_enabled": false,
                 "is_translator": false,
@@ -7306,7 +7306,7 @@
                     }
                 },
                 "protected": false,
-                "followers_count": 64,
+                "followers_count": 65,
                 "friends_count": 297,
                 "listed_count": 0,
                 "created_at": "Thu Apr 17 16:32:46 +0000 2014",
@@ -14051,6 +14051,414 @@
             "lang": "en"
         },
         {
+            "created_at": "Thu Mar 23 17:26:05 +0000 2023",
+            "id": 1638955288202977295,
+            "id_str": "1638955288202977295",
+            "text": "OK, I am sold. Arc browser by @browsercompany is amazing. I can see sticking with this one a long long time. I am a\u2026 https://t.co/DBHcByphlN",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "browsercompany",
+                        "name": "The Browser Company",
+                        "id": 1224730221557043202,
+                        "id_str": "1224730221557043202",
+                        "indices": [
+                            30,
+                            45
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/DBHcByphlN",
+                        "expanded_url": "https://twitter.com/i/web/status/1638955288202977295",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 438301250,
+                "id_str": "438301250",
+                "name": "Ferenc Husz\u00e1r",
+                "screen_name": "fhuszar",
+                "location": "Cambridge, UK",
+                "description": "Secular Bayesian.\nAssociate Professor in Machine Learning @Cambridge_CL. Also at @GatsbyUCL on Mondays.\nAlum of @Twitter, Magic Pony and @Balderton",
+                "url": "https://t.co/dVY8q5lYWv",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/dVY8q5lYWv",
+                                "expanded_url": "http://inference.vc/about",
+                                "display_url": "inference.vc/about",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 36430,
+                "friends_count": 1159,
+                "listed_count": 878,
+                "created_at": "Fri Dec 16 12:31:45 +0000 2011",
+                "favourites_count": 4829,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 13324,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "222222",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1276429094541025280/9p1fU6X1_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1276429094541025280/9p1fU6X1_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/438301250/1482320597",
+                "profile_link_color": "3B94D9",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "C0DFEC",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "regular",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Thu Mar 23 17:21:35 +0000 2023",
+            "id": 1638954153643745307,
+            "id_str": "1638954153643745307",
+            "text": "@alexiselias @mariogabriele @Superhuman @browsercompany @Cron @memdotai @TextsHQ Hi! Im interest\u2026 can you send me a\u2026 https://t.co/XITmc5T3uD",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "alexiselias",
+                        "name": "Alexis Elias",
+                        "id": 12270842,
+                        "id_str": "12270842",
+                        "indices": [
+                            0,
+                            12
+                        ]
+                    },
+                    {
+                        "screen_name": "mariogabriele",
+                        "name": "Mario Gabriele \ud83e\udd8a\ud83d\udcad",
+                        "id": 3076212136,
+                        "id_str": "3076212136",
+                        "indices": [
+                            13,
+                            27
+                        ]
+                    },
+                    {
+                        "screen_name": "Superhuman",
+                        "name": "Superhuman",
+                        "id": 4780060819,
+                        "id_str": "4780060819",
+                        "indices": [
+                            28,
+                            39
+                        ]
+                    },
+                    {
+                        "screen_name": "browsercompany",
+                        "name": "The Browser Company",
+                        "id": 1224730221557043202,
+                        "id_str": "1224730221557043202",
+                        "indices": [
+                            40,
+                            55
+                        ]
+                    },
+                    {
+                        "screen_name": "Cron",
+                        "name": "Cron",
+                        "id": 60743,
+                        "id_str": "60743",
+                        "indices": [
+                            56,
+                            61
+                        ]
+                    },
+                    {
+                        "screen_name": "memdotai",
+                        "name": "Mem",
+                        "id": 1316495843621511168,
+                        "id_str": "1316495843621511168",
+                        "indices": [
+                            62,
+                            71
+                        ]
+                    },
+                    {
+                        "screen_name": "TextsHQ",
+                        "name": "Texts",
+                        "id": 1270667971933794305,
+                        "id_str": "1270667971933794305",
+                        "indices": [
+                            72,
+                            80
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/XITmc5T3uD",
+                        "expanded_url": "https://twitter.com/i/web/status/1638954153643745307",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": 1556848905182072833,
+            "in_reply_to_status_id_str": "1556848905182072833",
+            "in_reply_to_user_id": 12270842,
+            "in_reply_to_user_id_str": "12270842",
+            "in_reply_to_screen_name": "alexiselias",
+            "user": {
+                "id": 1136323140781576194,
+                "id_str": "1136323140781576194",
+                "name": "Lukas Ngo",
+                "screen_name": "luqiss2k4",
+                "location": "Czech Republic",
+                "description": "\u2026?",
+                "url": "https://t.co/PjVgXtv1X4",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/PjVgXtv1X4",
+                                "expanded_url": "https://flow.page/luqiss",
+                                "display_url": "flow.page/luqiss",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 16,
+                "friends_count": 135,
+                "listed_count": 0,
+                "created_at": "Wed Jun 05 17:25:23 +0000 2019",
+                "favourites_count": 91,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 134,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1535276692150931457/Cle_szG7_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1535276692150931457/Cle_szG7_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1136323140781576194/1654873477",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Thu Mar 23 17:17:52 +0000 2023",
+            "id": 1638953221568733195,
+            "id_str": "1638953221568733195",
+            "text": "@Saliimm13 @TextsHQ Hi! Im interest\u2026 can you send me a link? I can give u Arc browser link invite if you want\ud83d\ude07",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "Saliimm13",
+                        "name": "Salim",
+                        "id": 1334883437497491458,
+                        "id_str": "1334883437497491458",
+                        "indices": [
+                            0,
+                            10
+                        ]
+                    },
+                    {
+                        "screen_name": "TextsHQ",
+                        "name": "Texts",
+                        "id": 1270667971933794305,
+                        "id_str": "1270667971933794305",
+                        "indices": [
+                            11,
+                            19
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": 1638831105905250304,
+            "in_reply_to_status_id_str": "1638831105905250304",
+            "in_reply_to_user_id": 1334883437497491458,
+            "in_reply_to_user_id_str": "1334883437497491458",
+            "in_reply_to_screen_name": "Saliimm13",
+            "user": {
+                "id": 1136323140781576194,
+                "id_str": "1136323140781576194",
+                "name": "Lukas Ngo",
+                "screen_name": "luqiss2k4",
+                "location": "Czech Republic",
+                "description": "\u2026?",
+                "url": "https://t.co/PjVgXtv1X4",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/PjVgXtv1X4",
+                                "expanded_url": "https://flow.page/luqiss",
+                                "display_url": "flow.page/luqiss",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 16,
+                "friends_count": 135,
+                "listed_count": 0,
+                "created_at": "Wed Jun 05 17:25:23 +0000 2019",
+                "favourites_count": 91,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 134,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1535276692150931457/Cle_szG7_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1535276692150931457/Cle_szG7_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1136323140781576194/1654873477",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
             "created_at": "Thu Mar 23 16:40:08 +0000 2023",
             "id": 1638943723902869515,
             "id_str": "1638943723902869515",
@@ -14113,12 +14521,12 @@
                 "friends_count": 648,
                 "listed_count": 232,
                 "created_at": "Wed Apr 22 05:13:46 +0000 2020",
-                "favourites_count": 38448,
+                "favourites_count": 38451,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": false,
                 "verified": false,
-                "statuses_count": 21517,
+                "statuses_count": 21519,
                 "lang": null,
                 "contributors_enabled": false,
                 "is_translator": false,
@@ -14219,7 +14627,7 @@
                 "friends_count": 265,
                 "listed_count": 2,
                 "created_at": "Sat Mar 09 23:42:18 +0000 2013",
-                "favourites_count": 10481,
+                "favourites_count": 10482,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": true,
@@ -14310,8 +14718,8 @@
                     }
                 },
                 "protected": false,
-                "followers_count": 1287,
-                "friends_count": 800,
+                "followers_count": 1288,
+                "friends_count": 802,
                 "listed_count": 29,
                 "created_at": "Mon Jun 18 22:54:11 +0000 2012",
                 "favourites_count": 309,
@@ -14417,10 +14825,10 @@
                 },
                 "protected": false,
                 "followers_count": 596,
-                "friends_count": 1595,
+                "friends_count": 1594,
                 "listed_count": 22,
                 "created_at": "Sun Dec 16 08:10:32 +0000 2007",
-                "favourites_count": 13461,
+                "favourites_count": 13462,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": false,
@@ -14589,8 +14997,8 @@
                     }
                 },
                 "protected": false,
-                "followers_count": 3478,
-                "friends_count": 3267,
+                "followers_count": 3480,
+                "friends_count": 3266,
                 "listed_count": 11,
                 "created_at": "Wed Aug 23 00:47:28 +0000 2017",
                 "favourites_count": 4628,
@@ -15095,11 +15503,11 @@
                         }
                     },
                     "protected": false,
-                    "followers_count": 66770,
+                    "followers_count": 66780,
                     "friends_count": 0,
                     "listed_count": 505,
                     "created_at": "Tue Feb 04 16:23:41 +0000 2020",
-                    "favourites_count": 786,
+                    "favourites_count": 787,
                     "utc_offset": null,
                     "time_zone": null,
                     "geo_enabled": false,
@@ -15136,7 +15544,7 @@
                 "contributors": null,
                 "is_quote_status": false,
                 "retweet_count": 6,
-                "favorite_count": 114,
+                "favorite_count": 120,
                 "favorited": false,
                 "retweeted": false,
                 "possibly_sensitive": false,
@@ -15389,11 +15797,11 @@
                     }
                 },
                 "protected": false,
-                "followers_count": 12794,
+                "followers_count": 12795,
                 "friends_count": 589,
                 "listed_count": 673,
                 "created_at": "Tue May 01 14:04:24 +0000 2007",
-                "favourites_count": 21495,
+                "favourites_count": 21496,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": false,
@@ -15629,8 +16037,8 @@
                     }
                 },
                 "protected": false,
-                "followers_count": 35,
-                "friends_count": 208,
+                "followers_count": 34,
+                "friends_count": 207,
                 "listed_count": 1,
                 "created_at": "Thu Jun 28 20:57:34 +0000 2018",
                 "favourites_count": 744,
@@ -15766,10 +16174,10 @@
                 },
                 "protected": false,
                 "followers_count": 1200,
-                "friends_count": 5002,
+                "friends_count": 5003,
                 "listed_count": 18,
                 "created_at": "Mon May 11 14:42:36 +0000 2009",
-                "favourites_count": 14569,
+                "favourites_count": 14568,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": true,
@@ -15895,10 +16303,10 @@
                     },
                     "protected": false,
                     "followers_count": 1200,
-                    "friends_count": 5002,
+                    "friends_count": 5003,
                     "listed_count": 18,
                     "created_at": "Mon May 11 14:42:36 +0000 2009",
-                    "favourites_count": 14569,
+                    "favourites_count": 14568,
                     "utc_offset": null,
                     "time_zone": null,
                     "geo_enabled": true,
@@ -16124,7 +16532,7 @@
                 "friends_count": 0,
                 "listed_count": 2,
                 "created_at": "Thu Jan 24 23:15:55 +0000 2019",
-                "favourites_count": 4680,
+                "favourites_count": 4679,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": false,
@@ -16299,7 +16707,7 @@
                 "friends_count": 524,
                 "listed_count": 0,
                 "created_at": "Thu Mar 30 09:37:30 +0000 2017",
-                "favourites_count": 1037,
+                "favourites_count": 1039,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": false,
@@ -17021,7 +17429,7 @@
                 "contributors": null,
                 "is_quote_status": false,
                 "retweet_count": 2,
-                "favorite_count": 39,
+                "favorite_count": 41,
                 "favorited": false,
                 "retweeted": false,
                 "lang": "en"
@@ -17802,11 +18210,11 @@
                         }
                     },
                     "protected": false,
-                    "followers_count": 174602,
+                    "followers_count": 174601,
                     "friends_count": 2705,
-                    "listed_count": 3292,
+                    "listed_count": 3294,
                     "created_at": "Thu Feb 19 15:15:49 +0000 2009",
-                    "favourites_count": 95038,
+                    "favourites_count": 95039,
                     "utc_offset": null,
                     "time_zone": null,
                     "geo_enabled": true,
@@ -17913,9 +18321,9 @@
                     }
                 },
                 "protected": false,
-                "followers_count": 2263,
-                "friends_count": 481,
-                "listed_count": 45,
+                "followers_count": 2264,
+                "friends_count": 480,
+                "listed_count": 46,
                 "created_at": "Thu Dec 25 20:44:29 +0000 2014",
                 "favourites_count": 1048,
                 "utc_offset": null,
@@ -17954,7 +18362,7 @@
             "contributors": null,
             "is_quote_status": false,
             "retweet_count": 0,
-            "favorite_count": 3,
+            "favorite_count": 4,
             "favorited": false,
             "retweeted": false,
             "lang": "en"
@@ -18455,7 +18863,7 @@
                         }
                     },
                     "protected": false,
-                    "followers_count": 13406,
+                    "followers_count": 13405,
                     "friends_count": 960,
                     "listed_count": 31,
                     "created_at": "Thu Jul 07 05:33:24 +0000 2016",
@@ -18741,16 +19149,16 @@
                     }
                 },
                 "protected": false,
-                "followers_count": 3365,
+                "followers_count": 3367,
                 "friends_count": 984,
                 "listed_count": 54,
                 "created_at": "Mon May 12 13:23:53 +0000 2014",
-                "favourites_count": 137820,
+                "favourites_count": 137822,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": true,
                 "verified": false,
-                "statuses_count": 56444,
+                "statuses_count": 56443,
                 "lang": null,
                 "contributors_enabled": false,
                 "is_translator": false,
@@ -18939,7 +19347,7 @@
                     }
                 },
                 "protected": false,
-                "followers_count": 1179,
+                "followers_count": 1178,
                 "friends_count": 1886,
                 "listed_count": 24,
                 "created_at": "Thu Jan 28 01:40:56 +0000 2016",
