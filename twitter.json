@@ -22475,6 +22475,1106 @@
             "lang": "en"
         },
         {
+            "created_at": "Sun Mar 26 03:18:58 +0000 2023",
+            "id": 1639829265066647552,
+            "id_str": "1639829265066647552",
+            "text": "RT @omariosouto: Gente, adeus @googlechrome e ol\u00e1 @browsercompany #Arc \n\nCARALHO QUE BROWSER FODA https://t.co/wn0ls1w59K",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Arc",
+                        "indices": [
+                            66,
+                            70
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "omariosouto",
+                        "name": "Mario Souto - DevSoutinho",
+                        "id": 2206041386,
+                        "id_str": "2206041386",
+                        "indices": [
+                            3,
+                            15
+                        ]
+                    },
+                    {
+                        "screen_name": "googlechrome",
+                        "name": "Chrome",
+                        "id": 56505125,
+                        "id_str": "56505125",
+                        "indices": [
+                            30,
+                            43
+                        ]
+                    },
+                    {
+                        "screen_name": "browsercompany",
+                        "name": "The Browser Company",
+                        "id": 1224730221557043202,
+                        "id_str": "1224730221557043202",
+                        "indices": [
+                            50,
+                            65
+                        ]
+                    }
+                ],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 1639690025339179010,
+                        "id_str": "1639690025339179010",
+                        "indices": [
+                            98,
+                            121
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/FsFZY_4X0AICAgN.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/FsFZY_4X0AICAgN.jpg",
+                        "url": "https://t.co/wn0ls1w59K",
+                        "display_url": "pic.twitter.com/wn0ls1w59K",
+                        "expanded_url": "https://twitter.com/omariosouto/status/1639690071614840833/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 750,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 425,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 2048,
+                                "h": 1280,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": 1639690071614840833,
+                        "source_status_id_str": "1639690071614840833",
+                        "source_user_id": 2206041386,
+                        "source_user_id_str": "2206041386"
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1639690025339179010,
+                        "id_str": "1639690025339179010",
+                        "indices": [
+                            98,
+                            121
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/FsFZY_4X0AICAgN.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/FsFZY_4X0AICAgN.jpg",
+                        "url": "https://t.co/wn0ls1w59K",
+                        "display_url": "pic.twitter.com/wn0ls1w59K",
+                        "expanded_url": "https://twitter.com/omariosouto/status/1639690071614840833/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 750,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 425,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 2048,
+                                "h": 1280,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": 1639690071614840833,
+                        "source_status_id_str": "1639690071614840833",
+                        "source_user_id": 2206041386,
+                        "source_user_id_str": "2206041386"
+                    },
+                    {
+                        "id": 1639690032955965440,
+                        "id_str": "1639690032955965440",
+                        "indices": [
+                            98,
+                            121
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/FsFZZcQWwAAY-8J.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/FsFZZcQWwAAY-8J.jpg",
+                        "url": "https://t.co/wn0ls1w59K",
+                        "display_url": "pic.twitter.com/wn0ls1w59K",
+                        "expanded_url": "https://twitter.com/omariosouto/status/1639690071614840833/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "medium": {
+                                "w": 1200,
+                                "h": 750,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 425,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 2048,
+                                "h": 1280,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": 1639690071614840833,
+                        "source_status_id_str": "1639690071614840833",
+                        "source_user_id": 2206041386,
+                        "source_user_id_str": "2206041386"
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "pt",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 127343438,
+                "id_str": "127343438",
+                "name": "devskywalker",
+                "screen_name": "devskywalker",
+                "location": "",
+                "description": "",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 73,
+                "friends_count": 1624,
+                "listed_count": 0,
+                "created_at": "Sun Mar 28 22:20:35 +0000 2010",
+                "favourites_count": 47,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 1105,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "022330",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1386374042798727175/Snk61uYG_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1386374042798727175/Snk61uYG_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/127343438/1619371527",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "A8C7F7",
+                "profile_sidebar_fill_color": "C0DFEC",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Sat Mar 25 18:05:51 +0000 2023",
+                "id": 1639690071614840833,
+                "id_str": "1639690071614840833",
+                "text": "Gente, adeus @googlechrome e ol\u00e1 @browsercompany #Arc \n\nCARALHO QUE BROWSER FODA https://t.co/wn0ls1w59K",
+                "truncated": false,
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "Arc",
+                            "indices": [
+                                49,
+                                53
+                            ]
+                        }
+                    ],
+                    "symbols": [],
+                    "user_mentions": [
+                        {
+                            "screen_name": "googlechrome",
+                            "name": "Chrome",
+                            "id": 56505125,
+                            "id_str": "56505125",
+                            "indices": [
+                                13,
+                                26
+                            ]
+                        },
+                        {
+                            "screen_name": "browsercompany",
+                            "name": "The Browser Company",
+                            "id": 1224730221557043202,
+                            "id_str": "1224730221557043202",
+                            "indices": [
+                                33,
+                                48
+                            ]
+                        }
+                    ],
+                    "urls": [],
+                    "media": [
+                        {
+                            "id": 1639690025339179010,
+                            "id_str": "1639690025339179010",
+                            "indices": [
+                                81,
+                                104
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/FsFZY_4X0AICAgN.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/FsFZY_4X0AICAgN.jpg",
+                            "url": "https://t.co/wn0ls1w59K",
+                            "display_url": "pic.twitter.com/wn0ls1w59K",
+                            "expanded_url": "https://twitter.com/omariosouto/status/1639690071614840833/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "medium": {
+                                    "w": 1200,
+                                    "h": 750,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 425,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 2048,
+                                    "h": 1280,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "extended_entities": {
+                    "media": [
+                        {
+                            "id": 1639690025339179010,
+                            "id_str": "1639690025339179010",
+                            "indices": [
+                                81,
+                                104
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/FsFZY_4X0AICAgN.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/FsFZY_4X0AICAgN.jpg",
+                            "url": "https://t.co/wn0ls1w59K",
+                            "display_url": "pic.twitter.com/wn0ls1w59K",
+                            "expanded_url": "https://twitter.com/omariosouto/status/1639690071614840833/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "medium": {
+                                    "w": 1200,
+                                    "h": 750,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 425,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 2048,
+                                    "h": 1280,
+                                    "resize": "fit"
+                                }
+                            }
+                        },
+                        {
+                            "id": 1639690032955965440,
+                            "id_str": "1639690032955965440",
+                            "indices": [
+                                81,
+                                104
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/FsFZZcQWwAAY-8J.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/FsFZZcQWwAAY-8J.jpg",
+                            "url": "https://t.co/wn0ls1w59K",
+                            "display_url": "pic.twitter.com/wn0ls1w59K",
+                            "expanded_url": "https://twitter.com/omariosouto/status/1639690071614840833/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "medium": {
+                                    "w": 1200,
+                                    "h": 750,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 425,
+                                    "resize": "fit"
+                                },
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "large": {
+                                    "w": 2048,
+                                    "h": 1280,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "pt",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 2206041386,
+                    "id_str": "2206041386",
+                    "name": "Mario Souto - DevSoutinho",
+                    "screen_name": "omariosouto",
+                    "location": "Sao Paulo, Brazil",
+                    "description": "I trust in the web and work to make it better! Software Engineer | GitHub Star \u2b50, Microsoft MVP and Google Developer Expert \ud83c\udfc6 | Creator \ud83c\udfa5 #DevSoutinho",
+                    "url": "https://t.co/JSmHWcf529",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/JSmHWcf529",
+                                    "expanded_url": "https://youtube.com/DevSoutinho",
+                                    "display_url": "youtube.com/DevSoutinho",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 31508,
+                    "friends_count": 803,
+                    "listed_count": 197,
+                    "created_at": "Thu Nov 21 01:44:21 +0000 2013",
+                    "favourites_count": 26267,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": true,
+                    "verified": false,
+                    "statuses_count": 14736,
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "1A1B1F",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1410265044424835074/IzPGXGbY_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1410265044424835074/IzPGXGbY_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2206041386/1538448953",
+                    "profile_link_color": "FF691F",
+                    "profile_sidebar_border_color": "FFFFFF",
+                    "profile_sidebar_fill_color": "252429",
+                    "profile_text_color": "666666",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": true,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": null,
+                    "follow_request_sent": null,
+                    "notifications": null,
+                    "translator_type": "none",
+                    "withheld_in_countries": []
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 30,
+                "favorite_count": 897,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "pt"
+            },
+            "is_quote_status": false,
+            "retweet_count": 30,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "pt"
+        },
+        {
+            "created_at": "Sun Mar 26 03:16:04 +0000 2023",
+            "id": 1639828537619398656,
+            "id_str": "1639828537619398656",
+            "text": "Arc by @browsercompany is a great take on the browser UX. Synced tabs, side by side ones, collapsible sidebar, appr\u2026 https://t.co/6nlp3RmU2p",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "browsercompany",
+                        "name": "The Browser Company",
+                        "id": 1224730221557043202,
+                        "id_str": "1224730221557043202",
+                        "indices": [
+                            7,
+                            22
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/6nlp3RmU2p",
+                        "expanded_url": "https://twitter.com/i/web/status/1639828537619398656",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 4713371,
+                "id_str": "4713371",
+                "name": "Gustavo Franco",
+                "screen_name": "stratus",
+                "location": "California",
+                "description": "https://t.co/4KKVOGOVlb\nSr. Director of Engineering @VTEXcommerce. \nXoogler 07'-20'. \nHe/Him. \ud83c\udde7\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8",
+                "url": "https://t.co/sLlPASXjY4",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/sLlPASXjY4",
+                                "expanded_url": "https://www.gustavofranco.com",
+                                "display_url": "gustavofranco.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/4KKVOGOVlb",
+                                "expanded_url": "https://hachyderm.io/@stratus",
+                                "display_url": "hachyderm.io/@stratus",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 1201,
+                "friends_count": 1243,
+                "listed_count": 48,
+                "created_at": "Sun Apr 15 09:06:30 +0000 2007",
+                "favourites_count": 4155,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 4398,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "ACDED6",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1435463464676323328/6IUgIxKx_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1435463464676323328/6IUgIxKx_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/4713371/1604774304",
+                "profile_link_color": "ABB8C2",
+                "profile_sidebar_border_color": "EEEEEE",
+                "profile_sidebar_fill_color": "F6F6F6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": false,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Sun Mar 26 03:08:20 +0000 2023",
+            "id": 1639826590019330048,
+            "id_str": "1639826590019330048",
+            "text": "RT @omariosouto: Gente, adeus @googlechrome e ol\u00e1 @browsercompany #Arc \n\nCARALHO QUE BROWSER FODA https://t.co/wn0ls1w59K",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Arc",
+                        "indices": [
+                            66,
+                            70
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "omariosouto",
+                        "name": "Mario Souto - DevSoutinho",
+                        "id": 2206041386,
+                        "id_str": "2206041386",
+                        "indices": [
+                            3,
+                            15
+                        ]
+                    },
+                    {
+                        "screen_name": "googlechrome",
+                        "name": "Chrome",
+                        "id": 56505125,
+                        "id_str": "56505125",
+                        "indices": [
+                            30,
+                            43
+                        ]
+                    },
+                    {
+                        "screen_name": "browsercompany",
+                        "name": "The Browser Company",
+                        "id": 1224730221557043202,
+                        "id_str": "1224730221557043202",
+                        "indices": [
+                            50,
+                            65
+                        ]
+                    }
+                ],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 1639690025339179010,
+                        "id_str": "1639690025339179010",
+                        "indices": [
+                            98,
+                            121
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/FsFZY_4X0AICAgN.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/FsFZY_4X0AICAgN.jpg",
+                        "url": "https://t.co/wn0ls1w59K",
+                        "display_url": "pic.twitter.com/wn0ls1w59K",
+                        "expanded_url": "https://twitter.com/omariosouto/status/1639690071614840833/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 750,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 425,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 2048,
+                                "h": 1280,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": 1639690071614840833,
+                        "source_status_id_str": "1639690071614840833",
+                        "source_user_id": 2206041386,
+                        "source_user_id_str": "2206041386"
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1639690025339179010,
+                        "id_str": "1639690025339179010",
+                        "indices": [
+                            98,
+                            121
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/FsFZY_4X0AICAgN.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/FsFZY_4X0AICAgN.jpg",
+                        "url": "https://t.co/wn0ls1w59K",
+                        "display_url": "pic.twitter.com/wn0ls1w59K",
+                        "expanded_url": "https://twitter.com/omariosouto/status/1639690071614840833/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 750,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 425,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 2048,
+                                "h": 1280,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": 1639690071614840833,
+                        "source_status_id_str": "1639690071614840833",
+                        "source_user_id": 2206041386,
+                        "source_user_id_str": "2206041386"
+                    },
+                    {
+                        "id": 1639690032955965440,
+                        "id_str": "1639690032955965440",
+                        "indices": [
+                            98,
+                            121
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/FsFZZcQWwAAY-8J.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/FsFZZcQWwAAY-8J.jpg",
+                        "url": "https://t.co/wn0ls1w59K",
+                        "display_url": "pic.twitter.com/wn0ls1w59K",
+                        "expanded_url": "https://twitter.com/omariosouto/status/1639690071614840833/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "medium": {
+                                "w": 1200,
+                                "h": 750,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 425,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 2048,
+                                "h": 1280,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": 1639690071614840833,
+                        "source_status_id_str": "1639690071614840833",
+                        "source_user_id": 2206041386,
+                        "source_user_id_str": "2206041386"
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "pt",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 791343773313794050,
+                "id_str": "791343773313794050",
+                "name": "Veda",
+                "screen_name": "Veda___B",
+                "location": "",
+                "description": "tony halk de ps1 \u00e9 o que falta pra death stranding ficar perfeito",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 132,
+                "friends_count": 1318,
+                "listed_count": 0,
+                "created_at": "Wed Oct 26 18:20:32 +0000 2016",
+                "favourites_count": 82891,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 3125,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1539830163835322368/r31KPzO1_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1539830163835322368/r31KPzO1_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/791343773313794050/1573610937",
+                "profile_link_color": "48F2C4",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Sat Mar 25 18:05:51 +0000 2023",
+                "id": 1639690071614840833,
+                "id_str": "1639690071614840833",
+                "text": "Gente, adeus @googlechrome e ol\u00e1 @browsercompany #Arc \n\nCARALHO QUE BROWSER FODA https://t.co/wn0ls1w59K",
+                "truncated": false,
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "Arc",
+                            "indices": [
+                                49,
+                                53
+                            ]
+                        }
+                    ],
+                    "symbols": [],
+                    "user_mentions": [
+                        {
+                            "screen_name": "googlechrome",
+                            "name": "Chrome",
+                            "id": 56505125,
+                            "id_str": "56505125",
+                            "indices": [
+                                13,
+                                26
+                            ]
+                        },
+                        {
+                            "screen_name": "browsercompany",
+                            "name": "The Browser Company",
+                            "id": 1224730221557043202,
+                            "id_str": "1224730221557043202",
+                            "indices": [
+                                33,
+                                48
+                            ]
+                        }
+                    ],
+                    "urls": [],
+                    "media": [
+                        {
+                            "id": 1639690025339179010,
+                            "id_str": "1639690025339179010",
+                            "indices": [
+                                81,
+                                104
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/FsFZY_4X0AICAgN.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/FsFZY_4X0AICAgN.jpg",
+                            "url": "https://t.co/wn0ls1w59K",
+                            "display_url": "pic.twitter.com/wn0ls1w59K",
+                            "expanded_url": "https://twitter.com/omariosouto/status/1639690071614840833/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "medium": {
+                                    "w": 1200,
+                                    "h": 750,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 425,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 2048,
+                                    "h": 1280,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "extended_entities": {
+                    "media": [
+                        {
+                            "id": 1639690025339179010,
+                            "id_str": "1639690025339179010",
+                            "indices": [
+                                81,
+                                104
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/FsFZY_4X0AICAgN.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/FsFZY_4X0AICAgN.jpg",
+                            "url": "https://t.co/wn0ls1w59K",
+                            "display_url": "pic.twitter.com/wn0ls1w59K",
+                            "expanded_url": "https://twitter.com/omariosouto/status/1639690071614840833/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "medium": {
+                                    "w": 1200,
+                                    "h": 750,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 425,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 2048,
+                                    "h": 1280,
+                                    "resize": "fit"
+                                }
+                            }
+                        },
+                        {
+                            "id": 1639690032955965440,
+                            "id_str": "1639690032955965440",
+                            "indices": [
+                                81,
+                                104
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/FsFZZcQWwAAY-8J.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/FsFZZcQWwAAY-8J.jpg",
+                            "url": "https://t.co/wn0ls1w59K",
+                            "display_url": "pic.twitter.com/wn0ls1w59K",
+                            "expanded_url": "https://twitter.com/omariosouto/status/1639690071614840833/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "medium": {
+                                    "w": 1200,
+                                    "h": 750,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 425,
+                                    "resize": "fit"
+                                },
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "large": {
+                                    "w": 2048,
+                                    "h": 1280,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "pt",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 2206041386,
+                    "id_str": "2206041386",
+                    "name": "Mario Souto - DevSoutinho",
+                    "screen_name": "omariosouto",
+                    "location": "Sao Paulo, Brazil",
+                    "description": "I trust in the web and work to make it better! Software Engineer | GitHub Star \u2b50, Microsoft MVP and Google Developer Expert \ud83c\udfc6 | Creator \ud83c\udfa5 #DevSoutinho",
+                    "url": "https://t.co/JSmHWcf529",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/JSmHWcf529",
+                                    "expanded_url": "https://youtube.com/DevSoutinho",
+                                    "display_url": "youtube.com/DevSoutinho",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 31508,
+                    "friends_count": 803,
+                    "listed_count": 197,
+                    "created_at": "Thu Nov 21 01:44:21 +0000 2013",
+                    "favourites_count": 26267,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": true,
+                    "verified": false,
+                    "statuses_count": 14736,
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "1A1B1F",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1410265044424835074/IzPGXGbY_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1410265044424835074/IzPGXGbY_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2206041386/1538448953",
+                    "profile_link_color": "FF691F",
+                    "profile_sidebar_border_color": "FFFFFF",
+                    "profile_sidebar_fill_color": "252429",
+                    "profile_text_color": "666666",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": true,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": null,
+                    "follow_request_sent": null,
+                    "notifications": null,
+                    "translator_type": "none",
+                    "withheld_in_countries": []
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 30,
+                "favorite_count": 897,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "pt"
+            },
+            "is_quote_status": false,
+            "retweet_count": 30,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "pt"
+        },
+        {
             "created_at": "Sun Mar 26 03:00:56 +0000 2023",
             "id": 1639824727605755905,
             "id_str": "1639824727605755905",
@@ -22692,7 +23792,7 @@
                 "friends_count": 264,
                 "listed_count": 0,
                 "created_at": "Wed Feb 19 23:08:07 +0000 2020",
-                "favourites_count": 3338,
+                "favourites_count": 3346,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": false,
@@ -22919,11 +24019,11 @@
                         }
                     },
                     "protected": false,
-                    "followers_count": 31509,
+                    "followers_count": 31508,
                     "friends_count": 803,
                     "listed_count": 197,
                     "created_at": "Thu Nov 21 01:44:21 +0000 2013",
-                    "favourites_count": 26264,
+                    "favourites_count": 26267,
                     "utc_offset": null,
                     "time_zone": null,
                     "geo_enabled": true,
@@ -22959,15 +24059,15 @@
                 "place": null,
                 "contributors": null,
                 "is_quote_status": false,
-                "retweet_count": 28,
-                "favorite_count": 861,
+                "retweet_count": 30,
+                "favorite_count": 897,
                 "favorited": false,
                 "retweeted": false,
                 "possibly_sensitive": false,
                 "lang": "pt"
             },
             "is_quote_status": false,
-            "retweet_count": 28,
+            "retweet_count": 30,
             "favorite_count": 0,
             "favorited": false,
             "retweeted": false,
@@ -23419,11 +24519,11 @@
                         }
                     },
                     "protected": false,
-                    "followers_count": 31509,
+                    "followers_count": 31508,
                     "friends_count": 803,
                     "listed_count": 197,
                     "created_at": "Thu Nov 21 01:44:21 +0000 2013",
-                    "favourites_count": 26264,
+                    "favourites_count": 26267,
                     "utc_offset": null,
                     "time_zone": null,
                     "geo_enabled": true,
@@ -23459,15 +24559,15 @@
                 "place": null,
                 "contributors": null,
                 "is_quote_status": false,
-                "retweet_count": 28,
-                "favorite_count": 861,
+                "retweet_count": 30,
+                "favorite_count": 897,
                 "favorited": false,
                 "retweeted": false,
                 "possibly_sensitive": false,
                 "lang": "pt"
             },
             "is_quote_status": false,
-            "retweet_count": 28,
+            "retweet_count": 30,
             "favorite_count": 0,
             "favorited": false,
             "retweeted": false,
@@ -23906,11 +25006,11 @@
                         }
                     },
                     "protected": false,
-                    "followers_count": 31509,
+                    "followers_count": 31508,
                     "friends_count": 803,
                     "listed_count": 197,
                     "created_at": "Thu Nov 21 01:44:21 +0000 2013",
-                    "favourites_count": 26264,
+                    "favourites_count": 26267,
                     "utc_offset": null,
                     "time_zone": null,
                     "geo_enabled": true,
@@ -23946,15 +25046,15 @@
                 "place": null,
                 "contributors": null,
                 "is_quote_status": false,
-                "retweet_count": 28,
-                "favorite_count": 861,
+                "retweet_count": 30,
+                "favorite_count": 897,
                 "favorited": false,
                 "retweeted": false,
                 "possibly_sensitive": false,
                 "lang": "pt"
             },
             "is_quote_status": false,
-            "retweet_count": 28,
+            "retweet_count": 30,
             "favorite_count": 0,
             "favorited": false,
             "retweeted": false,
@@ -24163,7 +25263,7 @@
                 },
                 "protected": false,
                 "followers_count": 21,
-                "friends_count": 91,
+                "friends_count": 92,
                 "listed_count": 0,
                 "created_at": "Tue Jan 27 01:21:27 +0000 2015",
                 "favourites_count": 1499,
@@ -24171,7 +25271,7 @@
                 "time_zone": null,
                 "geo_enabled": false,
                 "verified": false,
-                "statuses_count": 558,
+                "statuses_count": 559,
                 "lang": null,
                 "contributors_enabled": false,
                 "is_translator": false,
@@ -24392,11 +25492,11 @@
                         }
                     },
                     "protected": false,
-                    "followers_count": 31509,
+                    "followers_count": 31508,
                     "friends_count": 803,
                     "listed_count": 197,
                     "created_at": "Thu Nov 21 01:44:21 +0000 2013",
-                    "favourites_count": 26264,
+                    "favourites_count": 26267,
                     "utc_offset": null,
                     "time_zone": null,
                     "geo_enabled": true,
@@ -24432,15 +25532,15 @@
                 "place": null,
                 "contributors": null,
                 "is_quote_status": false,
-                "retweet_count": 28,
-                "favorite_count": 861,
+                "retweet_count": 30,
+                "favorite_count": 897,
                 "favorited": false,
                 "retweeted": false,
                 "possibly_sensitive": false,
                 "lang": "pt"
             },
             "is_quote_status": false,
-            "retweet_count": 28,
+            "retweet_count": 30,
             "favorite_count": 0,
             "favorited": false,
             "retweeted": false,
@@ -24892,11 +25992,11 @@
                         }
                     },
                     "protected": false,
-                    "followers_count": 31509,
+                    "followers_count": 31508,
                     "friends_count": 803,
                     "listed_count": 197,
                     "created_at": "Thu Nov 21 01:44:21 +0000 2013",
-                    "favourites_count": 26264,
+                    "favourites_count": 26267,
                     "utc_offset": null,
                     "time_zone": null,
                     "geo_enabled": true,
@@ -24932,15 +26032,15 @@
                 "place": null,
                 "contributors": null,
                 "is_quote_status": false,
-                "retweet_count": 28,
-                "favorite_count": 861,
+                "retweet_count": 30,
+                "favorite_count": 897,
                 "favorited": false,
                 "retweeted": false,
                 "possibly_sensitive": false,
                 "lang": "pt"
             },
             "is_quote_status": false,
-            "retweet_count": 28,
+            "retweet_count": 30,
             "favorite_count": 0,
             "favorited": false,
             "retweeted": false,
@@ -25016,11 +26116,11 @@
                     }
                 },
                 "protected": false,
-                "followers_count": 8374,
+                "followers_count": 8375,
                 "friends_count": 220,
                 "listed_count": 300,
                 "created_at": "Tue Aug 15 12:14:38 +0000 2006",
-                "favourites_count": 4420,
+                "favourites_count": 4419,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": true,
@@ -25494,11 +26594,11 @@
                         }
                     },
                     "protected": false,
-                    "followers_count": 31509,
+                    "followers_count": 31508,
                     "friends_count": 803,
                     "listed_count": 197,
                     "created_at": "Thu Nov 21 01:44:21 +0000 2013",
-                    "favourites_count": 26264,
+                    "favourites_count": 26267,
                     "utc_offset": null,
                     "time_zone": null,
                     "geo_enabled": true,
@@ -25534,15 +26634,15 @@
                 "place": null,
                 "contributors": null,
                 "is_quote_status": false,
-                "retweet_count": 28,
-                "favorite_count": 861,
+                "retweet_count": 30,
+                "favorite_count": 897,
                 "favorited": false,
                 "retweeted": false,
                 "possibly_sensitive": false,
                 "lang": "pt"
             },
             "is_quote_status": false,
-            "retweet_count": 28,
+            "retweet_count": 30,
             "favorite_count": 0,
             "favorited": false,
             "retweeted": false,
@@ -26074,11 +27174,11 @@
                         }
                     },
                     "protected": false,
-                    "followers_count": 31509,
+                    "followers_count": 31508,
                     "friends_count": 803,
                     "listed_count": 197,
                     "created_at": "Thu Nov 21 01:44:21 +0000 2013",
-                    "favourites_count": 26264,
+                    "favourites_count": 26267,
                     "utc_offset": null,
                     "time_zone": null,
                     "geo_enabled": true,
@@ -26114,15 +27214,15 @@
                 "place": null,
                 "contributors": null,
                 "is_quote_status": false,
-                "retweet_count": 28,
-                "favorite_count": 861,
+                "retweet_count": 30,
+                "favorite_count": 897,
                 "favorited": false,
                 "retweeted": false,
                 "possibly_sensitive": false,
                 "lang": "pt"
             },
             "is_quote_status": false,
-            "retweet_count": 28,
+            "retweet_count": 30,
             "favorite_count": 0,
             "favorited": false,
             "retweeted": false,
@@ -26574,11 +27674,11 @@
                         }
                     },
                     "protected": false,
-                    "followers_count": 31509,
+                    "followers_count": 31508,
                     "friends_count": 803,
                     "listed_count": 197,
                     "created_at": "Thu Nov 21 01:44:21 +0000 2013",
-                    "favourites_count": 26264,
+                    "favourites_count": 26267,
                     "utc_offset": null,
                     "time_zone": null,
                     "geo_enabled": true,
@@ -26614,15 +27714,15 @@
                 "place": null,
                 "contributors": null,
                 "is_quote_status": false,
-                "retweet_count": 28,
-                "favorite_count": 861,
+                "retweet_count": 30,
+                "favorite_count": 897,
                 "favorited": false,
                 "retweeted": false,
                 "possibly_sensitive": false,
                 "lang": "pt"
             },
             "is_quote_status": false,
-            "retweet_count": 28,
+            "retweet_count": 30,
             "favorite_count": 0,
             "favorited": false,
             "retweeted": false,
@@ -32983,12 +34083,12 @@
                 "friends_count": 568,
                 "listed_count": 1,
                 "created_at": "Sun May 20 17:49:58 +0000 2018",
-                "favourites_count": 9488,
+                "favourites_count": 9491,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": false,
                 "verified": false,
-                "statuses_count": 6582,
+                "statuses_count": 6583,
                 "lang": null,
                 "contributors_enabled": false,
                 "is_translator": false,
@@ -33210,11 +34310,11 @@
                         }
                     },
                     "protected": false,
-                    "followers_count": 31509,
+                    "followers_count": 31508,
                     "friends_count": 803,
                     "listed_count": 197,
                     "created_at": "Thu Nov 21 01:44:21 +0000 2013",
-                    "favourites_count": 26264,
+                    "favourites_count": 26267,
                     "utc_offset": null,
                     "time_zone": null,
                     "geo_enabled": true,
@@ -33250,15 +34350,15 @@
                 "place": null,
                 "contributors": null,
                 "is_quote_status": false,
-                "retweet_count": 28,
-                "favorite_count": 861,
+                "retweet_count": 30,
+                "favorite_count": 897,
                 "favorited": false,
                 "retweeted": false,
                 "possibly_sensitive": false,
                 "lang": "pt"
             },
             "is_quote_status": false,
-            "retweet_count": 28,
+            "retweet_count": 30,
             "favorite_count": 0,
             "favorited": false,
             "retweeted": false,
@@ -33753,10 +34853,10 @@
                 },
                 "protected": false,
                 "followers_count": 335,
-                "friends_count": 882,
+                "friends_count": 883,
                 "listed_count": 2,
                 "created_at": "Sat May 24 12:00:34 +0000 2014",
-                "favourites_count": 38370,
+                "favourites_count": 38371,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": true,
@@ -33983,11 +35083,11 @@
                         }
                     },
                     "protected": false,
-                    "followers_count": 31509,
+                    "followers_count": 31508,
                     "friends_count": 803,
                     "listed_count": 197,
                     "created_at": "Thu Nov 21 01:44:21 +0000 2013",
-                    "favourites_count": 26264,
+                    "favourites_count": 26267,
                     "utc_offset": null,
                     "time_zone": null,
                     "geo_enabled": true,
@@ -34023,15 +35123,15 @@
                 "place": null,
                 "contributors": null,
                 "is_quote_status": false,
-                "retweet_count": 28,
-                "favorite_count": 861,
+                "retweet_count": 30,
+                "favorite_count": 897,
                 "favorited": false,
                 "retweeted": false,
                 "possibly_sensitive": false,
                 "lang": "pt"
             },
             "is_quote_status": false,
-            "retweet_count": 28,
+            "retweet_count": 30,
             "favorite_count": 0,
             "favorited": false,
             "retweeted": false,
@@ -34469,11 +35569,11 @@
                         }
                     },
                     "protected": false,
-                    "followers_count": 31509,
+                    "followers_count": 31508,
                     "friends_count": 803,
                     "listed_count": 197,
                     "created_at": "Thu Nov 21 01:44:21 +0000 2013",
-                    "favourites_count": 26264,
+                    "favourites_count": 26267,
                     "utc_offset": null,
                     "time_zone": null,
                     "geo_enabled": true,
@@ -34509,15 +35609,15 @@
                 "place": null,
                 "contributors": null,
                 "is_quote_status": false,
-                "retweet_count": 28,
-                "favorite_count": 861,
+                "retweet_count": 30,
+                "favorite_count": 897,
                 "favorited": false,
                 "retweeted": false,
                 "possibly_sensitive": false,
                 "lang": "pt"
             },
             "is_quote_status": false,
-            "retweet_count": 28,
+            "retweet_count": 30,
             "favorite_count": 0,
             "favorited": false,
             "retweeted": false,
@@ -34824,11 +35924,11 @@
                         }
                     },
                     "protected": false,
-                    "followers_count": 31509,
+                    "followers_count": 31508,
                     "friends_count": 803,
                     "listed_count": 197,
                     "created_at": "Thu Nov 21 01:44:21 +0000 2013",
-                    "favourites_count": 26264,
+                    "favourites_count": 26267,
                     "utc_offset": null,
                     "time_zone": null,
                     "geo_enabled": true,
@@ -34864,15 +35964,15 @@
                 "place": null,
                 "contributors": null,
                 "is_quote_status": false,
-                "retweet_count": 0,
-                "favorite_count": 43,
+                "retweet_count": 1,
+                "favorite_count": 44,
                 "favorited": false,
                 "retweeted": false,
                 "possibly_sensitive": false,
                 "lang": "en"
             },
             "is_quote_status": false,
-            "retweet_count": 0,
+            "retweet_count": 1,
             "favorite_count": 0,
             "favorited": false,
             "retweeted": false,
@@ -35406,11 +36506,11 @@
                         }
                     },
                     "protected": false,
-                    "followers_count": 31509,
+                    "followers_count": 31508,
                     "friends_count": 803,
                     "listed_count": 197,
                     "created_at": "Thu Nov 21 01:44:21 +0000 2013",
-                    "favourites_count": 26264,
+                    "favourites_count": 26267,
                     "utc_offset": null,
                     "time_zone": null,
                     "geo_enabled": true,
@@ -35446,15 +36546,15 @@
                 "place": null,
                 "contributors": null,
                 "is_quote_status": false,
-                "retweet_count": 28,
-                "favorite_count": 861,
+                "retweet_count": 30,
+                "favorite_count": 897,
                 "favorited": false,
                 "retweeted": false,
                 "possibly_sensitive": false,
                 "lang": "pt"
             },
             "is_quote_status": false,
-            "retweet_count": 28,
+            "retweet_count": 30,
             "favorite_count": 0,
             "favorited": false,
             "retweeted": false,
@@ -35542,7 +36642,7 @@
                 "friends_count": 1202,
                 "listed_count": 6,
                 "created_at": "Wed Aug 27 02:36:53 +0000 2008",
-                "favourites_count": 24247,
+                "favourites_count": 24240,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": false,
@@ -35657,7 +36757,7 @@
                 "friends_count": 1316,
                 "listed_count": 3,
                 "created_at": "Tue Jul 30 22:30:42 +0000 2013",
-                "favourites_count": 10961,
+                "favourites_count": 10960,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": false,
@@ -35827,7 +36927,7 @@
                 "friends_count": 1202,
                 "listed_count": 6,
                 "created_at": "Wed Aug 27 02:36:53 +0000 2008",
-                "favourites_count": 24247,
+                "favourites_count": 24240,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": false,
@@ -36179,7 +37279,7 @@
                 "friends_count": 764,
                 "listed_count": 0,
                 "created_at": "Sun Jun 21 14:17:47 +0000 2009",
-                "favourites_count": 2666,
+                "favourites_count": 2665,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": true,
@@ -36405,11 +37505,11 @@
                         }
                     },
                     "protected": false,
-                    "followers_count": 31509,
+                    "followers_count": 31508,
                     "friends_count": 803,
                     "listed_count": 197,
                     "created_at": "Thu Nov 21 01:44:21 +0000 2013",
-                    "favourites_count": 26264,
+                    "favourites_count": 26267,
                     "utc_offset": null,
                     "time_zone": null,
                     "geo_enabled": true,
@@ -36445,15 +37545,15 @@
                 "place": null,
                 "contributors": null,
                 "is_quote_status": false,
-                "retweet_count": 28,
-                "favorite_count": 861,
+                "retweet_count": 30,
+                "favorite_count": 897,
                 "favorited": false,
                 "retweeted": false,
                 "possibly_sensitive": false,
                 "lang": "pt"
             },
             "is_quote_status": false,
-            "retweet_count": 28,
+            "retweet_count": 30,
             "favorite_count": 0,
             "favorited": false,
             "retweeted": false,
@@ -36892,11 +37992,11 @@
                         }
                     },
                     "protected": false,
-                    "followers_count": 31509,
+                    "followers_count": 31508,
                     "friends_count": 803,
                     "listed_count": 197,
                     "created_at": "Thu Nov 21 01:44:21 +0000 2013",
-                    "favourites_count": 26264,
+                    "favourites_count": 26267,
                     "utc_offset": null,
                     "time_zone": null,
                     "geo_enabled": true,
@@ -36932,15 +38032,15 @@
                 "place": null,
                 "contributors": null,
                 "is_quote_status": false,
-                "retweet_count": 28,
-                "favorite_count": 861,
+                "retweet_count": 30,
+                "favorite_count": 897,
                 "favorited": false,
                 "retweeted": false,
                 "possibly_sensitive": false,
                 "lang": "pt"
             },
             "is_quote_status": false,
-            "retweet_count": 28,
+            "retweet_count": 30,
             "favorite_count": 0,
             "favorited": false,
             "retweeted": false,
@@ -37152,7 +38252,7 @@
                 "friends_count": 387,
                 "listed_count": 0,
                 "created_at": "Mon Jul 12 02:10:27 +0000 2021",
-                "favourites_count": 4390,
+                "favourites_count": 4392,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": false,
@@ -37378,11 +38478,11 @@
                         }
                     },
                     "protected": false,
-                    "followers_count": 31509,
+                    "followers_count": 31508,
                     "friends_count": 803,
                     "listed_count": 197,
                     "created_at": "Thu Nov 21 01:44:21 +0000 2013",
-                    "favourites_count": 26264,
+                    "favourites_count": 26267,
                     "utc_offset": null,
                     "time_zone": null,
                     "geo_enabled": true,
@@ -37418,15 +38518,15 @@
                 "place": null,
                 "contributors": null,
                 "is_quote_status": false,
-                "retweet_count": 28,
-                "favorite_count": 861,
+                "retweet_count": 30,
+                "favorite_count": 897,
                 "favorited": false,
                 "retweeted": false,
                 "possibly_sensitive": false,
                 "lang": "pt"
             },
             "is_quote_status": false,
-            "retweet_count": 28,
+            "retweet_count": 30,
             "favorite_count": 0,
             "favorited": false,
             "retweeted": false,
@@ -37878,11 +38978,11 @@
                         }
                     },
                     "protected": false,
-                    "followers_count": 31509,
+                    "followers_count": 31508,
                     "friends_count": 803,
                     "listed_count": 197,
                     "created_at": "Thu Nov 21 01:44:21 +0000 2013",
-                    "favourites_count": 26264,
+                    "favourites_count": 26267,
                     "utc_offset": null,
                     "time_zone": null,
                     "geo_enabled": true,
@@ -37918,15 +39018,15 @@
                 "place": null,
                 "contributors": null,
                 "is_quote_status": false,
-                "retweet_count": 28,
-                "favorite_count": 861,
+                "retweet_count": 30,
+                "favorite_count": 897,
                 "favorited": false,
                 "retweeted": false,
                 "possibly_sensitive": false,
                 "lang": "pt"
             },
             "is_quote_status": false,
-            "retweet_count": 28,
+            "retweet_count": 30,
             "favorite_count": 0,
             "favorited": false,
             "retweeted": false,
@@ -38002,7 +39102,7 @@
                 },
                 "protected": false,
                 "followers_count": 98,
-                "friends_count": 475,
+                "friends_count": 476,
                 "listed_count": 4,
                 "created_at": "Thu Apr 21 17:21:16 +0000 2011",
                 "favourites_count": 1655,
@@ -38265,7 +39365,7 @@
                 "friends_count": 219,
                 "listed_count": 0,
                 "created_at": "Mon Jun 06 03:26:20 +0000 2016",
-                "favourites_count": 2563,
+                "favourites_count": 2564,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": false,
@@ -38492,11 +39592,11 @@
                         }
                     },
                     "protected": false,
-                    "followers_count": 31509,
+                    "followers_count": 31508,
                     "friends_count": 803,
                     "listed_count": 197,
                     "created_at": "Thu Nov 21 01:44:21 +0000 2013",
-                    "favourites_count": 26264,
+                    "favourites_count": 26267,
                     "utc_offset": null,
                     "time_zone": null,
                     "geo_enabled": true,
@@ -38532,15 +39632,15 @@
                 "place": null,
                 "contributors": null,
                 "is_quote_status": false,
-                "retweet_count": 28,
-                "favorite_count": 861,
+                "retweet_count": 30,
+                "favorite_count": 897,
                 "favorited": false,
                 "retweeted": false,
                 "possibly_sensitive": false,
                 "lang": "pt"
             },
             "is_quote_status": false,
-            "retweet_count": 28,
+            "retweet_count": 30,
             "favorite_count": 0,
             "favorited": false,
             "retweeted": false,
@@ -38979,11 +40079,11 @@
                         }
                     },
                     "protected": false,
-                    "followers_count": 31509,
+                    "followers_count": 31508,
                     "friends_count": 803,
                     "listed_count": 197,
                     "created_at": "Thu Nov 21 01:44:21 +0000 2013",
-                    "favourites_count": 26264,
+                    "favourites_count": 26267,
                     "utc_offset": null,
                     "time_zone": null,
                     "geo_enabled": true,
@@ -39019,15 +40119,15 @@
                 "place": null,
                 "contributors": null,
                 "is_quote_status": false,
-                "retweet_count": 28,
-                "favorite_count": 861,
+                "retweet_count": 30,
+                "favorite_count": 897,
                 "favorited": false,
                 "retweeted": false,
                 "possibly_sensitive": false,
                 "lang": "pt"
             },
             "is_quote_status": false,
-            "retweet_count": 28,
+            "retweet_count": 30,
             "favorite_count": 0,
             "favorited": false,
             "retweeted": false,
@@ -39258,11 +40358,11 @@
                     }
                 },
                 "protected": false,
-                "followers_count": 4310,
+                "followers_count": 4309,
                 "friends_count": 5002,
                 "listed_count": 24,
                 "created_at": "Thu Oct 15 10:29:37 +0000 2020",
-                "favourites_count": 23679,
+                "favourites_count": 23682,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": false,
@@ -39489,11 +40589,11 @@
                         }
                     },
                     "protected": false,
-                    "followers_count": 31509,
+                    "followers_count": 31508,
                     "friends_count": 803,
                     "listed_count": 197,
                     "created_at": "Thu Nov 21 01:44:21 +0000 2013",
-                    "favourites_count": 26264,
+                    "favourites_count": 26267,
                     "utc_offset": null,
                     "time_zone": null,
                     "geo_enabled": true,
@@ -39529,15 +40629,15 @@
                 "place": null,
                 "contributors": null,
                 "is_quote_status": false,
-                "retweet_count": 28,
-                "favorite_count": 861,
+                "retweet_count": 30,
+                "favorite_count": 897,
                 "favorited": false,
                 "retweeted": false,
                 "possibly_sensitive": false,
                 "lang": "pt"
             },
             "is_quote_status": false,
-            "retweet_count": 28,
+            "retweet_count": 30,
             "favorite_count": 0,
             "favorited": false,
             "retweeted": false,
@@ -39594,7 +40694,7 @@
                 },
                 "protected": false,
                 "followers_count": 1614,
-                "friends_count": 1578,
+                "friends_count": 1579,
                 "listed_count": 1,
                 "created_at": "Fri Dec 10 09:07:25 +0000 2010",
                 "favourites_count": 36798,
@@ -39634,7 +40734,7 @@
             "contributors": null,
             "is_quote_status": false,
             "retweet_count": 0,
-            "favorite_count": 0,
+            "favorite_count": 1,
             "favorited": false,
             "retweeted": false,
             "lang": "en"
@@ -39856,11 +40956,11 @@
                     }
                 },
                 "protected": false,
-                "followers_count": 31509,
+                "followers_count": 31508,
                 "friends_count": 803,
                 "listed_count": 197,
                 "created_at": "Thu Nov 21 01:44:21 +0000 2013",
-                "favourites_count": 26264,
+                "favourites_count": 26267,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": true,
@@ -39896,8 +40996,8 @@
             "place": null,
             "contributors": null,
             "is_quote_status": false,
-            "retweet_count": 0,
-            "favorite_count": 43,
+            "retweet_count": 1,
+            "favorite_count": 44,
             "favorited": false,
             "retweeted": false,
             "possibly_sensitive": false,
@@ -40095,11 +41195,11 @@
                     }
                 },
                 "protected": false,
-                "followers_count": 31509,
+                "followers_count": 31508,
                 "friends_count": 803,
                 "listed_count": 197,
                 "created_at": "Thu Nov 21 01:44:21 +0000 2013",
-                "favourites_count": 26264,
+                "favourites_count": 26267,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": true,
@@ -40135,8 +41235,8 @@
             "place": null,
             "contributors": null,
             "is_quote_status": false,
-            "retweet_count": 28,
-            "favorite_count": 861,
+            "retweet_count": 30,
+            "favorite_count": 897,
             "favorited": false,
             "retweeted": false,
             "possibly_sensitive": false,
@@ -40213,7 +41313,7 @@
                 },
                 "protected": false,
                 "followers_count": 567,
-                "friends_count": 2377,
+                "friends_count": 2378,
                 "listed_count": 8,
                 "created_at": "Thu Jun 26 12:58:29 +0000 2014",
                 "favourites_count": 1903,
@@ -40253,7 +41353,7 @@
             "contributors": null,
             "is_quote_status": false,
             "retweet_count": 0,
-            "favorite_count": 0,
+            "favorite_count": 1,
             "favorited": false,
             "retweeted": false,
             "lang": "en"
@@ -40696,7 +41796,7 @@
                     "friends_count": 553,
                     "listed_count": 25,
                     "created_at": "Tue Apr 05 11:41:42 +0000 2016",
-                    "favourites_count": 50252,
+                    "favourites_count": 50251,
                     "utc_offset": null,
                     "time_zone": null,
                     "geo_enabled": false,
@@ -40940,7 +42040,7 @@
                     "friends_count": 553,
                     "listed_count": 25,
                     "created_at": "Tue Apr 05 11:41:42 +0000 2016",
-                    "favourites_count": 50252,
+                    "favourites_count": 50251,
                     "utc_offset": null,
                     "time_zone": null,
                     "geo_enabled": false,
@@ -41275,7 +42375,7 @@
                         }
                     },
                     "protected": false,
-                    "followers_count": 9989,
+                    "followers_count": 9995,
                     "friends_count": 2,
                     "listed_count": 103,
                     "created_at": "Wed Aug 25 08:44:35 +0000 2021",
@@ -41399,16 +42499,16 @@
                     }
                 },
                 "protected": false,
-                "followers_count": 5241,
+                "followers_count": 5240,
                 "friends_count": 811,
                 "listed_count": 13,
                 "created_at": "Mon Nov 07 20:56:19 +0000 2011",
-                "favourites_count": 16563,
+                "favourites_count": 16562,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": true,
                 "verified": false,
-                "statuses_count": 9825,
+                "statuses_count": 9826,
                 "lang": null,
                 "contributors_enabled": false,
                 "is_translator": false,
@@ -41877,7 +42977,7 @@
                         }
                     },
                     "protected": false,
-                    "followers_count": 9989,
+                    "followers_count": 9995,
                     "friends_count": 2,
                     "listed_count": 103,
                     "created_at": "Wed Aug 25 08:44:35 +0000 2021",
@@ -42221,7 +43321,7 @@
                 "friends_count": 454,
                 "listed_count": 2,
                 "created_at": "Wed Apr 15 06:20:49 +0000 2020",
-                "favourites_count": 9787,
+                "favourites_count": 9789,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": false,
@@ -42334,11 +43434,11 @@
                     }
                 },
                 "protected": false,
-                "followers_count": 4462,
+                "followers_count": 4463,
                 "friends_count": 4145,
                 "listed_count": 43,
                 "created_at": "Tue Apr 28 17:49:58 +0000 2009",
-                "favourites_count": 25770,
+                "favourites_count": 25769,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": true,
@@ -42547,7 +43647,7 @@
                         }
                     },
                     "protected": false,
-                    "followers_count": 9989,
+                    "followers_count": 9995,
                     "friends_count": 2,
                     "listed_count": 103,
                     "created_at": "Wed Aug 25 08:44:35 +0000 2021",
@@ -42778,7 +43878,7 @@
                 },
                 "protected": false,
                 "followers_count": 198,
-                "friends_count": 77,
+                "friends_count": 78,
                 "listed_count": 3,
                 "created_at": "Wed Jun 20 17:53:15 +0000 2012",
                 "favourites_count": 3904,
@@ -43068,11 +44168,11 @@
                     }
                 },
                 "protected": false,
-                "followers_count": 2574,
+                "followers_count": 2575,
                 "friends_count": 559,
                 "listed_count": 101,
                 "created_at": "Thu Jul 22 16:49:29 +0000 2010",
-                "favourites_count": 6152,
+                "favourites_count": 6150,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": true,
@@ -43160,7 +44260,7 @@
                     "friends_count": 395,
                     "listed_count": 73,
                     "created_at": "Wed Jan 17 18:22:14 +0000 2007",
-                    "favourites_count": 12061,
+                    "favourites_count": 12060,
                     "utc_offset": null,
                     "time_zone": null,
                     "geo_enabled": false,
@@ -43363,7 +44463,7 @@
                 },
                 "protected": false,
                 "followers_count": 36,
-                "friends_count": 282,
+                "friends_count": 283,
                 "listed_count": 0,
                 "created_at": "Mon Dec 19 18:23:30 +0000 2011",
                 "favourites_count": 306,
@@ -57252,7 +58352,7 @@
                     }
                 },
                 "protected": false,
-                "followers_count": 3669,
+                "followers_count": 3667,
                 "friends_count": 356,
                 "listed_count": 274,
                 "created_at": "Mon Jul 23 14:16:47 +0000 2012",
@@ -58092,7 +59192,7 @@
                 "friends_count": 395,
                 "listed_count": 73,
                 "created_at": "Wed Jan 17 18:22:14 +0000 2007",
-                "favourites_count": 12061,
+                "favourites_count": 12060,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": false,
@@ -58201,7 +59301,7 @@
                     }
                 },
                 "protected": false,
-                "followers_count": 33900,
+                "followers_count": 33898,
                 "friends_count": 702,
                 "listed_count": 341,
                 "created_at": "Tue Jan 24 21:07:41 +0000 2012",
@@ -58416,7 +59516,7 @@
                         }
                     },
                     "protected": false,
-                    "followers_count": 67805,
+                    "followers_count": 67826,
                     "friends_count": 0,
                     "listed_count": 513,
                     "created_at": "Tue Feb 04 16:23:41 +0000 2020",
@@ -58554,7 +59654,7 @@
                 "friends_count": 946,
                 "listed_count": 16,
                 "created_at": "Fri Jun 12 12:50:40 +0000 2020",
-                "favourites_count": 21862,
+                "favourites_count": 21861,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": true,
@@ -58774,7 +59874,7 @@
                 "friends_count": 946,
                 "listed_count": 16,
                 "created_at": "Fri Jun 12 12:50:40 +0000 2020",
-                "favourites_count": 21862,
+                "favourites_count": 21861,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": true,
@@ -59003,7 +60103,7 @@
                         }
                     },
                     "protected": false,
-                    "followers_count": 9989,
+                    "followers_count": 9995,
                     "friends_count": 2,
                     "listed_count": 103,
                     "created_at": "Wed Aug 25 08:44:35 +0000 2021",
@@ -59107,7 +60207,7 @@
                 },
                 "protected": false,
                 "followers_count": 88,
-                "friends_count": 123,
+                "friends_count": 124,
                 "listed_count": 0,
                 "created_at": "Wed Aug 12 02:10:33 +0000 2015",
                 "favourites_count": 1540,
@@ -59213,7 +60313,7 @@
                 },
                 "protected": false,
                 "followers_count": 88,
-                "friends_count": 123,
+                "friends_count": 124,
                 "listed_count": 0,
                 "created_at": "Wed Aug 12 02:10:33 +0000 2015",
                 "favourites_count": 1540,
@@ -59308,7 +60408,7 @@
                 "friends_count": 2257,
                 "listed_count": 12,
                 "created_at": "Tue Jun 04 11:30:55 +0000 2013",
-                "favourites_count": 8289,
+                "favourites_count": 8294,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": false,
@@ -59414,7 +60514,7 @@
                 "friends_count": 2950,
                 "listed_count": 66,
                 "created_at": "Sat Aug 22 16:32:14 +0000 2020",
-                "favourites_count": 56592,
+                "favourites_count": 56591,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": true,
@@ -59534,7 +60634,7 @@
                     }
                 },
                 "protected": false,
-                "followers_count": 25,
+                "followers_count": 24,
                 "friends_count": 93,
                 "listed_count": 0,
                 "created_at": "Wed Jan 16 16:35:19 +0000 2019",
@@ -59746,7 +60846,7 @@
                     }
                 },
                 "protected": false,
-                "followers_count": 1380,
+                "followers_count": 1378,
                 "friends_count": 3960,
                 "listed_count": 235,
                 "created_at": "Tue Jul 07 16:13:31 +0000 2015",
@@ -59857,7 +60957,7 @@
                 "friends_count": 307,
                 "listed_count": 4,
                 "created_at": "Mon Nov 03 02:52:19 +0000 2014",
-                "favourites_count": 706,
+                "favourites_count": 705,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": false,
@@ -60514,7 +61614,7 @@
                         }
                     },
                     "protected": false,
-                    "followers_count": 9989,
+                    "followers_count": 9995,
                     "friends_count": 2,
                     "listed_count": 103,
                     "created_at": "Wed Aug 25 08:44:35 +0000 2021",
@@ -60624,7 +61724,7 @@
                 "time_zone": null,
                 "geo_enabled": false,
                 "verified": false,
-                "statuses_count": 1323,
+                "statuses_count": 1336,
                 "lang": null,
                 "contributors_enabled": false,
                 "is_translator": false,
@@ -60723,7 +61823,7 @@
                         }
                     },
                     "protected": false,
-                    "followers_count": 9989,
+                    "followers_count": 9995,
                     "friends_count": 2,
                     "listed_count": 103,
                     "created_at": "Wed Aug 25 08:44:35 +0000 2021",
@@ -60960,7 +62060,7 @@
                     "friends_count": 553,
                     "listed_count": 25,
                     "created_at": "Tue Apr 05 11:41:42 +0000 2016",
-                    "favourites_count": 50252,
+                    "favourites_count": 50251,
                     "utc_offset": null,
                     "time_zone": null,
                     "geo_enabled": false,
@@ -61069,7 +62169,7 @@
                 },
                 "protected": false,
                 "followers_count": 685,
-                "friends_count": 965,
+                "friends_count": 964,
                 "listed_count": 13,
                 "created_at": "Wed Oct 12 15:56:02 +0000 2011",
                 "favourites_count": 470,
@@ -61180,7 +62280,7 @@
                     "friends_count": 553,
                     "listed_count": 25,
                     "created_at": "Tue Apr 05 11:41:42 +0000 2016",
-                    "favourites_count": 50252,
+                    "favourites_count": 50251,
                     "utc_offset": null,
                     "time_zone": null,
                     "geo_enabled": false,
@@ -61385,7 +62485,7 @@
                         }
                     },
                     "protected": false,
-                    "followers_count": 9989,
+                    "followers_count": 9995,
                     "friends_count": 2,
                     "listed_count": 103,
                     "created_at": "Wed Aug 25 08:44:35 +0000 2021",
@@ -61508,7 +62608,7 @@
                     }
                 },
                 "protected": false,
-                "followers_count": 9989,
+                "followers_count": 9995,
                 "friends_count": 2,
                 "listed_count": 103,
                 "created_at": "Wed Aug 25 08:44:35 +0000 2021",
@@ -61629,7 +62729,7 @@
                 "friends_count": 553,
                 "listed_count": 25,
                 "created_at": "Tue Apr 05 11:41:42 +0000 2016",
-                "favourites_count": 50252,
+                "favourites_count": 50251,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": false,
@@ -62280,7 +63380,7 @@
                 },
                 "protected": false,
                 "followers_count": 573,
-                "friends_count": 940,
+                "friends_count": 941,
                 "listed_count": 16,
                 "created_at": "Fri Apr 11 03:35:18 +0000 2008",
                 "favourites_count": 16836,
@@ -62288,7 +63388,7 @@
                 "time_zone": null,
                 "geo_enabled": true,
                 "verified": false,
-                "statuses_count": 58276,
+                "statuses_count": 58279,
                 "lang": null,
                 "contributors_enabled": false,
                 "is_translator": false,
@@ -62385,7 +63485,7 @@
                     }
                 },
                 "protected": false,
-                "followers_count": 1292,
+                "followers_count": 1290,
                 "friends_count": 1296,
                 "listed_count": 35,
                 "created_at": "Mon Feb 16 15:43:01 +0000 2015",
