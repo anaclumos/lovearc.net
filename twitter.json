@@ -22627,10 +22627,10 @@
                 },
                 "protected": false,
                 "followers_count": 169,
-                "friends_count": 170,
+                "friends_count": 183,
                 "listed_count": 4,
                 "created_at": "Thu Mar 07 06:57:00 +0000 2013",
-                "favourites_count": 61411,
+                "favourites_count": 61409,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": true,
@@ -22762,16 +22762,16 @@
                     }
                 },
                 "protected": false,
-                "followers_count": 31581,
+                "followers_count": 31580,
                 "friends_count": 805,
                 "listed_count": 198,
                 "created_at": "Thu Nov 21 01:44:21 +0000 2013",
-                "favourites_count": 26383,
+                "favourites_count": 26401,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": true,
                 "verified": false,
-                "statuses_count": 14796,
+                "statuses_count": 14802,
                 "lang": null,
                 "contributors_enabled": false,
                 "is_translator": false,
@@ -23104,7 +23104,7 @@
                 },
                 "protected": false,
                 "followers_count": 99,
-                "friends_count": 475,
+                "friends_count": 476,
                 "listed_count": 4,
                 "created_at": "Thu Apr 21 17:21:16 +0000 2011",
                 "favourites_count": 1663,
@@ -23751,16 +23751,16 @@
                         }
                     },
                     "protected": false,
-                    "followers_count": 31581,
+                    "followers_count": 31580,
                     "friends_count": 805,
                     "listed_count": 198,
                     "created_at": "Thu Nov 21 01:44:21 +0000 2013",
-                    "favourites_count": 26383,
+                    "favourites_count": 26401,
                     "utc_offset": null,
                     "time_zone": null,
                     "geo_enabled": true,
                     "verified": false,
-                    "statuses_count": 14796,
+                    "statuses_count": 14802,
                     "lang": null,
                     "contributors_enabled": false,
                     "is_translator": false,
@@ -24251,16 +24251,16 @@
                         }
                     },
                     "protected": false,
-                    "followers_count": 31581,
+                    "followers_count": 31580,
                     "friends_count": 805,
                     "listed_count": 198,
                     "created_at": "Thu Nov 21 01:44:21 +0000 2013",
-                    "favourites_count": 26383,
+                    "favourites_count": 26401,
                     "utc_offset": null,
                     "time_zone": null,
                     "geo_enabled": true,
                     "verified": false,
-                    "statuses_count": 14796,
+                    "statuses_count": 14802,
                     "lang": null,
                     "contributors_enabled": false,
                     "is_translator": false,
@@ -24978,16 +24978,16 @@
                         }
                     },
                     "protected": false,
-                    "followers_count": 31581,
+                    "followers_count": 31580,
                     "friends_count": 805,
                     "listed_count": 198,
                     "created_at": "Thu Nov 21 01:44:21 +0000 2013",
-                    "favourites_count": 26383,
+                    "favourites_count": 26401,
                     "utc_offset": null,
                     "time_zone": null,
                     "geo_enabled": true,
                     "verified": false,
-                    "statuses_count": 14796,
+                    "statuses_count": 14802,
                     "lang": null,
                     "contributors_enabled": false,
                     "is_translator": false,
@@ -25186,8 +25186,8 @@
                     }
                 },
                 "protected": false,
-                "followers_count": 6030,
-                "friends_count": 6627,
+                "followers_count": 6029,
+                "friends_count": 6626,
                 "listed_count": 269,
                 "created_at": "Fri Jan 16 18:05:04 +0000 2009",
                 "favourites_count": 11568,
@@ -25195,7 +25195,7 @@
                 "time_zone": null,
                 "geo_enabled": true,
                 "verified": false,
-                "statuses_count": 29080,
+                "statuses_count": 29081,
                 "lang": null,
                 "contributors_enabled": false,
                 "is_translator": false,
@@ -25293,16 +25293,16 @@
                     }
                 },
                 "protected": false,
-                "followers_count": 1037,
+                "followers_count": 1045,
                 "friends_count": 804,
                 "listed_count": 23,
                 "created_at": "Sat Jan 31 19:51:59 +0000 2009",
-                "favourites_count": 12811,
+                "favourites_count": 12812,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": true,
                 "verified": false,
-                "statuses_count": 20159,
+                "statuses_count": 20160,
                 "lang": null,
                 "contributors_enabled": false,
                 "is_translator": false,
@@ -25783,16 +25783,16 @@
                         }
                     },
                     "protected": false,
-                    "followers_count": 31581,
+                    "followers_count": 31580,
                     "friends_count": 805,
                     "listed_count": 198,
                     "created_at": "Thu Nov 21 01:44:21 +0000 2013",
-                    "favourites_count": 26383,
+                    "favourites_count": 26401,
                     "utc_offset": null,
                     "time_zone": null,
                     "geo_enabled": true,
                     "verified": false,
-                    "statuses_count": 14796,
+                    "statuses_count": 14802,
                     "lang": null,
                     "contributors_enabled": false,
                     "is_translator": false,
@@ -25899,7 +25899,7 @@
                 },
                 "protected": false,
                 "followers_count": 100,
-                "friends_count": 113,
+                "friends_count": 114,
                 "listed_count": 8,
                 "created_at": "Fri Jun 17 23:02:14 +0000 2011",
                 "favourites_count": 994,
@@ -26639,7 +26639,7 @@
                 },
                 "protected": false,
                 "followers_count": 9,
-                "friends_count": 909,
+                "friends_count": 910,
                 "listed_count": 0,
                 "created_at": "Mon Feb 17 13:20:34 +0000 2014",
                 "favourites_count": 771,
@@ -26868,16 +26868,16 @@
                         }
                     },
                     "protected": false,
-                    "followers_count": 31581,
+                    "followers_count": 31580,
                     "friends_count": 805,
                     "listed_count": 198,
                     "created_at": "Thu Nov 21 01:44:21 +0000 2013",
-                    "favourites_count": 26383,
+                    "favourites_count": 26401,
                     "utc_offset": null,
                     "time_zone": null,
                     "geo_enabled": true,
                     "verified": false,
-                    "statuses_count": 14796,
+                    "statuses_count": 14802,
                     "lang": null,
                     "contributors_enabled": false,
                     "is_translator": false,
@@ -27354,16 +27354,16 @@
                         }
                     },
                     "protected": false,
-                    "followers_count": 31581,
+                    "followers_count": 31580,
                     "friends_count": 805,
                     "listed_count": 198,
                     "created_at": "Thu Nov 21 01:44:21 +0000 2013",
-                    "favourites_count": 26383,
+                    "favourites_count": 26401,
                     "utc_offset": null,
                     "time_zone": null,
                     "geo_enabled": true,
                     "verified": false,
-                    "statuses_count": 14796,
+                    "statuses_count": 14802,
                     "lang": null,
                     "contributors_enabled": false,
                     "is_translator": false,
@@ -27481,7 +27481,7 @@
                 "time_zone": null,
                 "geo_enabled": true,
                 "verified": false,
-                "statuses_count": 2315,
+                "statuses_count": 2316,
                 "lang": null,
                 "contributors_enabled": false,
                 "is_translator": false,
@@ -27724,12 +27724,12 @@
                 "friends_count": 489,
                 "listed_count": 0,
                 "created_at": "Sat Feb 02 16:24:25 +0000 2013",
-                "favourites_count": 15960,
+                "favourites_count": 15959,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": false,
                 "verified": false,
-                "statuses_count": 16419,
+                "statuses_count": 16423,
                 "lang": null,
                 "contributors_enabled": false,
                 "is_translator": false,
@@ -27951,16 +27951,16 @@
                         }
                     },
                     "protected": false,
-                    "followers_count": 31581,
+                    "followers_count": 31580,
                     "friends_count": 805,
                     "listed_count": 198,
                     "created_at": "Thu Nov 21 01:44:21 +0000 2013",
-                    "favourites_count": 26383,
+                    "favourites_count": 26401,
                     "utc_offset": null,
                     "time_zone": null,
                     "geo_enabled": true,
                     "verified": false,
-                    "statuses_count": 14796,
+                    "statuses_count": 14802,
                     "lang": null,
                     "contributors_enabled": false,
                     "is_translator": false,
@@ -28070,7 +28070,7 @@
                 "friends_count": 312,
                 "listed_count": 5,
                 "created_at": "Wed Dec 09 02:45:36 +0000 2009",
-                "favourites_count": 9783,
+                "favourites_count": 9781,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": true,
@@ -28330,12 +28330,12 @@
                 "friends_count": 337,
                 "listed_count": 12,
                 "created_at": "Wed Jun 02 21:09:41 +0000 2010",
-                "favourites_count": 40020,
+                "favourites_count": 40027,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": true,
                 "verified": false,
-                "statuses_count": 97474,
+                "statuses_count": 97477,
                 "lang": null,
                 "contributors_enabled": false,
                 "is_translator": false,
@@ -28557,16 +28557,16 @@
                         }
                     },
                     "protected": false,
-                    "followers_count": 31581,
+                    "followers_count": 31580,
                     "friends_count": 805,
                     "listed_count": 198,
                     "created_at": "Thu Nov 21 01:44:21 +0000 2013",
-                    "favourites_count": 26383,
+                    "favourites_count": 26401,
                     "utc_offset": null,
                     "time_zone": null,
                     "geo_enabled": true,
                     "verified": false,
-                    "statuses_count": 14796,
+                    "statuses_count": 14802,
                     "lang": null,
                     "contributors_enabled": false,
                     "is_translator": false,
@@ -28648,16 +28648,16 @@
                     }
                 },
                 "protected": false,
-                "followers_count": 1297,
+                "followers_count": 1296,
                 "friends_count": 677,
                 "listed_count": 1,
                 "created_at": "Tue Feb 13 07:16:32 +0000 2018",
-                "favourites_count": 10291,
+                "favourites_count": 10289,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": false,
                 "verified": false,
-                "statuses_count": 8454,
+                "statuses_count": 8448,
                 "lang": null,
                 "contributors_enabled": false,
                 "is_translator": false,
@@ -28765,7 +28765,7 @@
                 },
                 "protected": false,
                 "followers_count": 216,
-                "friends_count": 158,
+                "friends_count": 159,
                 "listed_count": 19,
                 "created_at": "Sun Jul 19 23:02:19 +0000 2009",
                 "favourites_count": 2544,
@@ -29211,7 +29211,7 @@
                 },
                 "protected": false,
                 "followers_count": 10557,
-                "friends_count": 1797,
+                "friends_count": 1798,
                 "listed_count": 7,
                 "created_at": "Mon Feb 17 22:09:10 +0000 2014",
                 "favourites_count": 16566,
@@ -29303,7 +29303,7 @@
                 },
                 "protected": false,
                 "followers_count": 499,
-                "friends_count": 406,
+                "friends_count": 407,
                 "listed_count": 13,
                 "created_at": "Mon Aug 01 15:53:00 +0000 2016",
                 "favourites_count": 1884,
@@ -29410,12 +29410,12 @@
                 "friends_count": 993,
                 "listed_count": 41,
                 "created_at": "Fri Dec 31 19:33:32 +0000 2021",
-                "favourites_count": 29942,
+                "favourites_count": 29951,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": false,
                 "verified": false,
-                "statuses_count": 27485,
+                "statuses_count": 27493,
                 "lang": null,
                 "contributors_enabled": false,
                 "is_translator": false,
@@ -29506,7 +29506,7 @@
                 "friends_count": 271,
                 "listed_count": 6,
                 "created_at": "Fri Apr 08 09:57:28 +0000 2016",
-                "favourites_count": 31426,
+                "favourites_count": 31427,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": true,
@@ -29732,7 +29732,7 @@
                     }
                 },
                 "protected": false,
-                "followers_count": 3995,
+                "followers_count": 3994,
                 "friends_count": 2235,
                 "listed_count": 9,
                 "created_at": "Thu Aug 23 14:24:30 +0000 2018",
@@ -30037,10 +30037,10 @@
                 },
                 "protected": false,
                 "followers_count": 4658,
-                "friends_count": 487,
+                "friends_count": 486,
                 "listed_count": 12,
                 "created_at": "Wed Jul 28 05:44:10 +0000 2010",
-                "favourites_count": 8926,
+                "favourites_count": 8925,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": true,
@@ -30527,16 +30527,16 @@
                         }
                     },
                     "protected": false,
-                    "followers_count": 31581,
+                    "followers_count": 31580,
                     "friends_count": 805,
                     "listed_count": 198,
                     "created_at": "Thu Nov 21 01:44:21 +0000 2013",
-                    "favourites_count": 26383,
+                    "favourites_count": 26401,
                     "utc_offset": null,
                     "time_zone": null,
                     "geo_enabled": true,
                     "verified": false,
-                    "statuses_count": 14796,
+                    "statuses_count": 14802,
                     "lang": null,
                     "contributors_enabled": false,
                     "is_translator": false,
@@ -30737,7 +30737,7 @@
                         }
                     },
                     "protected": false,
-                    "followers_count": 10370,
+                    "followers_count": 10378,
                     "friends_count": 2,
                     "listed_count": 105,
                     "created_at": "Wed Aug 25 08:44:35 +0000 2021",
@@ -31223,16 +31223,16 @@
                         }
                     },
                     "protected": false,
-                    "followers_count": 31581,
+                    "followers_count": 31580,
                     "friends_count": 805,
                     "listed_count": 198,
                     "created_at": "Thu Nov 21 01:44:21 +0000 2013",
-                    "favourites_count": 26383,
+                    "favourites_count": 26401,
                     "utc_offset": null,
                     "time_zone": null,
                     "geo_enabled": true,
                     "verified": false,
-                    "statuses_count": 14796,
+                    "statuses_count": 14802,
                     "lang": null,
                     "contributors_enabled": false,
                     "is_translator": false,
@@ -31492,7 +31492,7 @@
                     }
                 },
                 "protected": false,
-                "followers_count": 257,
+                "followers_count": 256,
                 "friends_count": 226,
                 "listed_count": 0,
                 "created_at": "Thu Jul 19 01:37:05 +0000 2018",
@@ -31723,16 +31723,16 @@
                         }
                     },
                     "protected": false,
-                    "followers_count": 31581,
+                    "followers_count": 31580,
                     "friends_count": 805,
                     "listed_count": 198,
                     "created_at": "Thu Nov 21 01:44:21 +0000 2013",
-                    "favourites_count": 26383,
+                    "favourites_count": 26401,
                     "utc_offset": null,
                     "time_zone": null,
                     "geo_enabled": true,
                     "verified": false,
-                    "statuses_count": 14796,
+                    "statuses_count": 14802,
                     "lang": null,
                     "contributors_enabled": false,
                     "is_translator": false,
@@ -32210,16 +32210,16 @@
                         }
                     },
                     "protected": false,
-                    "followers_count": 31581,
+                    "followers_count": 31580,
                     "friends_count": 805,
                     "listed_count": 198,
                     "created_at": "Thu Nov 21 01:44:21 +0000 2013",
-                    "favourites_count": 26383,
+                    "favourites_count": 26401,
                     "utc_offset": null,
                     "time_zone": null,
                     "geo_enabled": true,
                     "verified": false,
-                    "statuses_count": 14796,
+                    "statuses_count": 14802,
                     "lang": null,
                     "contributors_enabled": false,
                     "is_translator": false,
@@ -32470,7 +32470,7 @@
                 "friends_count": 241,
                 "listed_count": 0,
                 "created_at": "Sun Sep 18 10:11:48 +0000 2022",
-                "favourites_count": 6804,
+                "favourites_count": 6806,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": false,
@@ -32697,16 +32697,16 @@
                         }
                     },
                     "protected": false,
-                    "followers_count": 31581,
+                    "followers_count": 31580,
                     "friends_count": 805,
                     "listed_count": 198,
                     "created_at": "Thu Nov 21 01:44:21 +0000 2013",
-                    "favourites_count": 26383,
+                    "favourites_count": 26401,
                     "utc_offset": null,
                     "time_zone": null,
                     "geo_enabled": true,
                     "verified": false,
-                    "statuses_count": 14796,
+                    "statuses_count": 14802,
                     "lang": null,
                     "contributors_enabled": false,
                     "is_translator": false,
@@ -60572,6 +60572,3539 @@
             "lang": "en"
         },
         {
+            "created_at": "Mon Mar 27 21:29:25 +0000 2023",
+            "id": 1640466075862306817,
+            "id_str": "1640466075862306817",
+            "text": "RT @verge: Arc is coming to iPhone, but it won\u2019t replace Safari yet, says CEO https://t.co/JcI3Kp0mDM https://t.co/JqzMn86khH",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "verge",
+                        "name": "The Verge",
+                        "id": 275686563,
+                        "id_str": "275686563",
+                        "indices": [
+                            3,
+                            9
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/JcI3Kp0mDM",
+                        "expanded_url": "https://www.theverge.com/2023/3/27/23658863/arc-browser-iphone-ios-companion-app-mac?utm_campaign=theverge&utm_content=chorus&utm_medium=social&utm_source=twitter",
+                        "display_url": "theverge.com/2023/3/27/2365\u2026",
+                        "indices": [
+                            78,
+                            101
+                        ]
+                    }
+                ],
+                "media": [
+                    {
+                        "id": 1640462178108035073,
+                        "id_str": "1640462178108035073",
+                        "indices": [
+                            102,
+                            125
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/FsQXqNGX0AEXcky.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/FsQXqNGX0AEXcky.jpg",
+                        "url": "https://t.co/JqzMn86khH",
+                        "display_url": "pic.twitter.com/JqzMn86khH",
+                        "expanded_url": "https://twitter.com/verge/status/1640462180985327616/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 2048,
+                                "h": 1063,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 623,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 353,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": 1640462180985327616,
+                        "source_status_id_str": "1640462180985327616",
+                        "source_user_id": 275686563,
+                        "source_user_id_str": "275686563"
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1640462178108035073,
+                        "id_str": "1640462178108035073",
+                        "indices": [
+                            102,
+                            125
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/FsQXqNGX0AEXcky.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/FsQXqNGX0AEXcky.jpg",
+                        "url": "https://t.co/JqzMn86khH",
+                        "display_url": "pic.twitter.com/JqzMn86khH",
+                        "expanded_url": "https://twitter.com/verge/status/1640462180985327616/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 2048,
+                                "h": 1063,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 623,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 353,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": 1640462180985327616,
+                        "source_status_id_str": "1640462180985327616",
+                        "source_user_id": 275686563,
+                        "source_user_id_str": "275686563"
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1599058165621981186,
+                "id_str": "1599058165621981186",
+                "name": "Lester Slifierz",
+                "screen_name": "I_2_drive_tesla",
+                "location": "Chicago, IL",
+                "description": "",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 221,
+                "friends_count": 54,
+                "listed_count": 1,
+                "created_at": "Sat Dec 03 15:13:27 +0000 2022",
+                "favourites_count": 1478,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 1656,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1637174679348604928/fpSA382T_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1637174679348604928/fpSA382T_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Mon Mar 27 21:13:56 +0000 2023",
+                "id": 1640462180985327616,
+                "id_str": "1640462180985327616",
+                "text": "Arc is coming to iPhone, but it won\u2019t replace Safari yet, says CEO https://t.co/JcI3Kp0mDM https://t.co/JqzMn86khH",
+                "truncated": false,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/JcI3Kp0mDM",
+                            "expanded_url": "https://www.theverge.com/2023/3/27/23658863/arc-browser-iphone-ios-companion-app-mac?utm_campaign=theverge&utm_content=chorus&utm_medium=social&utm_source=twitter",
+                            "display_url": "theverge.com/2023/3/27/2365\u2026",
+                            "indices": [
+                                67,
+                                90
+                            ]
+                        }
+                    ],
+                    "media": [
+                        {
+                            "id": 1640462178108035073,
+                            "id_str": "1640462178108035073",
+                            "indices": [
+                                91,
+                                114
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/FsQXqNGX0AEXcky.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/FsQXqNGX0AEXcky.jpg",
+                            "url": "https://t.co/JqzMn86khH",
+                            "display_url": "pic.twitter.com/JqzMn86khH",
+                            "expanded_url": "https://twitter.com/verge/status/1640462180985327616/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "large": {
+                                    "w": 2048,
+                                    "h": 1063,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 1200,
+                                    "h": 623,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 353,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "extended_entities": {
+                    "media": [
+                        {
+                            "id": 1640462178108035073,
+                            "id_str": "1640462178108035073",
+                            "indices": [
+                                91,
+                                114
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/FsQXqNGX0AEXcky.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/FsQXqNGX0AEXcky.jpg",
+                            "url": "https://t.co/JqzMn86khH",
+                            "display_url": "pic.twitter.com/JqzMn86khH",
+                            "expanded_url": "https://twitter.com/verge/status/1640462180985327616/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "large": {
+                                    "w": 2048,
+                                    "h": 1063,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 1200,
+                                    "h": 623,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 353,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"http://www.voxmedia.com\" rel=\"nofollow\">Chorus publishing platform</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 275686563,
+                    "id_str": "275686563",
+                    "name": "The Verge",
+                    "screen_name": "verge",
+                    "location": "New York",
+                    "description": "https://t.co/GYkBloRfPz covers life in the future.",
+                    "url": "https://t.co/pGMvEf1quS",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/pGMvEf1quS",
+                                    "expanded_url": "http://www.theverge.com",
+                                    "display_url": "theverge.com",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/GYkBloRfPz",
+                                    "expanded_url": "http://theverge.com",
+                                    "display_url": "theverge.com",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 3045785,
+                    "friends_count": 187,
+                    "listed_count": 37909,
+                    "created_at": "Fri Apr 01 19:54:22 +0000 2011",
+                    "favourites_count": 1443,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": true,
+                    "verified": true,
+                    "statuses_count": 223442,
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": true,
+                    "profile_background_color": "FFFFFF",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1569656103528448000/d0BzVIPL_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1569656103528448000/d0BzVIPL_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/275686563/1663070153",
+                    "profile_link_color": "EC008C",
+                    "profile_sidebar_border_color": "000000",
+                    "profile_sidebar_fill_color": "EFEFEF",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": false,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": null,
+                    "follow_request_sent": null,
+                    "notifications": null,
+                    "translator_type": "regular",
+                    "withheld_in_countries": []
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 7,
+                "favorite_count": 38,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "is_quote_status": false,
+            "retweet_count": 7,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Mon Mar 27 21:25:37 +0000 2023",
+            "id": 1640465117576921088,
+            "id_str": "1640465117576921088",
+            "text": "RT @verge: Arc is coming to iPhone, but it won\u2019t replace Safari yet, says CEO https://t.co/JcI3Kp0mDM https://t.co/JqzMn86khH",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "verge",
+                        "name": "The Verge",
+                        "id": 275686563,
+                        "id_str": "275686563",
+                        "indices": [
+                            3,
+                            9
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/JcI3Kp0mDM",
+                        "expanded_url": "https://www.theverge.com/2023/3/27/23658863/arc-browser-iphone-ios-companion-app-mac?utm_campaign=theverge&utm_content=chorus&utm_medium=social&utm_source=twitter",
+                        "display_url": "theverge.com/2023/3/27/2365\u2026",
+                        "indices": [
+                            78,
+                            101
+                        ]
+                    }
+                ],
+                "media": [
+                    {
+                        "id": 1640462178108035073,
+                        "id_str": "1640462178108035073",
+                        "indices": [
+                            102,
+                            125
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/FsQXqNGX0AEXcky.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/FsQXqNGX0AEXcky.jpg",
+                        "url": "https://t.co/JqzMn86khH",
+                        "display_url": "pic.twitter.com/JqzMn86khH",
+                        "expanded_url": "https://twitter.com/verge/status/1640462180985327616/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 2048,
+                                "h": 1063,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 623,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 353,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": 1640462180985327616,
+                        "source_status_id_str": "1640462180985327616",
+                        "source_user_id": 275686563,
+                        "source_user_id_str": "275686563"
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1640462178108035073,
+                        "id_str": "1640462178108035073",
+                        "indices": [
+                            102,
+                            125
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/FsQXqNGX0AEXcky.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/FsQXqNGX0AEXcky.jpg",
+                        "url": "https://t.co/JqzMn86khH",
+                        "display_url": "pic.twitter.com/JqzMn86khH",
+                        "expanded_url": "https://twitter.com/verge/status/1640462180985327616/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 2048,
+                                "h": 1063,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 623,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 353,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": 1640462180985327616,
+                        "source_status_id_str": "1640462180985327616",
+                        "source_user_id": 275686563,
+                        "source_user_id_str": "275686563"
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1385862974271787009,
+                "id_str": "1385862974271787009",
+                "name": "(Lavelle Jordan)\u264b\ufe0f Computer Science Major",
+                "screen_name": "YungCartiiiii",
+                "location": "I got confidence don\u2019t hate it",
+                "description": "Black Gamer, Streamer. Anime/Manga Lover. Togashi is Back. Amateur Game Dev. YT:KrowNinja. 24 y/o. Keiasha\ud83d\udc9c RE4 OUT NOW. Horror Game Supremacy.",
+                "url": "https://t.co/FHFZ9fCwIZ",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/FHFZ9fCwIZ",
+                                "expanded_url": "https://youtube.com/@KrowNinja",
+                                "display_url": "youtube.com/@KrowNinja",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 896,
+                "friends_count": 1199,
+                "listed_count": 6,
+                "created_at": "Sat Apr 24 07:47:48 +0000 2021",
+                "favourites_count": 151254,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 151388,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1638063556598824962/qmqZ2xO6_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1638063556598824962/qmqZ2xO6_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1385862974271787009/1678730373",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Mon Mar 27 21:13:56 +0000 2023",
+                "id": 1640462180985327616,
+                "id_str": "1640462180985327616",
+                "text": "Arc is coming to iPhone, but it won\u2019t replace Safari yet, says CEO https://t.co/JcI3Kp0mDM https://t.co/JqzMn86khH",
+                "truncated": false,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/JcI3Kp0mDM",
+                            "expanded_url": "https://www.theverge.com/2023/3/27/23658863/arc-browser-iphone-ios-companion-app-mac?utm_campaign=theverge&utm_content=chorus&utm_medium=social&utm_source=twitter",
+                            "display_url": "theverge.com/2023/3/27/2365\u2026",
+                            "indices": [
+                                67,
+                                90
+                            ]
+                        }
+                    ],
+                    "media": [
+                        {
+                            "id": 1640462178108035073,
+                            "id_str": "1640462178108035073",
+                            "indices": [
+                                91,
+                                114
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/FsQXqNGX0AEXcky.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/FsQXqNGX0AEXcky.jpg",
+                            "url": "https://t.co/JqzMn86khH",
+                            "display_url": "pic.twitter.com/JqzMn86khH",
+                            "expanded_url": "https://twitter.com/verge/status/1640462180985327616/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "large": {
+                                    "w": 2048,
+                                    "h": 1063,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 1200,
+                                    "h": 623,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 353,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "extended_entities": {
+                    "media": [
+                        {
+                            "id": 1640462178108035073,
+                            "id_str": "1640462178108035073",
+                            "indices": [
+                                91,
+                                114
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/FsQXqNGX0AEXcky.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/FsQXqNGX0AEXcky.jpg",
+                            "url": "https://t.co/JqzMn86khH",
+                            "display_url": "pic.twitter.com/JqzMn86khH",
+                            "expanded_url": "https://twitter.com/verge/status/1640462180985327616/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "large": {
+                                    "w": 2048,
+                                    "h": 1063,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 1200,
+                                    "h": 623,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 353,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"http://www.voxmedia.com\" rel=\"nofollow\">Chorus publishing platform</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 275686563,
+                    "id_str": "275686563",
+                    "name": "The Verge",
+                    "screen_name": "verge",
+                    "location": "New York",
+                    "description": "https://t.co/GYkBloRfPz covers life in the future.",
+                    "url": "https://t.co/pGMvEf1quS",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/pGMvEf1quS",
+                                    "expanded_url": "http://www.theverge.com",
+                                    "display_url": "theverge.com",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/GYkBloRfPz",
+                                    "expanded_url": "http://theverge.com",
+                                    "display_url": "theverge.com",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 3045785,
+                    "friends_count": 187,
+                    "listed_count": 37909,
+                    "created_at": "Fri Apr 01 19:54:22 +0000 2011",
+                    "favourites_count": 1443,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": true,
+                    "verified": true,
+                    "statuses_count": 223442,
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": true,
+                    "profile_background_color": "FFFFFF",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1569656103528448000/d0BzVIPL_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1569656103528448000/d0BzVIPL_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/275686563/1663070153",
+                    "profile_link_color": "EC008C",
+                    "profile_sidebar_border_color": "000000",
+                    "profile_sidebar_fill_color": "EFEFEF",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": false,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": null,
+                    "follow_request_sent": null,
+                    "notifications": null,
+                    "translator_type": "regular",
+                    "withheld_in_countries": []
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 7,
+                "favorite_count": 38,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "is_quote_status": false,
+            "retweet_count": 7,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Mon Mar 27 21:23:57 +0000 2023",
+            "id": 1640464699165937664,
+            "id_str": "1640464699165937664",
+            "text": "@browsercompany &lt;Browser collection expanded&gt; \ud83d\udc7e\nWill there be sync between the Mac and IOS ARC?",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "browsercompany",
+                        "name": "The Browser Company",
+                        "id": 1224730221557043202,
+                        "id_str": "1224730221557043202",
+                        "indices": [
+                            0,
+                            15
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": 1640402472752787456,
+            "in_reply_to_status_id_str": "1640402472752787456",
+            "in_reply_to_user_id": 1224730221557043202,
+            "in_reply_to_user_id_str": "1224730221557043202",
+            "in_reply_to_screen_name": "browsercompany",
+            "user": {
+                "id": 1507914659822772224,
+                "id_str": "1507914659822772224",
+                "name": "Jharoo",
+                "screen_name": "Jharoo_",
+                "location": "",
+                "description": "#infosec enthusiast\ud83e\udd88 / Osint \ud83d\udc41 / MS Security Stack addict / #BlueTeam \ud83d\udee1\ufe0f",
+                "url": "https://t.co/WO8cMkoLWn",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/WO8cMkoLWn",
+                                "expanded_url": "https://infosec.exchange/@Jharoo",
+                                "display_url": "infosec.exchange/@Jharoo",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 25,
+                "friends_count": 252,
+                "listed_count": 1,
+                "created_at": "Sun Mar 27 02:58:12 +0000 2022",
+                "favourites_count": 622,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 209,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1640248125041389570/0InTZF96_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1640248125041389570/0InTZF96_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1507914659822772224/1648350891",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Mon Mar 27 21:23:03 +0000 2023",
+            "id": 1640464472598011907,
+            "id_str": "1640464472598011907",
+            "text": "RT @verge: Arc is coming to iPhone, but it won\u2019t replace Safari yet, says CEO https://t.co/JcI3Kp0mDM https://t.co/JqzMn86khH",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "verge",
+                        "name": "The Verge",
+                        "id": 275686563,
+                        "id_str": "275686563",
+                        "indices": [
+                            3,
+                            9
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/JcI3Kp0mDM",
+                        "expanded_url": "https://www.theverge.com/2023/3/27/23658863/arc-browser-iphone-ios-companion-app-mac?utm_campaign=theverge&utm_content=chorus&utm_medium=social&utm_source=twitter",
+                        "display_url": "theverge.com/2023/3/27/2365\u2026",
+                        "indices": [
+                            78,
+                            101
+                        ]
+                    }
+                ],
+                "media": [
+                    {
+                        "id": 1640462178108035073,
+                        "id_str": "1640462178108035073",
+                        "indices": [
+                            102,
+                            125
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/FsQXqNGX0AEXcky.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/FsQXqNGX0AEXcky.jpg",
+                        "url": "https://t.co/JqzMn86khH",
+                        "display_url": "pic.twitter.com/JqzMn86khH",
+                        "expanded_url": "https://twitter.com/verge/status/1640462180985327616/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 2048,
+                                "h": 1063,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 623,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 353,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": 1640462180985327616,
+                        "source_status_id_str": "1640462180985327616",
+                        "source_user_id": 275686563,
+                        "source_user_id_str": "275686563"
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1640462178108035073,
+                        "id_str": "1640462178108035073",
+                        "indices": [
+                            102,
+                            125
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/FsQXqNGX0AEXcky.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/FsQXqNGX0AEXcky.jpg",
+                        "url": "https://t.co/JqzMn86khH",
+                        "display_url": "pic.twitter.com/JqzMn86khH",
+                        "expanded_url": "https://twitter.com/verge/status/1640462180985327616/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 2048,
+                                "h": 1063,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 623,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 353,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": 1640462180985327616,
+                        "source_status_id_str": "1640462180985327616",
+                        "source_user_id": 275686563,
+                        "source_user_id_str": "275686563"
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 744091461889581057,
+                "id_str": "744091461889581057",
+                "name": "lang",
+                "screen_name": "mgilangjanuar",
+                "location": "Indonesia",
+                "description": "He/him. Husband. Tech. Work @BahasaAI. Current projects: @ReplAI_app / @hoursonline_app / @AutomaApp / @teledriveapp",
+                "url": "https://t.co/XeuDxuuAvw",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/XeuDxuuAvw",
+                                "expanded_url": "https://mgilangjanuar.com",
+                                "display_url": "mgilangjanuar.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 1718,
+                "friends_count": 500,
+                "listed_count": 9,
+                "created_at": "Sat Jun 18 08:56:44 +0000 2016",
+                "favourites_count": 2454,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 7627,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1604785576695107584/IdOV4ohX_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1604785576695107584/IdOV4ohX_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/744091461889581057/1659451636",
+                "profile_link_color": "ABB8C2",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Mon Mar 27 21:13:56 +0000 2023",
+                "id": 1640462180985327616,
+                "id_str": "1640462180985327616",
+                "text": "Arc is coming to iPhone, but it won\u2019t replace Safari yet, says CEO https://t.co/JcI3Kp0mDM https://t.co/JqzMn86khH",
+                "truncated": false,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/JcI3Kp0mDM",
+                            "expanded_url": "https://www.theverge.com/2023/3/27/23658863/arc-browser-iphone-ios-companion-app-mac?utm_campaign=theverge&utm_content=chorus&utm_medium=social&utm_source=twitter",
+                            "display_url": "theverge.com/2023/3/27/2365\u2026",
+                            "indices": [
+                                67,
+                                90
+                            ]
+                        }
+                    ],
+                    "media": [
+                        {
+                            "id": 1640462178108035073,
+                            "id_str": "1640462178108035073",
+                            "indices": [
+                                91,
+                                114
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/FsQXqNGX0AEXcky.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/FsQXqNGX0AEXcky.jpg",
+                            "url": "https://t.co/JqzMn86khH",
+                            "display_url": "pic.twitter.com/JqzMn86khH",
+                            "expanded_url": "https://twitter.com/verge/status/1640462180985327616/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "large": {
+                                    "w": 2048,
+                                    "h": 1063,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 1200,
+                                    "h": 623,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 353,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "extended_entities": {
+                    "media": [
+                        {
+                            "id": 1640462178108035073,
+                            "id_str": "1640462178108035073",
+                            "indices": [
+                                91,
+                                114
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/FsQXqNGX0AEXcky.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/FsQXqNGX0AEXcky.jpg",
+                            "url": "https://t.co/JqzMn86khH",
+                            "display_url": "pic.twitter.com/JqzMn86khH",
+                            "expanded_url": "https://twitter.com/verge/status/1640462180985327616/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "large": {
+                                    "w": 2048,
+                                    "h": 1063,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 1200,
+                                    "h": 623,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 353,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"http://www.voxmedia.com\" rel=\"nofollow\">Chorus publishing platform</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 275686563,
+                    "id_str": "275686563",
+                    "name": "The Verge",
+                    "screen_name": "verge",
+                    "location": "New York",
+                    "description": "https://t.co/GYkBloRfPz covers life in the future.",
+                    "url": "https://t.co/pGMvEf1quS",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/pGMvEf1quS",
+                                    "expanded_url": "http://www.theverge.com",
+                                    "display_url": "theverge.com",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/GYkBloRfPz",
+                                    "expanded_url": "http://theverge.com",
+                                    "display_url": "theverge.com",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 3045785,
+                    "friends_count": 187,
+                    "listed_count": 37909,
+                    "created_at": "Fri Apr 01 19:54:22 +0000 2011",
+                    "favourites_count": 1443,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": true,
+                    "verified": true,
+                    "statuses_count": 223442,
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": true,
+                    "profile_background_color": "FFFFFF",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1569656103528448000/d0BzVIPL_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1569656103528448000/d0BzVIPL_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/275686563/1663070153",
+                    "profile_link_color": "EC008C",
+                    "profile_sidebar_border_color": "000000",
+                    "profile_sidebar_fill_color": "EFEFEF",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": false,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": null,
+                    "follow_request_sent": null,
+                    "notifications": null,
+                    "translator_type": "regular",
+                    "withheld_in_countries": []
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 7,
+                "favorite_count": 38,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "is_quote_status": false,
+            "retweet_count": 7,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Mon Mar 27 21:21:16 +0000 2023",
+            "id": 1640464026567098368,
+            "id_str": "1640464026567098368",
+            "text": "Arc is coming to iPhone, but it won\u2019t replace Safari yet, says CEO (2 minute read)\n\n#Arc #TheBrowserCompany\u2026 https://t.co/ZVjVgbbaki",
+            "truncated": true,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Arc",
+                        "indices": [
+                            84,
+                            88
+                        ]
+                    },
+                    {
+                        "text": "TheBrowserCompany",
+                        "indices": [
+                            89,
+                            107
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/ZVjVgbbaki",
+                        "expanded_url": "https://twitter.com/i/web/status/1640464026567098368",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            109,
+                            132
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mackeyvazquez.com/\" rel=\"nofollow\">Mackey's Bot.</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1629175031111593984,
+                "id_str": "1629175031111593984",
+                "name": "Tech Wrap",
+                "screen_name": "techwrapai",
+                "location": "",
+                "description": "A new way to stay informed.",
+                "url": "https://t.co/HAsavzS93a",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/HAsavzS93a",
+                                "expanded_url": "http://techwrap.ai",
+                                "display_url": "techwrap.ai",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 20,
+                "friends_count": 168,
+                "listed_count": 0,
+                "created_at": "Fri Feb 24 17:43:47 +0000 2023",
+                "favourites_count": 0,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 718,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1631061769106989057/1fiOFZvr_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1631061769106989057/1fiOFZvr_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1629175031111593984/1677710850",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Mon Mar 27 21:20:56 +0000 2023",
+            "id": 1640463942009999360,
+            "id_str": "1640463942009999360",
+            "text": "RT @verge: Arc is coming to iPhone, but it won\u2019t replace Safari yet, says CEO https://t.co/JcI3Kp0mDM https://t.co/JqzMn86khH",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "verge",
+                        "name": "The Verge",
+                        "id": 275686563,
+                        "id_str": "275686563",
+                        "indices": [
+                            3,
+                            9
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/JcI3Kp0mDM",
+                        "expanded_url": "https://www.theverge.com/2023/3/27/23658863/arc-browser-iphone-ios-companion-app-mac?utm_campaign=theverge&utm_content=chorus&utm_medium=social&utm_source=twitter",
+                        "display_url": "theverge.com/2023/3/27/2365\u2026",
+                        "indices": [
+                            78,
+                            101
+                        ]
+                    }
+                ],
+                "media": [
+                    {
+                        "id": 1640462178108035073,
+                        "id_str": "1640462178108035073",
+                        "indices": [
+                            102,
+                            125
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/FsQXqNGX0AEXcky.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/FsQXqNGX0AEXcky.jpg",
+                        "url": "https://t.co/JqzMn86khH",
+                        "display_url": "pic.twitter.com/JqzMn86khH",
+                        "expanded_url": "https://twitter.com/verge/status/1640462180985327616/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 2048,
+                                "h": 1063,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 623,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 353,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": 1640462180985327616,
+                        "source_status_id_str": "1640462180985327616",
+                        "source_user_id": 275686563,
+                        "source_user_id_str": "275686563"
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1640462178108035073,
+                        "id_str": "1640462178108035073",
+                        "indices": [
+                            102,
+                            125
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/FsQXqNGX0AEXcky.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/FsQXqNGX0AEXcky.jpg",
+                        "url": "https://t.co/JqzMn86khH",
+                        "display_url": "pic.twitter.com/JqzMn86khH",
+                        "expanded_url": "https://twitter.com/verge/status/1640462180985327616/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 2048,
+                                "h": 1063,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 623,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 353,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": 1640462180985327616,
+                        "source_status_id_str": "1640462180985327616",
+                        "source_user_id": 275686563,
+                        "source_user_id_str": "275686563"
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 382262071,
+                "id_str": "382262071",
+                "name": "Hatlome",
+                "screen_name": "Poupouless",
+                "location": "Nogaro, Midi-pyr\u00e9n\u00e9es France",
+                "description": "Formation #ChefdeProjetWeb #DigitalCampus Bordeaux / #Moniteur\u00e9ducateur @apajh #SPV \ud83d\ude92 @Sdis32 Volontaire #VISOV1 #MSGU",
+                "url": "https://t.co/zp4B9PcQid",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/zp4B9PcQid",
+                                "expanded_url": "https://www.linkedin.com/in/christophe-lamothe-8ba520aa/",
+                                "display_url": "linkedin.com/in/christophe-\u2026",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 169,
+                "friends_count": 668,
+                "listed_count": 8,
+                "created_at": "Thu Sep 29 19:24:05 +0000 2011",
+                "favourites_count": 738,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 2767,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "709397",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1629183469824753665/vFGRD8Yd_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1629183469824753665/vFGRD8Yd_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/382262071/1677262676",
+                "profile_link_color": "E81C4F",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Mon Mar 27 21:13:56 +0000 2023",
+                "id": 1640462180985327616,
+                "id_str": "1640462180985327616",
+                "text": "Arc is coming to iPhone, but it won\u2019t replace Safari yet, says CEO https://t.co/JcI3Kp0mDM https://t.co/JqzMn86khH",
+                "truncated": false,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/JcI3Kp0mDM",
+                            "expanded_url": "https://www.theverge.com/2023/3/27/23658863/arc-browser-iphone-ios-companion-app-mac?utm_campaign=theverge&utm_content=chorus&utm_medium=social&utm_source=twitter",
+                            "display_url": "theverge.com/2023/3/27/2365\u2026",
+                            "indices": [
+                                67,
+                                90
+                            ]
+                        }
+                    ],
+                    "media": [
+                        {
+                            "id": 1640462178108035073,
+                            "id_str": "1640462178108035073",
+                            "indices": [
+                                91,
+                                114
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/FsQXqNGX0AEXcky.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/FsQXqNGX0AEXcky.jpg",
+                            "url": "https://t.co/JqzMn86khH",
+                            "display_url": "pic.twitter.com/JqzMn86khH",
+                            "expanded_url": "https://twitter.com/verge/status/1640462180985327616/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "large": {
+                                    "w": 2048,
+                                    "h": 1063,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 1200,
+                                    "h": 623,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 353,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "extended_entities": {
+                    "media": [
+                        {
+                            "id": 1640462178108035073,
+                            "id_str": "1640462178108035073",
+                            "indices": [
+                                91,
+                                114
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/FsQXqNGX0AEXcky.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/FsQXqNGX0AEXcky.jpg",
+                            "url": "https://t.co/JqzMn86khH",
+                            "display_url": "pic.twitter.com/JqzMn86khH",
+                            "expanded_url": "https://twitter.com/verge/status/1640462180985327616/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "large": {
+                                    "w": 2048,
+                                    "h": 1063,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 1200,
+                                    "h": 623,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 353,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"http://www.voxmedia.com\" rel=\"nofollow\">Chorus publishing platform</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 275686563,
+                    "id_str": "275686563",
+                    "name": "The Verge",
+                    "screen_name": "verge",
+                    "location": "New York",
+                    "description": "https://t.co/GYkBloRfPz covers life in the future.",
+                    "url": "https://t.co/pGMvEf1quS",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/pGMvEf1quS",
+                                    "expanded_url": "http://www.theverge.com",
+                                    "display_url": "theverge.com",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/GYkBloRfPz",
+                                    "expanded_url": "http://theverge.com",
+                                    "display_url": "theverge.com",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 3045785,
+                    "friends_count": 187,
+                    "listed_count": 37909,
+                    "created_at": "Fri Apr 01 19:54:22 +0000 2011",
+                    "favourites_count": 1443,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": true,
+                    "verified": true,
+                    "statuses_count": 223442,
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": true,
+                    "profile_background_color": "FFFFFF",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1569656103528448000/d0BzVIPL_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1569656103528448000/d0BzVIPL_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/275686563/1663070153",
+                    "profile_link_color": "EC008C",
+                    "profile_sidebar_border_color": "000000",
+                    "profile_sidebar_fill_color": "EFEFEF",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": false,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": null,
+                    "follow_request_sent": null,
+                    "notifications": null,
+                    "translator_type": "regular",
+                    "withheld_in_countries": []
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 7,
+                "favorite_count": 38,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "is_quote_status": false,
+            "retweet_count": 7,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Mon Mar 27 21:19:45 +0000 2023",
+            "id": 1640463644801773570,
+            "id_str": "1640463644801773570",
+            "text": "@arcinternet I\u2019m so happy to be using Arc. Currently my default browser right now",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "arcinternet",
+                        "name": "Arc",
+                        "id": 1372899287416381447,
+                        "id_str": "1372899287416381447",
+                        "indices": [
+                            0,
+                            12
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": 1519811728124559363,
+            "in_reply_to_status_id_str": "1519811728124559363",
+            "in_reply_to_user_id": 1372899287416381447,
+            "in_reply_to_user_id_str": "1372899287416381447",
+            "in_reply_to_screen_name": "arcinternet",
+            "user": {
+                "id": 1594858002246381573,
+                "id_str": "1594858002246381573",
+                "name": "DinoSword1",
+                "screen_name": "DinoSword111",
+                "location": "Tower of Pizza",
+                "description": "SW-6610-6810-0432\nI like pizza, gradients, and arguing",
+                "url": "https://t.co/E86lpO6UG4",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/E86lpO6UG4",
+                                "expanded_url": "https://www.youtube.com/channel/UCyib1gEbFsxotmzOutuvX7A",
+                                "display_url": "youtube.com/channel/UCyib1\u2026",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 41,
+                "friends_count": 129,
+                "listed_count": 0,
+                "created_at": "Tue Nov 22 00:59:45 +0000 2022",
+                "favourites_count": 6544,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 765,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1612232258127290369/oIQI1VcD_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1612232258127290369/oIQI1VcD_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1594858002246381573/1675064343",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Mon Mar 27 21:15:39 +0000 2023",
+            "id": 1640462612432400386,
+            "id_str": "1640462612432400386",
+            "text": "RT @verge: Arc is coming to iPhone, but it won\u2019t replace Safari yet, says CEO https://t.co/JcI3Kp0mDM https://t.co/JqzMn86khH",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "verge",
+                        "name": "The Verge",
+                        "id": 275686563,
+                        "id_str": "275686563",
+                        "indices": [
+                            3,
+                            9
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/JcI3Kp0mDM",
+                        "expanded_url": "https://www.theverge.com/2023/3/27/23658863/arc-browser-iphone-ios-companion-app-mac?utm_campaign=theverge&utm_content=chorus&utm_medium=social&utm_source=twitter",
+                        "display_url": "theverge.com/2023/3/27/2365\u2026",
+                        "indices": [
+                            78,
+                            101
+                        ]
+                    }
+                ],
+                "media": [
+                    {
+                        "id": 1640462178108035073,
+                        "id_str": "1640462178108035073",
+                        "indices": [
+                            102,
+                            125
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/FsQXqNGX0AEXcky.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/FsQXqNGX0AEXcky.jpg",
+                        "url": "https://t.co/JqzMn86khH",
+                        "display_url": "pic.twitter.com/JqzMn86khH",
+                        "expanded_url": "https://twitter.com/verge/status/1640462180985327616/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 2048,
+                                "h": 1063,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 623,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 353,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": 1640462180985327616,
+                        "source_status_id_str": "1640462180985327616",
+                        "source_user_id": 275686563,
+                        "source_user_id_str": "275686563"
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1640462178108035073,
+                        "id_str": "1640462178108035073",
+                        "indices": [
+                            102,
+                            125
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/FsQXqNGX0AEXcky.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/FsQXqNGX0AEXcky.jpg",
+                        "url": "https://t.co/JqzMn86khH",
+                        "display_url": "pic.twitter.com/JqzMn86khH",
+                        "expanded_url": "https://twitter.com/verge/status/1640462180985327616/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 2048,
+                                "h": 1063,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 623,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 353,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": 1640462180985327616,
+                        "source_status_id_str": "1640462180985327616",
+                        "source_user_id": 275686563,
+                        "source_user_id_str": "275686563"
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 934725633074171905,
+                "id_str": "934725633074171905",
+                "name": "Azubal.apk\ud83c\udff3\ufe0f\u200d\ud83c\udf08\ud83c\uddfa\ud83c\uddf3",
+                "screen_name": "azubalApk",
+                "location": "France",
+                "description": "Techie || Java || Kotlin || Dart || Android || Flutter || KMM || DartFrog || Autodidacte || Ath\u00e9e  \nEngage with @EyNimor \ud83d\udc8d\u2665\ufe0f https://t.co/7ZMk2cFYJX",
+                "url": "https://t.co/h8PWdLbsGT",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/h8PWdLbsGT",
+                                "expanded_url": "https://github.com/azubalApk",
+                                "display_url": "github.com/azubalApk",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/7ZMk2cFYJX",
+                                "expanded_url": "http://revolut.me/neoazubal",
+                                "display_url": "revolut.me/neoazubal",
+                                "indices": [
+                                    125,
+                                    148
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 61,
+                "friends_count": 307,
+                "listed_count": 0,
+                "created_at": "Sun Nov 26 10:08:52 +0000 2017",
+                "favourites_count": 7723,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 9641,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1636142041544392704/6ixoGHZA_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1636142041544392704/6ixoGHZA_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/934725633074171905/1653403917",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Mon Mar 27 21:13:56 +0000 2023",
+                "id": 1640462180985327616,
+                "id_str": "1640462180985327616",
+                "text": "Arc is coming to iPhone, but it won\u2019t replace Safari yet, says CEO https://t.co/JcI3Kp0mDM https://t.co/JqzMn86khH",
+                "truncated": false,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/JcI3Kp0mDM",
+                            "expanded_url": "https://www.theverge.com/2023/3/27/23658863/arc-browser-iphone-ios-companion-app-mac?utm_campaign=theverge&utm_content=chorus&utm_medium=social&utm_source=twitter",
+                            "display_url": "theverge.com/2023/3/27/2365\u2026",
+                            "indices": [
+                                67,
+                                90
+                            ]
+                        }
+                    ],
+                    "media": [
+                        {
+                            "id": 1640462178108035073,
+                            "id_str": "1640462178108035073",
+                            "indices": [
+                                91,
+                                114
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/FsQXqNGX0AEXcky.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/FsQXqNGX0AEXcky.jpg",
+                            "url": "https://t.co/JqzMn86khH",
+                            "display_url": "pic.twitter.com/JqzMn86khH",
+                            "expanded_url": "https://twitter.com/verge/status/1640462180985327616/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "large": {
+                                    "w": 2048,
+                                    "h": 1063,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 1200,
+                                    "h": 623,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 353,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "extended_entities": {
+                    "media": [
+                        {
+                            "id": 1640462178108035073,
+                            "id_str": "1640462178108035073",
+                            "indices": [
+                                91,
+                                114
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/FsQXqNGX0AEXcky.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/FsQXqNGX0AEXcky.jpg",
+                            "url": "https://t.co/JqzMn86khH",
+                            "display_url": "pic.twitter.com/JqzMn86khH",
+                            "expanded_url": "https://twitter.com/verge/status/1640462180985327616/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "large": {
+                                    "w": 2048,
+                                    "h": 1063,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 1200,
+                                    "h": 623,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 353,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"http://www.voxmedia.com\" rel=\"nofollow\">Chorus publishing platform</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 275686563,
+                    "id_str": "275686563",
+                    "name": "The Verge",
+                    "screen_name": "verge",
+                    "location": "New York",
+                    "description": "https://t.co/GYkBloRfPz covers life in the future.",
+                    "url": "https://t.co/pGMvEf1quS",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/pGMvEf1quS",
+                                    "expanded_url": "http://www.theverge.com",
+                                    "display_url": "theverge.com",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/GYkBloRfPz",
+                                    "expanded_url": "http://theverge.com",
+                                    "display_url": "theverge.com",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 3045785,
+                    "friends_count": 187,
+                    "listed_count": 37909,
+                    "created_at": "Fri Apr 01 19:54:22 +0000 2011",
+                    "favourites_count": 1443,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": true,
+                    "verified": true,
+                    "statuses_count": 223442,
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": true,
+                    "profile_background_color": "FFFFFF",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1569656103528448000/d0BzVIPL_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1569656103528448000/d0BzVIPL_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/275686563/1663070153",
+                    "profile_link_color": "EC008C",
+                    "profile_sidebar_border_color": "000000",
+                    "profile_sidebar_fill_color": "EFEFEF",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": false,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": null,
+                    "follow_request_sent": null,
+                    "notifications": null,
+                    "translator_type": "regular",
+                    "withheld_in_countries": []
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 7,
+                "favorite_count": 38,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "is_quote_status": false,
+            "retweet_count": 7,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": true,
+            "lang": "en"
+        },
+        {
+            "created_at": "Mon Mar 27 21:15:32 +0000 2023",
+            "id": 1640462582254379008,
+            "id_str": "1640462582254379008",
+            "text": "https://t.co/EvRju9R8Cg https://t.co/EvRju9R8Cg",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/EvRju9R8Cg",
+                        "expanded_url": "https://www.theverge.com/2023/3/27/23658863/arc-browser-iphone-ios-companion-app-mac?utm_campaign=theverge&utm_content=chorus&utm_medium=social&utm_source=twitter",
+                        "display_url": "theverge.com/2023/3/27/2365\u2026",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    },
+                    {
+                        "url": "https://t.co/EvRju9R8Cg",
+                        "expanded_url": "https://www.theverge.com/2023/3/27/23658863/arc-browser-iphone-ios-companion-app-mac?utm_campaign=theverge&utm_content=chorus&utm_medium=social&utm_source=twitter",
+                        "display_url": "theverge.com/2023/3/27/2365\u2026",
+                        "indices": [
+                            24,
+                            47
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "und",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1589312977110548481,
+                "id_str": "1589312977110548481",
+                "name": "Gcomvisualdesigner",
+                "screen_name": "gcomvisual",
+                "location": "",
+                "description": "Freelance, consulente comunicazione, visual designer",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 603,
+                "friends_count": 260,
+                "listed_count": 0,
+                "created_at": "Sun Nov 06 17:46:54 +0000 2022",
+                "favourites_count": 161,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 1226,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1589331596376768513/Q7tootov_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1589331596376768513/Q7tootov_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1589312977110548481/1667765582",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "und"
+        },
+        {
+            "created_at": "Mon Mar 27 21:14:44 +0000 2023",
+            "id": 1640462381162860544,
+            "id_str": "1640462381162860544",
+            "text": "RT @verge: Arc is coming to iPhone, but it won\u2019t replace Safari yet, says CEO https://t.co/JcI3Kp0mDM https://t.co/JqzMn86khH",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "verge",
+                        "name": "The Verge",
+                        "id": 275686563,
+                        "id_str": "275686563",
+                        "indices": [
+                            3,
+                            9
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/JcI3Kp0mDM",
+                        "expanded_url": "https://www.theverge.com/2023/3/27/23658863/arc-browser-iphone-ios-companion-app-mac?utm_campaign=theverge&utm_content=chorus&utm_medium=social&utm_source=twitter",
+                        "display_url": "theverge.com/2023/3/27/2365\u2026",
+                        "indices": [
+                            78,
+                            101
+                        ]
+                    }
+                ],
+                "media": [
+                    {
+                        "id": 1640462178108035073,
+                        "id_str": "1640462178108035073",
+                        "indices": [
+                            102,
+                            125
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/FsQXqNGX0AEXcky.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/FsQXqNGX0AEXcky.jpg",
+                        "url": "https://t.co/JqzMn86khH",
+                        "display_url": "pic.twitter.com/JqzMn86khH",
+                        "expanded_url": "https://twitter.com/verge/status/1640462180985327616/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 2048,
+                                "h": 1063,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 623,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 353,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": 1640462180985327616,
+                        "source_status_id_str": "1640462180985327616",
+                        "source_user_id": 275686563,
+                        "source_user_id_str": "275686563"
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1640462178108035073,
+                        "id_str": "1640462178108035073",
+                        "indices": [
+                            102,
+                            125
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/FsQXqNGX0AEXcky.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/FsQXqNGX0AEXcky.jpg",
+                        "url": "https://t.co/JqzMn86khH",
+                        "display_url": "pic.twitter.com/JqzMn86khH",
+                        "expanded_url": "https://twitter.com/verge/status/1640462180985327616/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 2048,
+                                "h": 1063,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 623,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 353,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": 1640462180985327616,
+                        "source_status_id_str": "1640462180985327616",
+                        "source_user_id": 275686563,
+                        "source_user_id_str": "275686563"
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://hillnz.com/\" rel=\"nofollow\">dedupe-thevergelight</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1042327029092311040,
+                "id_str": "1042327029092311040",
+                "name": "The Verge Light",
+                "screen_name": "thevergelight",
+                "location": "",
+                "description": "Bot account. Retweets everything from @verge but only the first time it's posted. Thanks to https://t.co/6LrQP32dx8",
+                "url": "https://t.co/68iZ29ZIkn",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/68iZ29ZIkn",
+                                "expanded_url": "https://theverge.com",
+                                "display_url": "theverge.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/6LrQP32dx8",
+                                "expanded_url": "https://github.com/cmheisel/twitter-dedupe",
+                                "display_url": "github.com/cmheisel/twitt\u2026",
+                                "indices": [
+                                    92,
+                                    115
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 44,
+                "friends_count": 1,
+                "listed_count": 1,
+                "created_at": "Wed Sep 19 08:18:24 +0000 2018",
+                "favourites_count": 0,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 52026,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+                "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": true,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Mon Mar 27 21:13:56 +0000 2023",
+                "id": 1640462180985327616,
+                "id_str": "1640462180985327616",
+                "text": "Arc is coming to iPhone, but it won\u2019t replace Safari yet, says CEO https://t.co/JcI3Kp0mDM https://t.co/JqzMn86khH",
+                "truncated": false,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/JcI3Kp0mDM",
+                            "expanded_url": "https://www.theverge.com/2023/3/27/23658863/arc-browser-iphone-ios-companion-app-mac?utm_campaign=theverge&utm_content=chorus&utm_medium=social&utm_source=twitter",
+                            "display_url": "theverge.com/2023/3/27/2365\u2026",
+                            "indices": [
+                                67,
+                                90
+                            ]
+                        }
+                    ],
+                    "media": [
+                        {
+                            "id": 1640462178108035073,
+                            "id_str": "1640462178108035073",
+                            "indices": [
+                                91,
+                                114
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/FsQXqNGX0AEXcky.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/FsQXqNGX0AEXcky.jpg",
+                            "url": "https://t.co/JqzMn86khH",
+                            "display_url": "pic.twitter.com/JqzMn86khH",
+                            "expanded_url": "https://twitter.com/verge/status/1640462180985327616/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "large": {
+                                    "w": 2048,
+                                    "h": 1063,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 1200,
+                                    "h": 623,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 353,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "extended_entities": {
+                    "media": [
+                        {
+                            "id": 1640462178108035073,
+                            "id_str": "1640462178108035073",
+                            "indices": [
+                                91,
+                                114
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/FsQXqNGX0AEXcky.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/FsQXqNGX0AEXcky.jpg",
+                            "url": "https://t.co/JqzMn86khH",
+                            "display_url": "pic.twitter.com/JqzMn86khH",
+                            "expanded_url": "https://twitter.com/verge/status/1640462180985327616/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "large": {
+                                    "w": 2048,
+                                    "h": 1063,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 1200,
+                                    "h": 623,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 353,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"http://www.voxmedia.com\" rel=\"nofollow\">Chorus publishing platform</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 275686563,
+                    "id_str": "275686563",
+                    "name": "The Verge",
+                    "screen_name": "verge",
+                    "location": "New York",
+                    "description": "https://t.co/GYkBloRfPz covers life in the future.",
+                    "url": "https://t.co/pGMvEf1quS",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/pGMvEf1quS",
+                                    "expanded_url": "http://www.theverge.com",
+                                    "display_url": "theverge.com",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/GYkBloRfPz",
+                                    "expanded_url": "http://theverge.com",
+                                    "display_url": "theverge.com",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 3045785,
+                    "friends_count": 187,
+                    "listed_count": 37909,
+                    "created_at": "Fri Apr 01 19:54:22 +0000 2011",
+                    "favourites_count": 1443,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": true,
+                    "verified": true,
+                    "statuses_count": 223442,
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": true,
+                    "profile_background_color": "FFFFFF",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1569656103528448000/d0BzVIPL_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1569656103528448000/d0BzVIPL_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/275686563/1663070153",
+                    "profile_link_color": "EC008C",
+                    "profile_sidebar_border_color": "000000",
+                    "profile_sidebar_fill_color": "EFEFEF",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": false,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": null,
+                    "follow_request_sent": null,
+                    "notifications": null,
+                    "translator_type": "regular",
+                    "withheld_in_countries": []
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 7,
+                "favorite_count": 38,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "is_quote_status": false,
+            "retweet_count": 7,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Mon Mar 27 21:14:17 +0000 2023",
+            "id": 1640462267295875076,
+            "id_str": "1640462267295875076",
+            "text": "RT @verge: Arc is coming to iPhone, but it won\u2019t replace Safari yet, says CEO https://t.co/JcI3Kp0mDM https://t.co/JqzMn86khH",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "verge",
+                        "name": "The Verge",
+                        "id": 275686563,
+                        "id_str": "275686563",
+                        "indices": [
+                            3,
+                            9
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/JcI3Kp0mDM",
+                        "expanded_url": "https://www.theverge.com/2023/3/27/23658863/arc-browser-iphone-ios-companion-app-mac?utm_campaign=theverge&utm_content=chorus&utm_medium=social&utm_source=twitter",
+                        "display_url": "theverge.com/2023/3/27/2365\u2026",
+                        "indices": [
+                            78,
+                            101
+                        ]
+                    }
+                ],
+                "media": [
+                    {
+                        "id": 1640462178108035073,
+                        "id_str": "1640462178108035073",
+                        "indices": [
+                            102,
+                            125
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/FsQXqNGX0AEXcky.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/FsQXqNGX0AEXcky.jpg",
+                        "url": "https://t.co/JqzMn86khH",
+                        "display_url": "pic.twitter.com/JqzMn86khH",
+                        "expanded_url": "https://twitter.com/verge/status/1640462180985327616/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 2048,
+                                "h": 1063,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 623,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 353,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": 1640462180985327616,
+                        "source_status_id_str": "1640462180985327616",
+                        "source_user_id": 275686563,
+                        "source_user_id_str": "275686563"
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1640462178108035073,
+                        "id_str": "1640462178108035073",
+                        "indices": [
+                            102,
+                            125
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/FsQXqNGX0AEXcky.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/FsQXqNGX0AEXcky.jpg",
+                        "url": "https://t.co/JqzMn86khH",
+                        "display_url": "pic.twitter.com/JqzMn86khH",
+                        "expanded_url": "https://twitter.com/verge/status/1640462180985327616/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 2048,
+                                "h": 1063,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 623,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 353,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": 1640462180985327616,
+                        "source_status_id_str": "1640462180985327616",
+                        "source_user_id": 275686563,
+                        "source_user_id_str": "275686563"
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1132015423069839360,
+                "id_str": "1132015423069839360",
+                "name": "Queendom Entertainment",
+                "screen_name": "Queendom_ENT",
+                "location": "The Queendom",
+                "description": "Celestial \ud83d\udc51 \ud83c\udf19 \ud83d\udd2e \ud83c\uddf3\ud83c\uddec#EbonyQueen #MarryingTheMoney #HoldingNoPunches #Coronation #QueenTalk #QueendomEntertainment #Scorpiana",
+                "url": "https://t.co/ixx3ozTFUf",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/ixx3ozTFUf",
+                                "expanded_url": "http://queendomentertainment.com",
+                                "display_url": "queendomentertainment.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 189,
+                "friends_count": 2157,
+                "listed_count": 0,
+                "created_at": "Fri May 24 20:08:03 +0000 2019",
+                "favourites_count": 78699,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 38124,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1636494146054545408/Bp1dGWjU_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1636494146054545408/Bp1dGWjU_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1132015423069839360/1658488378",
+                "profile_link_color": "981CEB",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Mon Mar 27 21:13:56 +0000 2023",
+                "id": 1640462180985327616,
+                "id_str": "1640462180985327616",
+                "text": "Arc is coming to iPhone, but it won\u2019t replace Safari yet, says CEO https://t.co/JcI3Kp0mDM https://t.co/JqzMn86khH",
+                "truncated": false,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/JcI3Kp0mDM",
+                            "expanded_url": "https://www.theverge.com/2023/3/27/23658863/arc-browser-iphone-ios-companion-app-mac?utm_campaign=theverge&utm_content=chorus&utm_medium=social&utm_source=twitter",
+                            "display_url": "theverge.com/2023/3/27/2365\u2026",
+                            "indices": [
+                                67,
+                                90
+                            ]
+                        }
+                    ],
+                    "media": [
+                        {
+                            "id": 1640462178108035073,
+                            "id_str": "1640462178108035073",
+                            "indices": [
+                                91,
+                                114
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/FsQXqNGX0AEXcky.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/FsQXqNGX0AEXcky.jpg",
+                            "url": "https://t.co/JqzMn86khH",
+                            "display_url": "pic.twitter.com/JqzMn86khH",
+                            "expanded_url": "https://twitter.com/verge/status/1640462180985327616/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "large": {
+                                    "w": 2048,
+                                    "h": 1063,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 1200,
+                                    "h": 623,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 353,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "extended_entities": {
+                    "media": [
+                        {
+                            "id": 1640462178108035073,
+                            "id_str": "1640462178108035073",
+                            "indices": [
+                                91,
+                                114
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/FsQXqNGX0AEXcky.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/FsQXqNGX0AEXcky.jpg",
+                            "url": "https://t.co/JqzMn86khH",
+                            "display_url": "pic.twitter.com/JqzMn86khH",
+                            "expanded_url": "https://twitter.com/verge/status/1640462180985327616/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "large": {
+                                    "w": 2048,
+                                    "h": 1063,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 1200,
+                                    "h": 623,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 353,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"http://www.voxmedia.com\" rel=\"nofollow\">Chorus publishing platform</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 275686563,
+                    "id_str": "275686563",
+                    "name": "The Verge",
+                    "screen_name": "verge",
+                    "location": "New York",
+                    "description": "https://t.co/GYkBloRfPz covers life in the future.",
+                    "url": "https://t.co/pGMvEf1quS",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/pGMvEf1quS",
+                                    "expanded_url": "http://www.theverge.com",
+                                    "display_url": "theverge.com",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/GYkBloRfPz",
+                                    "expanded_url": "http://theverge.com",
+                                    "display_url": "theverge.com",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 3045785,
+                    "friends_count": 187,
+                    "listed_count": 37909,
+                    "created_at": "Fri Apr 01 19:54:22 +0000 2011",
+                    "favourites_count": 1443,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": true,
+                    "verified": true,
+                    "statuses_count": 223442,
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": true,
+                    "profile_background_color": "FFFFFF",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1569656103528448000/d0BzVIPL_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1569656103528448000/d0BzVIPL_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/275686563/1663070153",
+                    "profile_link_color": "EC008C",
+                    "profile_sidebar_border_color": "000000",
+                    "profile_sidebar_fill_color": "EFEFEF",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": false,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": null,
+                    "follow_request_sent": null,
+                    "notifications": null,
+                    "translator_type": "regular",
+                    "withheld_in_countries": []
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 7,
+                "favorite_count": 38,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "is_quote_status": false,
+            "retweet_count": 7,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Mon Mar 27 21:13:56 +0000 2023",
+            "id": 1640462180985327616,
+            "id_str": "1640462180985327616",
+            "text": "Arc is coming to iPhone, but it won\u2019t replace Safari yet, says CEO https://t.co/JcI3Kp0mDM https://t.co/JqzMn86khH",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/JcI3Kp0mDM",
+                        "expanded_url": "https://www.theverge.com/2023/3/27/23658863/arc-browser-iphone-ios-companion-app-mac?utm_campaign=theverge&utm_content=chorus&utm_medium=social&utm_source=twitter",
+                        "display_url": "theverge.com/2023/3/27/2365\u2026",
+                        "indices": [
+                            67,
+                            90
+                        ]
+                    }
+                ],
+                "media": [
+                    {
+                        "id": 1640462178108035073,
+                        "id_str": "1640462178108035073",
+                        "indices": [
+                            91,
+                            114
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/FsQXqNGX0AEXcky.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/FsQXqNGX0AEXcky.jpg",
+                        "url": "https://t.co/JqzMn86khH",
+                        "display_url": "pic.twitter.com/JqzMn86khH",
+                        "expanded_url": "https://twitter.com/verge/status/1640462180985327616/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 2048,
+                                "h": 1063,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 623,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 353,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1640462178108035073,
+                        "id_str": "1640462178108035073",
+                        "indices": [
+                            91,
+                            114
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/FsQXqNGX0AEXcky.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/FsQXqNGX0AEXcky.jpg",
+                        "url": "https://t.co/JqzMn86khH",
+                        "display_url": "pic.twitter.com/JqzMn86khH",
+                        "expanded_url": "https://twitter.com/verge/status/1640462180985327616/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 2048,
+                                "h": 1063,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 623,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 353,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://www.voxmedia.com\" rel=\"nofollow\">Chorus publishing platform</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 275686563,
+                "id_str": "275686563",
+                "name": "The Verge",
+                "screen_name": "verge",
+                "location": "New York",
+                "description": "https://t.co/GYkBloRfPz covers life in the future.",
+                "url": "https://t.co/pGMvEf1quS",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/pGMvEf1quS",
+                                "expanded_url": "http://www.theverge.com",
+                                "display_url": "theverge.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/GYkBloRfPz",
+                                "expanded_url": "http://theverge.com",
+                                "display_url": "theverge.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 3045785,
+                "friends_count": 187,
+                "listed_count": 37909,
+                "created_at": "Fri Apr 01 19:54:22 +0000 2011",
+                "favourites_count": 1443,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": true,
+                "statuses_count": 223442,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": true,
+                "profile_background_color": "FFFFFF",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1569656103528448000/d0BzVIPL_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1569656103528448000/d0BzVIPL_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/275686563/1663070153",
+                "profile_link_color": "EC008C",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "EFEFEF",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "regular",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 7,
+            "favorite_count": 38,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Mon Mar 27 21:13:47 +0000 2023",
+            "id": 1640462143131897857,
+            "id_str": "1640462143131897857",
+            "text": "is there a twitter integration in arc browser so i can tweet using cmd + t #arc #arcbrowser",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "arc",
+                        "indices": [
+                            75,
+                            79
+                        ]
+                    },
+                    {
+                        "text": "arcbrowser",
+                        "indices": [
+                            80,
+                            91
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1280089901934022657,
+                "id_str": "1280089901934022657",
+                "name": "Emin",
+                "screen_name": "eminv_en",
+                "location": "Turkey",
+                "description": "Software Developer \nTR: @eminvergil\n\nWebsite: https://t.co/KEgbzRJH80",
+                "url": "https://t.co/SgLCCuw3Ux",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/SgLCCuw3Ux",
+                                "expanded_url": "https://eminvergil.netlify.app/projects/newsletter",
+                                "display_url": "eminvergil.netlify.app/projects/newsl\u2026",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/KEgbzRJH80",
+                                "expanded_url": "http://eminvergil.tech",
+                                "display_url": "eminvergil.tech",
+                                "indices": [
+                                    46,
+                                    69
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 17,
+                "friends_count": 293,
+                "listed_count": 0,
+                "created_at": "Mon Jul 06 10:43:16 +0000 2020",
+                "favourites_count": 564,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 492,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1639912687650971648/Rnqu_zgQ_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1639912687650971648/Rnqu_zgQ_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1280089901934022657/1677188578",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
             "created_at": "Mon Mar 27 20:57:49 +0000 2023",
             "id": 1640458123193511936,
             "id_str": "1640458123193511936",
@@ -60823,7 +64356,7 @@
                     }
                 },
                 "protected": false,
-                "followers_count": 88,
+                "followers_count": 89,
                 "friends_count": 2,
                 "listed_count": 0,
                 "created_at": "Sun Nov 13 14:32:12 +0000 2022",
@@ -60832,7 +64365,7 @@
                 "time_zone": null,
                 "geo_enabled": false,
                 "verified": false,
-                "statuses_count": 3508,
+                "statuses_count": 3513,
                 "lang": null,
                 "contributors_enabled": false,
                 "is_translator": false,
@@ -60958,7 +64491,7 @@
                 "contributors": null,
                 "is_quote_status": false,
                 "retweet_count": 2,
-                "favorite_count": 0,
+                "favorite_count": 1,
                 "favorited": false,
                 "retweeted": false,
                 "lang": "pt"
@@ -61161,7 +64694,7 @@
                     }
                 },
                 "protected": false,
-                "followers_count": 12004,
+                "followers_count": 12005,
                 "friends_count": 3116,
                 "listed_count": 63,
                 "created_at": "Sun Aug 01 12:49:11 +0000 2021",
@@ -61170,7 +64703,7 @@
                 "time_zone": null,
                 "geo_enabled": false,
                 "verified": false,
-                "statuses_count": 162099,
+                "statuses_count": 162105,
                 "lang": null,
                 "contributors_enabled": false,
                 "is_translator": false,
@@ -61296,7 +64829,7 @@
                 "contributors": null,
                 "is_quote_status": false,
                 "retweet_count": 2,
-                "favorite_count": 0,
+                "favorite_count": 1,
                 "favorited": false,
                 "retweeted": false,
                 "lang": "pt"
@@ -61404,7 +64937,7 @@
             "contributors": null,
             "is_quote_status": false,
             "retweet_count": 2,
-            "favorite_count": 0,
+            "favorite_count": 1,
             "favorited": false,
             "retweeted": false,
             "lang": "pt"
@@ -61520,7 +65053,7 @@
             "contributors": null,
             "is_quote_status": false,
             "retweet_count": 0,
-            "favorite_count": 0,
+            "favorite_count": 1,
             "favorited": false,
             "retweeted": false,
             "possibly_sensitive": false,
@@ -61585,11 +65118,11 @@
                     }
                 },
                 "protected": false,
-                "followers_count": 578,
+                "followers_count": 577,
                 "friends_count": 542,
                 "listed_count": 27,
                 "created_at": "Mon Jul 26 20:57:13 +0000 2010",
-                "favourites_count": 16738,
+                "favourites_count": 16740,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": true,
@@ -61771,7 +65304,7 @@
             "user": {
                 "id": 842524581097218048,
                 "id_str": "842524581097218048",
-                "name": "\u2424",
+                "name": "ntpl",
                 "screen_name": "ntpl___",
                 "location": "",
                 "description": "",
@@ -61786,7 +65319,7 @@
                 "friends_count": 162,
                 "listed_count": 9,
                 "created_at": "Thu Mar 16 23:54:48 +0000 2017",
-                "favourites_count": 33658,
+                "favourites_count": 33660,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": true,
@@ -61800,9 +65333,9 @@
                 "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
                 "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
                 "profile_background_tile": false,
-                "profile_image_url": "http://pbs.twimg.com/profile_images/1631123973965778944/gEzxIqoA_normal.jpg",
-                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1631123973965778944/gEzxIqoA_normal.jpg",
-                "profile_banner_url": "https://pbs.twimg.com/profile_banners/842524581097218048/1677725236",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1640466505384226816/6Te56PYb_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1640466505384226816/6Te56PYb_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/842524581097218048/1679952669",
                 "profile_link_color": "E81C4F",
                 "profile_sidebar_border_color": "000000",
                 "profile_sidebar_fill_color": "000000",
@@ -61892,7 +65425,7 @@
                 "friends_count": 136,
                 "listed_count": 1,
                 "created_at": "Sat May 23 15:11:44 +0000 2020",
-                "favourites_count": 143,
+                "favourites_count": 141,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": false,
@@ -62119,7 +65652,7 @@
                 },
                 "protected": false,
                 "followers_count": 127,
-                "friends_count": 1203,
+                "friends_count": 1202,
                 "listed_count": 1,
                 "created_at": "Mon Sep 05 10:53:43 +0000 2016",
                 "favourites_count": 5009,
@@ -62338,15 +65871,15 @@
                 },
                 "protected": false,
                 "followers_count": 147,
-                "friends_count": 1490,
+                "friends_count": 1489,
                 "listed_count": 1,
                 "created_at": "Thu Apr 23 16:01:18 +0000 2015",
-                "favourites_count": 60993,
+                "favourites_count": 60977,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": true,
                 "verified": false,
-                "statuses_count": 6815,
+                "statuses_count": 6816,
                 "lang": null,
                 "contributors_enabled": false,
                 "is_translator": false,
@@ -62585,7 +66118,7 @@
                 },
                 "protected": false,
                 "followers_count": 10,
-                "friends_count": 439,
+                "friends_count": 437,
                 "listed_count": 0,
                 "created_at": "Sat Mar 21 21:03:26 +0000 2020",
                 "favourites_count": 2723,
@@ -62815,16 +66348,16 @@
                         }
                     },
                     "protected": false,
-                    "followers_count": 31581,
+                    "followers_count": 31580,
                     "friends_count": 805,
                     "listed_count": 198,
                     "created_at": "Thu Nov 21 01:44:21 +0000 2013",
-                    "favourites_count": 26383,
+                    "favourites_count": 26401,
                     "utc_offset": null,
                     "time_zone": null,
                     "geo_enabled": true,
                     "verified": false,
-                    "statuses_count": 14796,
+                    "statuses_count": 14802,
                     "lang": null,
                     "contributors_enabled": false,
                     "is_translator": false,
@@ -62940,7 +66473,7 @@
                     }
                 },
                 "protected": false,
-                "followers_count": 19003,
+                "followers_count": 19006,
                 "friends_count": 90,
                 "listed_count": 252,
                 "created_at": "Sat Jan 17 20:41:40 +0000 2015",
@@ -63024,9 +66557,9 @@
                 "protected": false,
                 "followers_count": 869,
                 "friends_count": 709,
-                "listed_count": 2,
+                "listed_count": 3,
                 "created_at": "Thu Mar 05 05:55:48 +0000 2015",
-                "favourites_count": 116108,
+                "favourites_count": 116115,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": true,
@@ -63251,7 +66784,7 @@
                 },
                 "protected": false,
                 "followers_count": 155,
-                "friends_count": 1080,
+                "friends_count": 1081,
                 "listed_count": 7,
                 "created_at": "Wed Mar 04 14:55:23 +0000 2015",
                 "favourites_count": 54943,
@@ -63729,16 +67262,16 @@
                         }
                     },
                     "protected": false,
-                    "followers_count": 31581,
+                    "followers_count": 31580,
                     "friends_count": 805,
                     "listed_count": 198,
                     "created_at": "Thu Nov 21 01:44:21 +0000 2013",
-                    "favourites_count": 26383,
+                    "favourites_count": 26401,
                     "utc_offset": null,
                     "time_zone": null,
                     "geo_enabled": true,
                     "verified": false,
-                    "statuses_count": 14796,
+                    "statuses_count": 14802,
                     "lang": null,
                     "contributors_enabled": false,
                     "is_translator": false,
@@ -63937,7 +67470,7 @@
                 "friends_count": 656,
                 "listed_count": 48,
                 "created_at": "Sun Apr 20 01:53:53 +0000 2008",
-                "favourites_count": 19665,
+                "favourites_count": 19664,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": true,
@@ -64053,7 +67586,7 @@
                 "friends_count": 1481,
                 "listed_count": 8,
                 "created_at": "Wed Jun 03 15:24:41 +0000 2020",
-                "favourites_count": 29899,
+                "favourites_count": 29898,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": true,
@@ -64176,11 +67709,11 @@
                     }
                 },
                 "protected": false,
-                "followers_count": 15386,
+                "followers_count": 15383,
                 "friends_count": 1601,
                 "listed_count": 141,
                 "created_at": "Tue Jan 07 18:21:41 +0000 2020",
-                "favourites_count": 20127,
+                "favourites_count": 20125,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": true,
@@ -64387,7 +67920,7 @@
                 "protected": false,
                 "followers_count": 635,
                 "friends_count": 865,
-                "listed_count": 1,
+                "listed_count": 2,
                 "created_at": "Mon Apr 29 13:43:25 +0000 2013",
                 "favourites_count": 11494,
                 "utc_offset": null,
@@ -64674,7 +68207,7 @@
                     }
                 },
                 "protected": false,
-                "followers_count": 2138,
+                "followers_count": 2137,
                 "friends_count": 244,
                 "listed_count": 38,
                 "created_at": "Wed Nov 14 18:58:35 +0000 2012",
@@ -64886,11 +68419,11 @@
                     }
                 },
                 "protected": false,
-                "followers_count": 875,
+                "followers_count": 874,
                 "friends_count": 996,
                 "listed_count": 31,
                 "created_at": "Fri May 16 00:32:08 +0000 2008",
-                "favourites_count": 1137,
+                "favourites_count": 1140,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": true,
@@ -65479,7 +69012,7 @@
                         }
                     },
                     "protected": false,
-                    "followers_count": 68451,
+                    "followers_count": 68471,
                     "friends_count": 0,
                     "listed_count": 518,
                     "created_at": "Tue Feb 04 16:23:41 +0000 2020",
@@ -65519,8 +69052,8 @@
                 "place": null,
                 "contributors": null,
                 "is_quote_status": false,
-                "retweet_count": 410,
-                "favorite_count": 5135,
+                "retweet_count": 411,
+                "favorite_count": 5140,
                 "favorited": false,
                 "retweeted": false,
                 "possibly_sensitive": false,
@@ -65798,7 +69331,7 @@
                 "friends_count": 1211,
                 "listed_count": 52,
                 "created_at": "Wed Jan 23 08:16:42 +0000 2008",
-                "favourites_count": 3864,
+                "favourites_count": 3863,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": true,
