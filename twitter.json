@@ -22627,10 +22627,10 @@
                 },
                 "protected": false,
                 "followers_count": 169,
-                "friends_count": 183,
+                "friends_count": 170,
                 "listed_count": 4,
                 "created_at": "Thu Mar 07 06:57:00 +0000 2013",
-                "favourites_count": 61408,
+                "favourites_count": 61411,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": true,
@@ -22762,7 +22762,7 @@
                     }
                 },
                 "protected": false,
-                "followers_count": 31582,
+                "followers_count": 31585,
                 "friends_count": 805,
                 "listed_count": 198,
                 "created_at": "Thu Nov 21 01:44:21 +0000 2013",
@@ -23104,7 +23104,7 @@
                 },
                 "protected": false,
                 "followers_count": 99,
-                "friends_count": 476,
+                "friends_count": 475,
                 "listed_count": 4,
                 "created_at": "Thu Apr 21 17:21:16 +0000 2011",
                 "favourites_count": 1663,
@@ -23751,7 +23751,7 @@
                         }
                     },
                     "protected": false,
-                    "followers_count": 31582,
+                    "followers_count": 31585,
                     "friends_count": 805,
                     "listed_count": 198,
                     "created_at": "Thu Nov 21 01:44:21 +0000 2013",
@@ -24251,7 +24251,7 @@
                         }
                     },
                     "protected": false,
-                    "followers_count": 31582,
+                    "followers_count": 31585,
                     "friends_count": 805,
                     "listed_count": 198,
                     "created_at": "Thu Nov 21 01:44:21 +0000 2013",
@@ -24978,7 +24978,7 @@
                         }
                     },
                     "protected": false,
-                    "followers_count": 31582,
+                    "followers_count": 31585,
                     "friends_count": 805,
                     "listed_count": 198,
                     "created_at": "Thu Nov 21 01:44:21 +0000 2013",
@@ -25186,8 +25186,8 @@
                     }
                 },
                 "protected": false,
-                "followers_count": 6029,
-                "friends_count": 6626,
+                "followers_count": 6030,
+                "friends_count": 6627,
                 "listed_count": 269,
                 "created_at": "Fri Jan 16 18:05:04 +0000 2009",
                 "favourites_count": 11568,
@@ -25195,7 +25195,7 @@
                 "time_zone": null,
                 "geo_enabled": true,
                 "verified": false,
-                "statuses_count": 29081,
+                "statuses_count": 29080,
                 "lang": null,
                 "contributors_enabled": false,
                 "is_translator": false,
@@ -25293,7 +25293,7 @@
                     }
                 },
                 "protected": false,
-                "followers_count": 1045,
+                "followers_count": 1038,
                 "friends_count": 804,
                 "listed_count": 23,
                 "created_at": "Sat Jan 31 19:51:59 +0000 2009",
@@ -25783,7 +25783,7 @@
                         }
                     },
                     "protected": false,
-                    "followers_count": 31582,
+                    "followers_count": 31585,
                     "friends_count": 805,
                     "listed_count": 198,
                     "created_at": "Thu Nov 21 01:44:21 +0000 2013",
@@ -25899,7 +25899,7 @@
                 },
                 "protected": false,
                 "followers_count": 100,
-                "friends_count": 114,
+                "friends_count": 113,
                 "listed_count": 8,
                 "created_at": "Fri Jun 17 23:02:14 +0000 2011",
                 "favourites_count": 994,
@@ -26639,7 +26639,7 @@
                 },
                 "protected": false,
                 "followers_count": 9,
-                "friends_count": 910,
+                "friends_count": 909,
                 "listed_count": 0,
                 "created_at": "Mon Feb 17 13:20:34 +0000 2014",
                 "favourites_count": 771,
@@ -26868,7 +26868,7 @@
                         }
                     },
                     "protected": false,
-                    "followers_count": 31582,
+                    "followers_count": 31585,
                     "friends_count": 805,
                     "listed_count": 198,
                     "created_at": "Thu Nov 21 01:44:21 +0000 2013",
@@ -27354,7 +27354,7 @@
                         }
                     },
                     "protected": false,
-                    "followers_count": 31582,
+                    "followers_count": 31585,
                     "friends_count": 805,
                     "listed_count": 198,
                     "created_at": "Thu Nov 21 01:44:21 +0000 2013",
@@ -27481,7 +27481,7 @@
                 "time_zone": null,
                 "geo_enabled": true,
                 "verified": false,
-                "statuses_count": 2316,
+                "statuses_count": 2317,
                 "lang": null,
                 "contributors_enabled": false,
                 "is_translator": false,
@@ -27724,7 +27724,7 @@
                 "friends_count": 489,
                 "listed_count": 0,
                 "created_at": "Sat Feb 02 16:24:25 +0000 2013",
-                "favourites_count": 15959,
+                "favourites_count": 15960,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": false,
@@ -27951,7 +27951,7 @@
                         }
                     },
                     "protected": false,
-                    "followers_count": 31582,
+                    "followers_count": 31585,
                     "friends_count": 805,
                     "listed_count": 198,
                     "created_at": "Thu Nov 21 01:44:21 +0000 2013",
@@ -28070,7 +28070,7 @@
                 "friends_count": 312,
                 "listed_count": 5,
                 "created_at": "Wed Dec 09 02:45:36 +0000 2009",
-                "favourites_count": 9781,
+                "favourites_count": 9783,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": true,
@@ -28330,12 +28330,12 @@
                 "friends_count": 337,
                 "listed_count": 12,
                 "created_at": "Wed Jun 02 21:09:41 +0000 2010",
-                "favourites_count": 40026,
+                "favourites_count": 40033,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": true,
                 "verified": false,
-                "statuses_count": 97477,
+                "statuses_count": 97479,
                 "lang": null,
                 "contributors_enabled": false,
                 "is_translator": false,
@@ -28557,7 +28557,7 @@
                         }
                     },
                     "protected": false,
-                    "followers_count": 31582,
+                    "followers_count": 31585,
                     "friends_count": 805,
                     "listed_count": 198,
                     "created_at": "Thu Nov 21 01:44:21 +0000 2013",
@@ -28652,12 +28652,12 @@
                 "friends_count": 677,
                 "listed_count": 1,
                 "created_at": "Tue Feb 13 07:16:32 +0000 2018",
-                "favourites_count": 10289,
+                "favourites_count": 10291,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": false,
                 "verified": false,
-                "statuses_count": 8448,
+                "statuses_count": 8454,
                 "lang": null,
                 "contributors_enabled": false,
                 "is_translator": false,
@@ -28765,7 +28765,7 @@
                 },
                 "protected": false,
                 "followers_count": 216,
-                "friends_count": 159,
+                "friends_count": 158,
                 "listed_count": 19,
                 "created_at": "Sun Jul 19 23:02:19 +0000 2009",
                 "favourites_count": 2544,
@@ -29211,7 +29211,7 @@
                 },
                 "protected": false,
                 "followers_count": 10558,
-                "friends_count": 1798,
+                "friends_count": 1797,
                 "listed_count": 7,
                 "created_at": "Mon Feb 17 22:09:10 +0000 2014",
                 "favourites_count": 16566,
@@ -60572,6 +60572,838 @@
             "lang": "en"
         },
         {
+            "created_at": "Mon Mar 27 22:59:47 +0000 2023",
+            "id": 1640488815642177537,
+            "id_str": "1640488815642177537",
+            "text": "Arc is coming to iPhone, but it won\u2019t replace Safari yet, says CEO https://t.co/Ud00N6oKqB https://t.co/Uagb9KUwaO",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/Ud00N6oKqB",
+                        "expanded_url": "http://dlvr.it/SlZcQF",
+                        "display_url": "dlvr.it/SlZcQF",
+                        "indices": [
+                            67,
+                            90
+                        ]
+                    }
+                ],
+                "media": [
+                    {
+                        "id": 1640488813805080576,
+                        "id_str": "1640488813805080576",
+                        "indices": [
+                            91,
+                            114
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/FsQv4mzakAA6aW7.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/FsQv4mzakAA6aW7.jpg",
+                        "url": "https://t.co/Uagb9KUwaO",
+                        "display_url": "pic.twitter.com/Uagb9KUwaO",
+                        "expanded_url": "https://twitter.com/EODoguslu/status/1640488815642177537/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "small": {
+                                "w": 680,
+                                "h": 356,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 628,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1200,
+                                "h": 628,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1640488813805080576,
+                        "id_str": "1640488813805080576",
+                        "indices": [
+                            91,
+                            114
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/FsQv4mzakAA6aW7.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/FsQv4mzakAA6aW7.jpg",
+                        "url": "https://t.co/Uagb9KUwaO",
+                        "display_url": "pic.twitter.com/Uagb9KUwaO",
+                        "expanded_url": "https://twitter.com/EODoguslu/status/1640488815642177537/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "small": {
+                                "w": 680,
+                                "h": 356,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 628,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1200,
+                                "h": 628,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1207989212408143872,
+                "id_str": "1207989212408143872",
+                "name": "Ege Onat Doguslu",
+                "screen_name": "EODoguslu",
+                "location": "Valencia",
+                "description": "Food Engineer, #MBA Candidate Management Intern at @AktrionAuto, Data Science, #Marketing, #Finance, #Python ! Swim, Bike, Run! #IronMan1406",
+                "url": "https://t.co/2AnhOvfu3v",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/2AnhOvfu3v",
+                                "expanded_url": "https://www.linkedin.com/in/egeonatdoguslu/",
+                                "display_url": "linkedin.com/in/egeonatdogu\u2026",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 18,
+                "friends_count": 20,
+                "listed_count": 1,
+                "created_at": "Fri Dec 20 11:41:06 +0000 2019",
+                "favourites_count": 305,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 2979,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1208008105579237377/RKlobfKb_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1208008105579237377/RKlobfKb_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1207989212408143872/1576843246",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Mon Mar 27 22:56:53 +0000 2023",
+            "id": 1640488086181236743,
+            "id_str": "1640488086181236743",
+            "text": "Arc is coming to iPhone, but it won\u2019t replace Safari yet, says CEO https://t.co/eR9FswBklv",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/eR9FswBklv",
+                        "expanded_url": "https://www.theverge.com/2023/3/27/23658863/arc-browser-iphone-ios-companion-app-mac",
+                        "display_url": "theverge.com/2023/3/27/2365\u2026",
+                        "indices": [
+                            67,
+                            90
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 542013454,
+                "id_str": "542013454",
+                "name": "F\u00e1bio Carvalho",
+                "screen_name": "fmrgcarvalho",
+                "location": "Lisbon, Portugal",
+                "description": "Software Engineer \ud83d\udc68\ud83c\udffb\u200d\ud83d\udcbb Full Stack Developer \u2615\ufe0fExplorer \ud83c\udf0f Nature Lovers \ud83d\udcf8 Traveling the \ud83d\uddfa Jack Russell fan \ud83d\udc3e\ud83d\udc36",
+                "url": "https://t.co/TXlgZoF0Zj",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/TXlgZoF0Zj",
+                                "expanded_url": "https://www.linkedin.com/in/fmrgcarvalho/",
+                                "display_url": "linkedin.com/in/fmrgcarvalh\u2026",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 1063,
+                "friends_count": 4482,
+                "listed_count": 26,
+                "created_at": "Sat Mar 31 21:53:57 +0000 2012",
+                "favourites_count": 182,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 79295,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "131516",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1170610436615671811/bMM2fZ00_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1170610436615671811/bMM2fZ00_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/542013454/1568065746",
+                "profile_link_color": "ABB8C2",
+                "profile_sidebar_border_color": "EEEEEE",
+                "profile_sidebar_fill_color": "EFEFEF",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Mon Mar 27 22:53:42 +0000 2023",
+            "id": 1640487287673724930,
+            "id_str": "1640487287673724930",
+            "text": "Arc is coming to iPhone, but it won\u2019t replace Safari yet, says CEO https://t.co/zxGUa5Arhd",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/zxGUa5Arhd",
+                        "expanded_url": "https://ift.tt/3LUZ5Yw",
+                        "display_url": "ift.tt/3LUZ5Yw",
+                        "indices": [
+                            67,
+                            90
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1532328791632228352,
+                "id_str": "1532328791632228352",
+                "name": "Brian Ghannam",
+                "screen_name": "brian_ghannam",
+                "location": "Atlanta, Georgia",
+                "description": "Brian Ghannam is a seasoned sales manager & business developer. With nearly three decades of experience, Brian has consistently surpassed all leadership goals.",
+                "url": "https://t.co/vwr8kaKUv3",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/vwr8kaKUv3",
+                                "expanded_url": "https://brianghannam.com/",
+                                "display_url": "brianghannam.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 28,
+                "friends_count": 50,
+                "listed_count": 0,
+                "created_at": "Thu Jun 02 11:50:45 +0000 2022",
+                "favourites_count": 15,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 131,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1616484113367572480/dXeBurAJ_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1616484113367572480/dXeBurAJ_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1532328791632228352/1655414004",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Mon Mar 27 22:49:52 +0000 2023",
+            "id": 1640486320853196801,
+            "id_str": "1640486320853196801",
+            "text": "@containshit Arc browser is a totally reimagined experience for browsing the web on Mac, it\u2019s brilliant! And now it\u2026 https://t.co/2ZbuiyQQ9g",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "containshit",
+                        "name": "disciple of the witness",
+                        "id": 877510315,
+                        "id_str": "877510315",
+                        "indices": [
+                            0,
+                            12
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/2ZbuiyQQ9g",
+                        "expanded_url": "https://twitter.com/i/web/status/1640486320853196801",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": 1640486050949636099,
+            "in_reply_to_status_id_str": "1640486050949636099",
+            "in_reply_to_user_id": 877510315,
+            "in_reply_to_user_id_str": "877510315",
+            "in_reply_to_screen_name": "containshit",
+            "user": {
+                "id": 4838993233,
+                "id_str": "4838993233",
+                "name": "Greysen Paige Cohen",
+                "screen_name": "greysen_paige",
+                "location": "NY \u27a1\ufe0f ATX \u27a1\ufe0f SF \u27a1\ufe0f FL \u27a1\ufe0f \ud83c\udfe1 NY",
+                "description": "\u2022 \ud83c\udff3\ufe0f\u200d\ud83c\udf08 \u2022 \u2721\ufe0f \u2022 They/He \u2022 Executive @ Firebrand \ud83d\udcbc \u2022 Formerly @ Apple \uf8ff\ud83d\udcf1 & Google \ud83d\udd0e \u2022 Eco-Warrior \ud83c\udf0d \u2022 Human Rights Advocate \u2022",
+                "url": "https://t.co/rzF07xS6ra",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/rzF07xS6ra",
+                                "expanded_url": "https://linktr.ee/greysenpaige",
+                                "display_url": "linktr.ee/greysenpaige",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 386,
+                "friends_count": 652,
+                "listed_count": 7,
+                "created_at": "Sun Jan 31 08:11:32 +0000 2016",
+                "favourites_count": 86180,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 11565,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1338352888389775362/awwnzOq5_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1338352888389775362/awwnzOq5_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/4838993233/1663738890",
+                "profile_link_color": "E81C4F",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Mon Mar 27 22:48:10 +0000 2023",
+            "id": 1640485894946791424,
+            "id_str": "1640485894946791424",
+            "text": "#RaviVisvesvarayaSharadaPrasad  https://t.co/syLIpSJruX Arc is coming to iPhone, but it won\u2019t replace Safari yet, says CEO",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "RaviVisvesvarayaSharadaPrasad",
+                        "indices": [
+                            0,
+                            30
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/syLIpSJruX",
+                        "expanded_url": "https://www.theverge.com/2023/3/27/23658863/arc-browser-iphone-ios-companion-app-mac",
+                        "display_url": "theverge.com/2023/3/27/2365\u2026",
+                        "indices": [
+                            32,
+                            55
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 13584132,
+                "id_str": "13584132",
+                "name": "#RaviVisvesvarayaSharadaPrasad #Telecom #InfoTech",
+                "screen_name": "rvp",
+                "location": "Junga, Shimla Dist, HP, India",
+                "description": "Master of Science @cmu_ece @CarnegieMellon 1986 | Master of Engg @cmu_mse @CMUEngineering 1985 | MS Physics @IITKanpur 1982 | Research Fellow @cmu_robotics 1985",
+                "url": "https://t.co/CmQUZon5VB",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/CmQUZon5VB",
+                                "expanded_url": "https://youtube.com/@rp60",
+                                "display_url": "youtube.com/@rp60",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 5324,
+                "friends_count": 5698,
+                "listed_count": 1065,
+                "created_at": "Sun Feb 17 13:39:41 +0000 2008",
+                "favourites_count": 29330,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 956302,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "EDECE9",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1291068724846268416/6ixTrow0_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1291068724846268416/6ixTrow0_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/13584132/1649224807",
+                "profile_link_color": "088253",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "E3E2DE",
+                "profile_text_color": "634047",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "regular",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Mon Mar 27 22:46:39 +0000 2023",
+            "id": 1640485511969079299,
+            "id_str": "1640485511969079299",
+            "text": "@charlierward the built in screenshot tool on the arc browser by @browsercompany  is amazing, as is the rest of the\u2026 https://t.co/lcSxG2eEBm",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "charlierward",
+                        "name": "Charlie Ward \ud83c\udf5c (ramenclub.so)",
+                        "id": 20865186,
+                        "id_str": "20865186",
+                        "indices": [
+                            0,
+                            13
+                        ]
+                    },
+                    {
+                        "screen_name": "browsercompany",
+                        "name": "The Browser Company",
+                        "id": 1224730221557043202,
+                        "id_str": "1224730221557043202",
+                        "indices": [
+                            65,
+                            80
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/lcSxG2eEBm",
+                        "expanded_url": "https://twitter.com/i/web/status/1640485511969079299",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": 1640478401554161670,
+            "in_reply_to_status_id_str": "1640478401554161670",
+            "in_reply_to_user_id": 20865186,
+            "in_reply_to_user_id_str": "20865186",
+            "in_reply_to_screen_name": "charlierward",
+            "user": {
+                "id": 312788581,
+                "id_str": "312788581",
+                "name": "kempsterrrr.eth / lens | \ud83e\udec2 \ud83e\udd87\ud83d\udd0a",
+                "screen_name": "kempsterrrr",
+                "location": "London, England",
+                "description": "Ops Lead @developer_dao | Building web3 with frens \ud83e\udd1d\n\nUnlocking new ways for DAOs to reward their contributors @getP3RKS \ud83e\udd0c",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 1914,
+                "friends_count": 2057,
+                "listed_count": 71,
+                "created_at": "Tue Jun 07 17:29:30 +0000 2011",
+                "favourites_count": 6185,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 8172,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1615707214773092356/6IErcJu9_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1615707214773092356/6IErcJu9_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/312788581/1679776598",
+                "profile_link_color": "981CEB",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Mon Mar 27 22:45:35 +0000 2023",
+            "id": 1640485244917673985,
+            "id_str": "1640485244917673985",
+            "text": "Arc is coming to iPhone, but it won\u2019t replace Safari yet, says CEO https://t.co/fFyYEjHeWb",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/fFyYEjHeWb",
+                        "expanded_url": "https://www.theverge.com/2023/3/27/23658863/arc-browser-iphone-ios-companion-app-mac",
+                        "display_url": "theverge.com/2023/3/27/2365\u2026",
+                        "indices": [
+                            67,
+                            90
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 4691850570,
+                "id_str": "4691850570",
+                "name": "(^._.^)\uff89",
+                "screen_name": "LiangPupu",
+                "location": "Frankfurt am Main, Deutschland",
+                "description": "\ud83d\udc15\ud83c\udfa1\ud83c\udfa0\ud83c\udf75\ud83c\udf3b\ud83c\udf08\ud83c\udf0c\ud83e\udd84",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 341,
+                "friends_count": 42,
+                "listed_count": 5,
+                "created_at": "Fri Jan 01 21:46:52 +0000 2016",
+                "favourites_count": 29393,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 72625,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1451904999194349571/qXfotkLZ_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1451904999194349571/qXfotkLZ_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/4691850570/1610543754",
+                "profile_link_color": "7FDBB6",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        {
             "created_at": "Mon Mar 27 22:06:01 +0000 2023",
             "id": 1640475284657807361,
             "id_str": "1640475284657807361",
@@ -60710,11 +61542,11 @@
                     }
                 },
                 "protected": false,
-                "followers_count": 4181,
+                "followers_count": 4182,
                 "friends_count": 688,
                 "listed_count": 22,
                 "created_at": "Tue Nov 01 23:55:01 +0000 2016",
-                "favourites_count": 79068,
+                "favourites_count": 79067,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": true,
@@ -60751,7 +61583,7 @@
             "contributors": null,
             "is_quote_status": false,
             "retweet_count": 0,
-            "favorite_count": 1,
+            "favorite_count": 2,
             "favorited": false,
             "retweeted": false,
             "possibly_sensitive": false,
@@ -60803,8 +61635,8 @@
                     }
                 },
                 "protected": false,
-                "followers_count": 2836,
-                "friends_count": 3846,
+                "followers_count": 2837,
+                "friends_count": 3847,
                 "listed_count": 51,
                 "created_at": "Thu Jul 24 06:30:10 +0000 2014",
                 "favourites_count": 4711,
@@ -60812,7 +61644,7 @@
                 "time_zone": null,
                 "geo_enabled": true,
                 "verified": false,
-                "statuses_count": 319516,
+                "statuses_count": 319517,
                 "lang": null,
                 "contributors_enabled": false,
                 "is_translator": false,
@@ -61179,9 +62011,9 @@
                         }
                     },
                     "protected": false,
-                    "followers_count": 3045786,
+                    "followers_count": 3046650,
                     "friends_count": 187,
-                    "listed_count": 37909,
+                    "listed_count": 37907,
                     "created_at": "Fri Apr 01 19:54:22 +0000 2011",
                     "favourites_count": 1443,
                     "utc_offset": null,
@@ -61220,7 +62052,7 @@
                 "contributors": null,
                 "is_quote_status": false,
                 "retweet_count": 10,
-                "favorite_count": 59,
+                "favorite_count": 65,
                 "favorited": false,
                 "retweeted": false,
                 "possibly_sensitive": false,
@@ -61563,9 +62395,9 @@
                         }
                     },
                     "protected": false,
-                    "followers_count": 3045786,
+                    "followers_count": 3046650,
                     "friends_count": 187,
-                    "listed_count": 37909,
+                    "listed_count": 37907,
                     "created_at": "Fri Apr 01 19:54:22 +0000 2011",
                     "favourites_count": 1443,
                     "utc_offset": null,
@@ -61604,7 +62436,7 @@
                 "contributors": null,
                 "is_quote_status": false,
                 "retweet_count": 10,
-                "favorite_count": 59,
+                "favorite_count": 65,
                 "favorited": false,
                 "retweeted": false,
                 "possibly_sensitive": false,
@@ -61757,15 +62589,15 @@
                 },
                 "protected": false,
                 "followers_count": 190,
-                "friends_count": 323,
-                "listed_count": 6,
+                "friends_count": 324,
+                "listed_count": 3,
                 "created_at": "Sat Nov 21 02:06:10 +0000 2015",
                 "favourites_count": 5,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": true,
                 "verified": false,
-                "statuses_count": 13097,
+                "statuses_count": 13098,
                 "lang": null,
                 "contributors_enabled": false,
                 "is_translator": false,
@@ -61960,7 +62792,7 @@
                 },
                 "protected": false,
                 "followers_count": 81,
-                "friends_count": 551,
+                "friends_count": 550,
                 "listed_count": 0,
                 "created_at": "Tue Jul 02 14:59:56 +0000 2013",
                 "favourites_count": 19944,
@@ -62145,9 +62977,9 @@
                         }
                     },
                     "protected": false,
-                    "followers_count": 3045786,
+                    "followers_count": 3046650,
                     "friends_count": 187,
-                    "listed_count": 37909,
+                    "listed_count": 37907,
                     "created_at": "Fri Apr 01 19:54:22 +0000 2011",
                     "favourites_count": 1443,
                     "utc_offset": null,
@@ -62186,7 +63018,7 @@
                 "contributors": null,
                 "is_quote_status": false,
                 "retweet_count": 10,
-                "favorite_count": 59,
+                "favorite_count": 65,
                 "favorited": false,
                 "retweeted": false,
                 "possibly_sensitive": false,
@@ -62528,9 +63360,9 @@
                         }
                     },
                     "protected": false,
-                    "followers_count": 3045786,
+                    "followers_count": 3046650,
                     "friends_count": 187,
-                    "listed_count": 37909,
+                    "listed_count": 37907,
                     "created_at": "Fri Apr 01 19:54:22 +0000 2011",
                     "favourites_count": 1443,
                     "utc_offset": null,
@@ -62569,7 +63401,7 @@
                 "contributors": null,
                 "is_quote_status": false,
                 "retweet_count": 10,
-                "favorite_count": 59,
+                "favorite_count": 65,
                 "favorited": false,
                 "retweeted": false,
                 "possibly_sensitive": false,
@@ -62743,12 +63575,12 @@
                 "friends_count": 1199,
                 "listed_count": 6,
                 "created_at": "Sat Apr 24 07:47:48 +0000 2021",
-                "favourites_count": 151286,
+                "favourites_count": 151301,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": false,
                 "verified": false,
-                "statuses_count": 151413,
+                "statuses_count": 151427,
                 "lang": null,
                 "contributors_enabled": false,
                 "is_translator": false,
@@ -62925,9 +63757,9 @@
                         }
                     },
                     "protected": false,
-                    "followers_count": 3045786,
+                    "followers_count": 3046650,
                     "friends_count": 187,
-                    "listed_count": 37909,
+                    "listed_count": 37907,
                     "created_at": "Fri Apr 01 19:54:22 +0000 2011",
                     "favourites_count": 1443,
                     "utc_offset": null,
@@ -62966,7 +63798,7 @@
                 "contributors": null,
                 "is_quote_status": false,
                 "retweet_count": 10,
-                "favorite_count": 59,
+                "favorite_count": 65,
                 "favorited": false,
                 "retweeted": false,
                 "possibly_sensitive": false,
@@ -63243,7 +64075,7 @@
                 },
                 "protected": false,
                 "followers_count": 1719,
-                "friends_count": 500,
+                "friends_count": 499,
                 "listed_count": 9,
                 "created_at": "Sat Jun 18 08:56:44 +0000 2016",
                 "favourites_count": 2454,
@@ -63251,7 +64083,7 @@
                 "time_zone": null,
                 "geo_enabled": true,
                 "verified": false,
-                "statuses_count": 7627,
+                "statuses_count": 7628,
                 "lang": null,
                 "contributors_enabled": false,
                 "is_translator": false,
@@ -63428,9 +64260,9 @@
                         }
                     },
                     "protected": false,
-                    "followers_count": 3045786,
+                    "followers_count": 3046650,
                     "friends_count": 187,
-                    "listed_count": 37909,
+                    "listed_count": 37907,
                     "created_at": "Fri Apr 01 19:54:22 +0000 2011",
                     "favourites_count": 1443,
                     "utc_offset": null,
@@ -63469,7 +64301,7 @@
                 "contributors": null,
                 "is_quote_status": false,
                 "retweet_count": 10,
-                "favorite_count": 59,
+                "favorite_count": 65,
                 "favorited": false,
                 "retweeted": false,
                 "possibly_sensitive": false,
@@ -63946,9 +64778,9 @@
                         }
                     },
                     "protected": false,
-                    "followers_count": 3045786,
+                    "followers_count": 3046650,
                     "friends_count": 187,
-                    "listed_count": 37909,
+                    "listed_count": 37907,
                     "created_at": "Fri Apr 01 19:54:22 +0000 2011",
                     "favourites_count": 1443,
                     "utc_offset": null,
@@ -63987,7 +64819,7 @@
                 "contributors": null,
                 "is_quote_status": false,
                 "retweet_count": 10,
-                "favorite_count": 59,
+                "favorite_count": 65,
                 "favorited": false,
                 "retweeted": false,
                 "possibly_sensitive": false,
@@ -64070,7 +64902,7 @@
                 "time_zone": null,
                 "geo_enabled": false,
                 "verified": false,
-                "statuses_count": 767,
+                "statuses_count": 766,
                 "lang": null,
                 "contributors_enabled": false,
                 "is_translator": false,
@@ -64459,9 +65291,9 @@
                         }
                     },
                     "protected": false,
-                    "followers_count": 3045786,
+                    "followers_count": 3046650,
                     "friends_count": 187,
-                    "listed_count": 37909,
+                    "listed_count": 37907,
                     "created_at": "Fri Apr 01 19:54:22 +0000 2011",
                     "favourites_count": 1443,
                     "utc_offset": null,
@@ -64500,7 +65332,7 @@
                 "contributors": null,
                 "is_quote_status": false,
                 "retweet_count": 10,
-                "favorite_count": 59,
+                "favorite_count": 65,
                 "favorited": false,
                 "retweeted": false,
                 "possibly_sensitive": false,
@@ -64967,9 +65799,9 @@
                         }
                     },
                     "protected": false,
-                    "followers_count": 3045786,
+                    "followers_count": 3046650,
                     "friends_count": 187,
-                    "listed_count": 37909,
+                    "listed_count": 37907,
                     "created_at": "Fri Apr 01 19:54:22 +0000 2011",
                     "favourites_count": 1443,
                     "utc_offset": null,
@@ -65008,7 +65840,7 @@
                 "contributors": null,
                 "is_quote_status": false,
                 "retweet_count": 10,
-                "favorite_count": 59,
+                "favorite_count": 65,
                 "favorited": false,
                 "retweeted": false,
                 "possibly_sensitive": false,
@@ -65364,9 +66196,9 @@
                         }
                     },
                     "protected": false,
-                    "followers_count": 3045786,
+                    "followers_count": 3046650,
                     "friends_count": 187,
-                    "listed_count": 37909,
+                    "listed_count": 37907,
                     "created_at": "Fri Apr 01 19:54:22 +0000 2011",
                     "favourites_count": 1443,
                     "utc_offset": null,
@@ -65405,7 +66237,7 @@
                 "contributors": null,
                 "is_quote_status": false,
                 "retweet_count": 10,
-                "favorite_count": 59,
+                "favorite_count": 65,
                 "favorited": false,
                 "retweeted": false,
                 "possibly_sensitive": false,
@@ -65566,9 +66398,9 @@
                     }
                 },
                 "protected": false,
-                "followers_count": 3045786,
+                "followers_count": 3046650,
                 "friends_count": 187,
-                "listed_count": 37909,
+                "listed_count": 37907,
                 "created_at": "Fri Apr 01 19:54:22 +0000 2011",
                 "favourites_count": 1443,
                 "utc_offset": null,
@@ -65607,7 +66439,7 @@
             "contributors": null,
             "is_quote_status": false,
             "retweet_count": 10,
-            "favorite_count": 59,
+            "favorite_count": 65,
             "favorited": false,
             "retweeted": false,
             "possibly_sensitive": false,
@@ -65688,15 +66520,15 @@
                 },
                 "protected": false,
                 "followers_count": 17,
-                "friends_count": 293,
+                "friends_count": 294,
                 "listed_count": 0,
                 "created_at": "Mon Jul 06 10:43:16 +0000 2020",
-                "favourites_count": 567,
+                "favourites_count": 572,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": false,
                 "verified": false,
-                "statuses_count": 494,
+                "statuses_count": 495,
                 "lang": null,
                 "contributors_enabled": false,
                 "is_translator": false,
@@ -65869,7 +66701,7 @@
                 "time_zone": null,
                 "geo_enabled": true,
                 "verified": false,
-                "statuses_count": 1238,
+                "statuses_count": 1239,
                 "lang": null,
                 "contributors_enabled": false,
                 "is_translator": false,
@@ -65994,7 +66826,7 @@
                 "time_zone": null,
                 "geo_enabled": false,
                 "verified": false,
-                "statuses_count": 3519,
+                "statuses_count": 3522,
                 "lang": null,
                 "contributors_enabled": false,
                 "is_translator": false,
@@ -66323,8 +67155,8 @@
                     }
                 },
                 "protected": false,
-                "followers_count": 12007,
-                "friends_count": 3116,
+                "followers_count": 12004,
+                "friends_count": 3117,
                 "listed_count": 63,
                 "created_at": "Sun Aug 01 12:49:11 +0000 2021",
                 "favourites_count": 2194,
@@ -66332,7 +67164,7 @@
                 "time_zone": null,
                 "geo_enabled": false,
                 "verified": false,
-                "statuses_count": 162118,
+                "statuses_count": 162125,
                 "lang": null,
                 "contributors_enabled": false,
                 "is_translator": false,
@@ -66747,7 +67579,7 @@
                     }
                 },
                 "protected": false,
-                "followers_count": 577,
+                "followers_count": 578,
                 "friends_count": 542,
                 "listed_count": 27,
                 "created_at": "Mon Jul 26 20:57:13 +0000 2010",
@@ -66892,7 +67724,7 @@
             "contributors": null,
             "is_quote_status": false,
             "retweet_count": 0,
-            "favorite_count": 1,
+            "favorite_count": 2,
             "favorited": false,
             "retweeted": false,
             "lang": "en"
@@ -66945,15 +67777,15 @@
                 },
                 "protected": false,
                 "followers_count": 4587,
-                "friends_count": 163,
+                "friends_count": 162,
                 "listed_count": 9,
                 "created_at": "Thu Mar 16 23:54:48 +0000 2017",
-                "favourites_count": 33669,
+                "favourites_count": 33675,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": true,
                 "verified": false,
-                "statuses_count": 27436,
+                "statuses_count": 27440,
                 "lang": null,
                 "contributors_enabled": false,
                 "is_translator": false,
@@ -67054,7 +67886,7 @@
                 "friends_count": 136,
                 "listed_count": 1,
                 "created_at": "Sat May 23 15:11:44 +0000 2020",
-                "favourites_count": 141,
+                "favourites_count": 143,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": false,
@@ -67281,7 +68113,7 @@
                 },
                 "protected": false,
                 "followers_count": 127,
-                "friends_count": 1202,
+                "friends_count": 1203,
                 "listed_count": 1,
                 "created_at": "Mon Sep 05 10:53:43 +0000 2016",
                 "favourites_count": 5009,
@@ -67503,7 +68335,7 @@
                 "friends_count": 1490,
                 "listed_count": 1,
                 "created_at": "Thu Apr 23 16:01:18 +0000 2015",
-                "favourites_count": 60991,
+                "favourites_count": 61018,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": true,
@@ -67747,7 +68579,7 @@
                 },
                 "protected": false,
                 "followers_count": 10,
-                "friends_count": 437,
+                "friends_count": 439,
                 "listed_count": 0,
                 "created_at": "Sat Mar 21 21:03:26 +0000 2020",
                 "favourites_count": 2723,
@@ -67977,7 +68809,7 @@
                         }
                     },
                     "protected": false,
-                    "followers_count": 31582,
+                    "followers_count": 31585,
                     "friends_count": 805,
                     "listed_count": 198,
                     "created_at": "Thu Nov 21 01:44:21 +0000 2013",
@@ -68102,7 +68934,7 @@
                     }
                 },
                 "protected": false,
-                "followers_count": 19008,
+                "followers_count": 19009,
                 "friends_count": 90,
                 "listed_count": 252,
                 "created_at": "Sat Jan 17 20:41:40 +0000 2015",
@@ -68186,9 +69018,9 @@
                 "protected": false,
                 "followers_count": 869,
                 "friends_count": 709,
-                "listed_count": 3,
+                "listed_count": 2,
                 "created_at": "Thu Mar 05 05:55:48 +0000 2015",
-                "favourites_count": 116114,
+                "favourites_count": 116107,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": true,
@@ -68413,7 +69245,7 @@
                 },
                 "protected": false,
                 "followers_count": 155,
-                "friends_count": 1081,
+                "friends_count": 1080,
                 "listed_count": 7,
                 "created_at": "Wed Mar 04 14:55:23 +0000 2015",
                 "favourites_count": 54943,
@@ -68891,7 +69723,7 @@
                         }
                     },
                     "protected": false,
-                    "followers_count": 31582,
+                    "followers_count": 31585,
                     "friends_count": 805,
                     "listed_count": 198,
                     "created_at": "Thu Nov 21 01:44:21 +0000 2013",
@@ -69004,7 +69836,7 @@
                 "friends_count": 122,
                 "listed_count": 0,
                 "created_at": "Mon Oct 07 15:56:35 +0000 2019",
-                "favourites_count": 829,
+                "favourites_count": 830,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": false,
@@ -69099,7 +69931,7 @@
                 "friends_count": 656,
                 "listed_count": 48,
                 "created_at": "Sun Apr 20 01:53:53 +0000 2008",
-                "favourites_count": 19664,
+                "favourites_count": 19665,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": true,
@@ -69212,10 +70044,10 @@
                 },
                 "protected": false,
                 "followers_count": 298,
-                "friends_count": 1481,
+                "friends_count": 1482,
                 "listed_count": 9,
                 "created_at": "Wed Jun 03 15:24:41 +0000 2020",
-                "favourites_count": 29905,
+                "favourites_count": 29910,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": true,
@@ -69338,11 +70170,11 @@
                     }
                 },
                 "protected": false,
-                "followers_count": 15384,
+                "followers_count": 15387,
                 "friends_count": 1601,
                 "listed_count": 141,
                 "created_at": "Tue Jan 07 18:21:41 +0000 2020",
-                "favourites_count": 20125,
+                "favourites_count": 20126,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": true,
@@ -69379,7 +70211,7 @@
             "contributors": null,
             "is_quote_status": false,
             "retweet_count": 0,
-            "favorite_count": 41,
+            "favorite_count": 42,
             "favorited": false,
             "retweeted": false,
             "lang": "pt"
@@ -69549,7 +70381,7 @@
                 "protected": false,
                 "followers_count": 635,
                 "friends_count": 865,
-                "listed_count": 2,
+                "listed_count": 1,
                 "created_at": "Mon Apr 29 13:43:25 +0000 2013",
                 "favourites_count": 11494,
                 "utc_offset": null,
@@ -70641,11 +71473,11 @@
                         }
                     },
                     "protected": false,
-                    "followers_count": 68503,
+                    "followers_count": 68516,
                     "friends_count": 0,
                     "listed_count": 518,
                     "created_at": "Tue Feb 04 16:23:41 +0000 2020",
-                    "favourites_count": 838,
+                    "favourites_count": 841,
                     "utc_offset": null,
                     "time_zone": null,
                     "geo_enabled": false,
@@ -70960,7 +71792,7 @@
                 "friends_count": 1211,
                 "listed_count": 52,
                 "created_at": "Wed Jan 23 08:16:42 +0000 2008",
-                "favourites_count": 3863,
+                "favourites_count": 3864,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": true,
