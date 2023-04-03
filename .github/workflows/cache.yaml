@@ -1,7 +1,7 @@
 name: Cache Love Arc Tweets
 on:
   schedule:
-    - cron: '*/30 * * * *'
+    - cron: '55 */3 * * *'
 
 jobs:
   cache-tweets:
