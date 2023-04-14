@@ -40,6 +40,7 @@ if __name__ == "__main__":
                     data["statuses"] = list(
                         {v["id"]: v for v in data["statuses"]}.values()
                     )
+                    data = data[:100] if len(data) > 100 else pass
                     data["statuses"].sort(key=lambda x: x["created_at"], reverse=True)
 
                 else:
